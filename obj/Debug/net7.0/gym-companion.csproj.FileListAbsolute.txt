@@ -1,0 +1,14 @@
+C:\Users\lino\Projetos_Programação\gym-companion\bin\Debug\net7.0\gym-companion.exe
+C:\Users\lino\Projetos_Programação\gym-companion\bin\Debug\net7.0\gym-companion.deps.json
+C:\Users\lino\Projetos_Programação\gym-companion\bin\Debug\net7.0\gym-companion.runtimeconfig.json
+C:\Users\lino\Projetos_Programação\gym-companion\bin\Debug\net7.0\gym-companion.dll
+C:\Users\lino\Projetos_Programação\gym-companion\bin\Debug\net7.0\gym-companion.pdb
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\gym-companion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\gym-companion.AssemblyInfoInputs.cache
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\gym-companion.AssemblyInfo.cs
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\gym-companion.csproj.CoreCompileInputs.cache
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\gym-companion.dll
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\refint\gym-companion.dll
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\gym-companion.pdb
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\gym-companion.genruntimeconfig.cache
+C:\Users\lino\Projetos_Programação\gym-companion\obj\Debug\net7.0\ref\gym-companion.dll
