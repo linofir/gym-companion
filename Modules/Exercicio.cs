@@ -1,16 +1,64 @@
+using System.Text.Json;
+using System.Text.Json.Serialization;
+
 namespace GymCompanion.Modules;
 
 class Exercicio
 {
-    public Exercicio(string nome, string grupoMuscular )
-    {
-        Nome = nome;
-        GrupoMuscular = grupoMuscular;
-    }
+
+    [JsonPropertyName("name")]
     public string? Nome { get; set; }
-    public string? GrupoMuscular { get; set; }
+
+    [JsonPropertyName("primaryMuscles")]
+    public List<String>? GrupoMuscular { get; set; }
+
+    [JsonPropertyName("secondaryMuscles")]
+    public List<string>? MusculoSecundario { get; set; }
+
+    [JsonPropertyName("level")]
+    public string? Nivel { get; set; }
+
+    [JsonPropertyName("force")]
     public string? Tipo { get; set; }
-    public string? Descricao { get => $"O {Nome} pertence ao grupo {GrupoMuscular}"; }
+
+    [JsonPropertyName("mechanic")]
+    public string? Mecanica { get; set; }
+
+    [JsonPropertyName("strength")]
+    public string? Categoria { get; set; }
+
+    [JsonPropertyName("instructions")]
+    public List<string>? Instrucao { get; set; }
+
+    public List<string>? Imagens { get; set; }
+
+    public string? Descricao 
+    { 
+        get
+        {
+            foreach (var musc in GrupoMuscular!)
+            {
+                return $"O {Nome} pertence ao grupo {musc}"; 
+            }
+            return $"O {Nome} pertence ao grupo (vazio)";
+
+        }
+    
+    }
+
+    public string? DescricaoImg 
+    { 
+        get
+        {
+            // foreach (var img in Imagens!)
+            // {
+            //     return $"O {Nome} tem as imagens: {img}"; 
+            // }
+            return $"O {Nome} tem as imagens:\n {Imagens![0]}\n {Imagens[1]} ";
+
+        }
+    
+    }
 
     
 }

@@ -5,3 +5,7 @@
 ## Linguagens
 * c# 
 
+## ToDo
+
+* Extract data to create a DB.
+* Extract images.
