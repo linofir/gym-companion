@@ -1,0 +1,27 @@
+{
+  "id": "401bf409-c77b-4eba-a2a9-22867dc4ad15",
+  "nome": "Kettlebell Dead Clean",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean the kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.",
+    "Lower the kettlebell, keeping the hamstrings loaded by keeping your back straight and your butt out."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Dead_Clean\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Dead_Clean\\images\\1.jpg"
+  ]
+}

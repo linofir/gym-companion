@@ -1,3 +1,5 @@
+using System.Text.Json;
+
 namespace GymCompanion.Modules;
 
 class Exercicios
@@ -21,6 +23,7 @@ class Exercicios
         {
             listaExercicios.Add(exercicioSelecionado);
             //Console.WriteLine($"{exercicioSelecionado!.Nome} foi adicionado\n");
+            exercicioSelecionado.Id = Guid.NewGuid();
         }
 
         
@@ -54,5 +57,33 @@ class Exercicios
     public void AddImagesPath(List<string> imagesPath, Exercicio exercicio)
     {
         exercicio.Imagens = imagesPath;
+
+    }
+
+    public void CreateJSON(Exercicio exercicio, string folderDesinationPath)
+    {
+        string json = JsonSerializer.Serialize(new
+        {
+            id = exercicio.Id,
+            nome = exercicio.Nome,
+            grupoMuscular = exercicio.GrupoMuscular,
+            grupoMuscularSecundario = exercicio.GrupoMuscularSecundario,
+            nivel = exercicio.Nivel,
+            tipo = exercicio.Tipo,
+            mecanica = exercicio.Mecanica,
+            categoria = exercicio.Categoria,
+            instrucoes = exercicio.Instrucao,
+            imagens =  exercicio.Imagens
+        },
+        new JsonSerializerOptions
+        {
+            WriteIndented = true
+        }
+        );
+        string fileName = "exercicio.json";
+        string fullDesinationPath = Path.Combine(folderDesinationPath, fileName);
+
+        File.WriteAllText(fullDesinationPath, json);
+        
     }
 }

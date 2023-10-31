@@ -1,0 +1,23 @@
+{
+  "id": "8443f643-9261-4ee6-81ed-6687fa153208",
+  "nome": "One-Arm Kettlebell Para Press",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "triceps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward. This will be your starting position.",
+    "Hold the kettlebell with the elbow out to the side, and press it up and out until it is locked out overhead.",
+    "Lower the kettlebell back to your shoulder under control and repeat. Make sure to contract your lat, butt, and stomach forcefully for added stability and strength."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One-Arm_Kettlebell_Para_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One-Arm_Kettlebell_Para_Press\\images\\1.jpg"
+  ]
+}

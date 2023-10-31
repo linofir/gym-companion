@@ -1,0 +1,29 @@
+{
+  "id": "8b9c78bd-2cb4-4746-ba8c-13a92642f752",
+  "nome": "Hang Clean",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
+    "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears.",
+    "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Continue until you have risen to a standing position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Hang_Clean\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Hang_Clean\\images\\1.jpg"
+  ]
+}

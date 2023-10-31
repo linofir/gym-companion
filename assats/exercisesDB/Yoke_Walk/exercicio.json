@@ -1,0 +1,29 @@
+{
+  "id": "7c68c826-1cc1-46a1-af3b-607b525df6ae",
+  "nome": "Yoke Walk",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abdominals",
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "nivel": "intermediate",
+  "tipo": null,
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "The yoke is usually done with a yoke apparatus, but is sometimes seen with refrigerators or other heavy objects.",
+    "Begin by racking the apparatus across the back of the shoulders. With your head looking forward and back arched, lift the yoke by driving through the heels.",
+    "Begin walking as quickly as possible using short, quick steps. You may hold the side posts of the yoke to help steady it and hold it in position. Continue for the given distance as fast as possible, usually 75-100 feet."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Yoke_Walk\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Yoke_Walk\\images\\1.jpg"
+  ]
+}

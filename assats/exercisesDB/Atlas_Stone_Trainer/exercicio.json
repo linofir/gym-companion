@@ -1,0 +1,28 @@
+{
+  "id": "3b0c1bca-cced-4289-a20d-ddf985fc394d",
+  "nome": "Atlas Stone Trainer",
+  "grupoMuscular": [
+    "lower back"
+  ],
+  "grupoMuscularSecundario": [
+    "biceps",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "This trainer is effective for developing Atlas Stone strength for those who don\u0027t have access to stones, and are typically made from bar ends or heavy pipe.",
+    "Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.",
+    "Begin by pulling the weight up past the knees, extending through the hips. As the weight clears the knees, it can be lapped by resting it on your thighs and sitting back, hugging it tightly to your chest.",
+    "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Atlas_Stone_Trainer\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Atlas_Stone_Trainer\\images\\1.jpg"
+  ]
+}

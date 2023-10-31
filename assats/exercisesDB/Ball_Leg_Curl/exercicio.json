@@ -1,0 +1,26 @@
+{
+  "id": "1c9bdd47-94c6-45be-b1b4-fd9a12744ca6",
+  "nome": "Ball Leg Curl",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Begin on the floor laying on your back with your feet on top of the ball.",
+    "Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.",
+    "Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.",
+    "Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.",
+    "After a brief pause, return to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Ball_Leg_Curl\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Ball_Leg_Curl\\images\\1.jpg"
+  ]
+}

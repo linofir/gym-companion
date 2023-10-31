@@ -1,0 +1,23 @@
+{
+  "id": "376c3d53-e26b-4af3-adb3-3ec5b99ffe85",
+  "nome": "Standing Dumbbell Press",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Standing with your feet shoulder width apart, take a dumbbell in each hand. Raise the dumbbells to head height, the elbows out and about 90 degrees. This will be your starting position.",
+    "Maintaining strict technique with no leg drive or leaning back, extend through the elbow to raise the weights together directly above your head.",
+    "Pause, and slowly return the weight to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Dumbbell_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Dumbbell_Press\\images\\1.jpg"
+  ]
+}

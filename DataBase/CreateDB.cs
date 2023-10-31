@@ -5,37 +5,48 @@ using GymCompanion.Modules;
 
 class CreateDB 
 {
-    public static async void ExtractData(Exercicios listaDB )
+    public static void ExtractData(Exercicios listaDB )
     {
-        //List<Exercicio> lista = new();
         try{
-            //
+            
             string basePath = "C:/Users/lino/Projetos_Programação/exercises.json/exercises/";
+            string destinationBasePath = "C:/Users/lino/Projetos_Programação/gym-companion/assats/exercisesDB/";
             if(Directory.Exists(basePath))
             {
-                //IEnumerable<string> test = Directory.EnumerateDirectories(basePath);
-                foreach(string exercicioJSON in Directory.GetDirectories(basePath))
+                foreach(string exercicioFolder in Directory.GetDirectories(basePath))
                 {
-                    string images = Path.Combine(exercicioJSON, "images\\");
+                    string folderName = Path.GetFileNameWithoutExtension(exercicioFolder)!;
+                    string folderDesinationPath = Path.Combine(destinationBasePath, $"{folderName}");
+                    Directory.CreateDirectory(Path.GetDirectoryName(folderDesinationPath)!);
+
+                    string imageDesinationPath = Path.Combine(folderDesinationPath, "images\\");
+                    Directory.CreateDirectory(Path.GetDirectoryName(imageDesinationPath)!);
+
+
+                    string images = Path.Combine(exercicioFolder, "images\\");
                     List<string> imagesPaths = new();
-                    //Console.WriteLine(images);
                     if(Directory.Exists(images))
                     {
                         foreach (string image in Directory.GetFiles(images))
                         {
-                            imagesPaths.Add(image);
-                            //Console.WriteLine(image);
+                            string imageFileName = Path.GetFileName(image);
+                            string imageFullDesinationPath = Path.Combine(imageDesinationPath, imageFileName);
+
+                            File.Copy(image, imageFullDesinationPath, true);
+                            imagesPaths.Add(imageFullDesinationPath);
                         }
                     }
-                    string exercicioPath = Path.Combine(exercicioJSON, "exercise.json");
-                    //Console.WriteLine($"{exercicioPath}");
+
+
+                    string exercicioPath = Path.Combine(exercicioFolder, "exercise.json");
                     if(File.Exists(exercicioPath))
                     {
                         string content = File.ReadAllText(exercicioPath);
                         var exercicio = JsonSerializer.Deserialize<Exercicio>(content);
-                        //lista.Add(exercicio);
+
                         listaDB.AddExercicio(exercicio!);
                         listaDB.AddImagesPath(imagesPaths, exercicio!);
+                        listaDB.CreateJSON(exercicio!, folderDesinationPath ); 
                     }   
                 }
             }

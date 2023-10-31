@@ -1,0 +1,29 @@
+{
+  "id": "ee45da3c-d096-4200-a008-3dbbbbe7e8f3",
+  "nome": "Box Skip",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "You will need several boxes lined up about 8 feet apart.",
+    "Begin facing the first box with one leg slightly behind the other.",
+    "Drive off the back leg, attempting to gain as much height with the hips as possible.",
+    "Immediately upon landing on the box, drive the other leg forward and upward to gain height and distance, leaping from the box. Land between the first two boxes with the same leg that landed on the first box.",
+    "Then, step to the next box and repeat."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Box_Skip\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Box_Skip\\images\\1.jpg"
+  ]
+}

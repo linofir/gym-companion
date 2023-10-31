@@ -6,6 +6,9 @@
 * c# 
 
 ## ToDo
-
-* Extract data to create a DB.
-* Extract images.
+* Create data Modules, ok
+* Extract data to create a DB, ok
+* Extract images, ok
+* Create json DB file, ok
+* Create images files, ok
+* create filters

@@ -1,0 +1,24 @@
+{
+  "id": "a3e6137e-2775-48cc-8445-29a097686d31",
+  "nome": "Drop Push",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Position low boxes or other platforms 2-3 feet apart.",
+    "Move to a pushup position between them, supporting yourself by placing your hands on the boxes.",
+    "With good posture, drop from the platforms by pressing up and moving your hands to shoulder width, cushioning your landing by absorbing the impact through the arm."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Drop_Push\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Drop_Push\\images\\1.jpg"
+  ]
+}

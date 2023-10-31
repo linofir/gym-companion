@@ -1,0 +1,21 @@
+{
+  "id": "dec8751d-14f9-416b-be3b-580f9321db9d",
+  "nome": "Lying Bent Leg Groin",
+  "grupoMuscular": [
+    "adductors"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "expert",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Lie on your back with your knees bent and the soles of the feet pressed together. Have your partner hold your knees. This will be your starting position.",
+    "Attempt to squeeze your knees together, while your partner prevents any movement from occurring.",
+    "After 10-20 seconds, relax your muscles as your partner gently pushes your knees towards the floor. Be sure to inform your helper when the stretch is adequate to prevent injury or overstretching."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Lying_Bent_Leg_Groin\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Lying_Bent_Leg_Groin\\images\\1.jpg"
+  ]
+}

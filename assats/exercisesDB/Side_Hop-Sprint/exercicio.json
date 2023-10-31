@@ -1,0 +1,26 @@
+{
+  "id": "9e413f23-b59f-4483-ad2b-23b0a13afaad",
+  "nome": "Side Hop-Sprint",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Stand to the side of a cone or hurdle.",
+    "Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.",
+    "Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Hop-Sprint\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Hop-Sprint\\images\\1.jpg"
+  ]
+}

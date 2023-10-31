@@ -1,0 +1,25 @@
+{
+  "id": "05361749-34d6-44ab-bbb8-415616ef7214",
+  "nome": "Spider Crawl",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Begin in a prone position on the floor. Support your weight on your hands and toes, with your feet together and your body straight. Your arms should be bent to 90 degrees. This will be your starting position.",
+    "Initiate the movement by raising one foot off of the ground. Externally rotate the leg and bring the knee toward your elbow, as far forward as possible.",
+    "Return this leg to the starting position and repeat on the opposite side."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Spider_Crawl\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Spider_Crawl\\images\\1.jpg"
+  ]
+}

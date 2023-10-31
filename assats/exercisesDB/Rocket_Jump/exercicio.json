@@ -1,0 +1,24 @@
+{
+  "id": "3fa82590-fd2e-4362-a511-862d131b7927",
+  "nome": "Rocket Jump",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
+    "To initiate the move, squat down halfway and explode back up as high as possible.",
+    "Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Rocket_Jump\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Rocket_Jump\\images\\1.jpg"
+  ]
+}

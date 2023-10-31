@@ -1,0 +1,21 @@
+{
+  "id": "ba025580-c07d-46c0-890d-a498f6feba97",
+  "nome": "Side Leg Raises",
+  "grupoMuscular": [
+    "adductors"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Stand next to a chair, which you may hold onto as a support. Stand on one leg. This will be your starting position.",
+    "Keeping your leg straight, raise it as far out to the side as possible, and swing it back down, allowing it to cross the opposite leg.",
+    "Repeat this swinging motion 5-10 times, increasing the range of motion as you do so."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Leg_Raises\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Leg_Raises\\images\\1.jpg"
+  ]
+}

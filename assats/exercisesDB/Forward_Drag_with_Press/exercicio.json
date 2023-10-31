@@ -1,0 +1,27 @@
+{
+  "id": "c51bb602-e214-4b0b-8911-4c7b014d3c55",
+  "nome": "Forward Drag with Press",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Attach a dual handled chain or rope attachment to the sled. You should be facing away from the sled, holding a handle in each hand.",
+    "Begin the movement by moving forward for one step. Leaning forward, extend through the legs and hips to move, pausing with each step to extend through the elbows, pressing your hands forward. Step forward until you return to the start position prepared to press."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Forward_Drag_with_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Forward_Drag_with_Press\\images\\1.jpg"
+  ]
+}

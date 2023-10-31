@@ -1,0 +1,25 @@
+{
+  "id": "7d077d1a-a187-4e8a-acd9-c64d5ccba08c",
+  "nome": "Leverage Chest Press",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Load an appropriate weight onto the pins and adjust the seat for your height. The handles should be near the bottom or middle of the pectorals at the beginning of the motion.",
+    "Your chest and head should be up and your shoulder blades retracted. This will be your starting position.",
+    "Press the handles forward by extending through the elbow.",
+    "After a brief pause at the top, return the weight just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leverage_Chest_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leverage_Chest_Press\\images\\1.jpg"
+  ]
+}

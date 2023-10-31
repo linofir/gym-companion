@@ -1,0 +1,22 @@
+{
+  "id": "9ed61189-7c36-4b8f-af56-3aecc98bfb41",
+  "nome": "Crucifix",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "In the crucifix, you statically hold weights out to the side for time. While the event can be practiced using dumbbells, it is best to practice with one of the various implements used, such as axes and hammers, as it feels different.",
+    "Begin standing, and raise your arms out to the side holding the implements. Your arms should be parallel to the ground. In competition, judges or sensors are used to let you know when you break parallel. Hold for as long as you can. Typically, the weights should be heavy enough that you fail in 30-60 seconds."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Crucifix\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Crucifix\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bfa9b4d7-588a-41b5-aa33-1628cfb255ce",
+  "nome": "Jogging, Treadmill",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": null,
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+    "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than jogging outside. A 150 lb person will burn almost 250 calories jogging for 30 minutes, compared to more than 450 calories running. Maintain proper posture as you jog, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Jogging,_Treadmill\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Jogging,_Treadmill\\images\\1.jpg"
+  ]
+}

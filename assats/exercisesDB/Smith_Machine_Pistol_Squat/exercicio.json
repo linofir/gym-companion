@@ -1,0 +1,27 @@
+{
+  "id": "89226618-5c27-4b3d-ac76-468ba9611fc3",
+  "nome": "Smith Machine Pistol Squat",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "To begin, first set the bar to a position that best matches your height. Step under it and position the bar across the back of your shoulders.",
+    "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs. 3",
+    "Move one foot forward about 12 inches in front of the bar. Extend the other leg out in front of you, holding it off the ground. Look forward at all times and maintain a neutral or slightly arched spine. This will be your starting position.",
+    "Maintaining good posture, lower yourself by flexing the knee and hip, going down as far as flexibility allows.",
+    "Pause briefly at the bottom and then return to the starting position by driving through the heel of your foot, extending the knee and hip."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Smith_Machine_Pistol_Squat\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Smith_Machine_Pistol_Squat\\images\\1.jpg"
+  ]
+}

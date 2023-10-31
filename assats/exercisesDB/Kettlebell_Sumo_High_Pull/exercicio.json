@@ -1,0 +1,26 @@
+{
+  "id": "5dbb3deb-52e5-4bc5-a43e-f5a60c0da10b",
+  "nome": "Kettlebell Sumo High Pull",
+  "grupoMuscular": [
+    "traps"
+  ],
+  "grupoMuscularSecundario": [
+    "adductors",
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "shoulders"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Place a kettlebell on the ground between your feet. Position your feet in a wide stance, and grasp the kettlebell with two hands. Set your hips back as far as possible, with your knees bent. Keep your chest and head up. This will be your starting position.",
+    "Begin by extending the hips and knees, simultaneously pulling the kettlebell to your shoulders, raising your elbows as you do so. Reverse the motion to return to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Sumo_High_Pull\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Sumo_High_Pull\\images\\1.jpg"
+  ]
+}

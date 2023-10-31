@@ -1,0 +1,27 @@
+{
+  "id": "c7f779df-1b69-43ae-b912-9d804348a710",
+  "nome": "Stride Jump Crossover",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "adductors",
+    "calves",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Stand to the side of a box with your inside foot on top of it, close to the edge.",
+    "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",
+    "Land in the opposite position that you started, on the opposite side of the box. The foot that was initially on the box will now be on the ground, with the opposite foot now on the box.",
+    "Repeat the movement, crossing back over to the other side."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Stride_Jump_Crossover\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Stride_Jump_Crossover\\images\\1.jpg"
+  ]
+}

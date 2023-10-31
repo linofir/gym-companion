@@ -1,0 +1,25 @@
+{
+  "id": "4710e254-ce24-41c6-848d-5c13af9e204e",
+  "nome": "Catch and Overhead Throw",
+  "grupoMuscular": [
+    "lats"
+  ],
+  "grupoMuscularSecundario": [
+    "abdominals",
+    "chest",
+    "shoulders"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Begin standing while facing a wall or a partner.",
+    "Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward.",
+    "Ensure that you follow your throw through, being prepared to receive your rebound from your throw. If you are throwing against the wall, make sure that you stand close enough to the wall to receive the rebound, and aim a little higher than you would with a partner."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Catch_and_Overhead_Throw\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Catch_and_Overhead_Throw\\images\\1.jpg"
+  ]
+}

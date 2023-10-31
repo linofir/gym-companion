@@ -1,0 +1,25 @@
+{
+  "id": "526ae7b3-0251-4b80-85b3-bb99dc06ecc8",
+  "nome": "Double Kettlebell Snatch",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "nivel": "expert",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
+    "Swing the kettlebells between your legs forcefully and reverse the direction.",
+    "Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Double_Kettlebell_Snatch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Double_Kettlebell_Snatch\\images\\1.jpg"
+  ]
+}

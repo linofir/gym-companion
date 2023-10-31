@@ -1,0 +1,26 @@
+{
+  "id": "350f030d-4f4e-4f3e-8db4-61062c82d255",
+  "nome": "Bench Sprint",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Stand on the ground with one foot resting on a bench or box with your heel close to the edge.",
+    "Push off with your foot on top of the bench, extending through the hip and knee.",
+    "Land with the opposite foot on top of the box, returning your other foot back to the start position.",
+    "Continue alternating from one foot to another to complete the set."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bench_Sprint\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bench_Sprint\\images\\1.jpg"
+  ]
+}

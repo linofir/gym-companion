@@ -1,0 +1,20 @@
+{
+  "id": "606339dc-3b4e-4486-b2e5-67a0443eafba",
+  "nome": "Brachialis-SMR",
+  "grupoMuscular": [
+    "biceps"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Lie on your side, with your upper arm against the foam roller. The upper arm should be more or less aligned with your body, with the outside of the bicep pressed against the foam roller.",
+    "Raise your hips off of the floor, supporting your weight on your arm and on your feet. Hold for 10-30 seconds, and then switch sides."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Brachialis-SMR\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Brachialis-SMR\\images\\1.jpg"
+  ]
+}

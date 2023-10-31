@@ -1,0 +1,23 @@
+{
+  "id": "1bbc0019-4e6e-4362-8e34-d27906febf00",
+  "nome": "Sit-Up",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
+    "Place your hands behind your head and lock them together by clasping your fingers. This is the starting position.",
+    "Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.",
+    "Once you feel the contraction for a second, lower your upper body back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Sit-Up\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Sit-Up\\images\\1.jpg"
+  ]
+}

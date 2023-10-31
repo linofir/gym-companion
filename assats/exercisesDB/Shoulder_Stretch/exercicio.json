@@ -1,0 +1,19 @@
+{
+  "id": "ccaa150e-0b09-495b-88d6-79f728198895",
+  "nome": "Shoulder Stretch",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Reach your left arm across your body and hold it straight."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Shoulder_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Shoulder_Stretch\\images\\1.jpg"
+  ]
+}

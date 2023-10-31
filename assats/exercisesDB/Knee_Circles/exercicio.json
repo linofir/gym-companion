@@ -1,0 +1,24 @@
+{
+  "id": "0d91bfb0-2c04-48c6-8d02-0cf101d7cd15",
+  "nome": "Knee Circles",
+  "grupoMuscular": [
+    "calves"
+  ],
+  "grupoMuscularSecundario": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Stand with your legs together and hands by your waist.",
+    "Now move your knees in a circular motion as you breathe normally.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Knee_Circles\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Knee_Circles\\images\\1.jpg"
+  ]
+}

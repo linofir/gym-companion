@@ -1,0 +1,24 @@
+{
+  "id": "c798968b-9f28-4fde-8118-cec736a21dab",
+  "nome": "Barbell Glute Bridge",
+  "grupoMuscular": [
+    "glutes"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "hamstrings"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Begin seated on the ground with a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise. Roll the bar so that it is directly above your hips, and lay down flat on the floor.",
+    "Begin the movement by driving through with your heels, extending your hips vertically through the bar. Your weight should be supported by your upper back and the heels of your feet.",
+    "Extend as far as possible, then reverse the motion to return to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Barbell_Glute_Bridge\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Barbell_Glute_Bridge\\images\\1.jpg"
+  ]
+}

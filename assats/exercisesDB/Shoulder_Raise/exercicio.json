@@ -1,0 +1,21 @@
+{
+  "id": "22339bd5-6003-419d-ac39-8c361c5ca280",
+  "nome": "Shoulder Raise",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "lats"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Shoulder_Raise\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Shoulder_Raise\\images\\1.jpg"
+  ]
+}

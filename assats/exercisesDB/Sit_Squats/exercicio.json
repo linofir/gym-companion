@@ -1,0 +1,25 @@
+{
+  "id": "4f62f836-159f-43f9-89d3-bba4d6bbdb3d",
+  "nome": "Sit Squats",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Stand with your feet shoulder width apart. This will be your starting position.",
+    "Begin the movement by flexing your knees and hips, sitting back with your hips.",
+    "Continue until you have squatted a portion of the way down, but are above parallel, and quickly reverse the motion until you return to the starting position. Repeat for 5-10 repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Sit_Squats\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Sit_Squats\\images\\1.jpg"
+  ]
+}

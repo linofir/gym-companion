@@ -1,0 +1,25 @@
+{
+  "id": "7ea4e8eb-ac4c-4006-b075-1a9935ef2132",
+  "nome": "Leverage Shrug",
+  "grupoMuscular": [
+    "traps"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Load the pins to an appropriate weight. Position yourself directly between the handles.",
+    "Grasp the top handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up.",
+    "Drive through the floor with your heels, extending your hips and knees as you rise to a standing position. Keep your arms straight throughout the movement, finishing with your shoulders back. This will be your starting position.",
+    "Raise the weight by shrugging the shoulders towards your ears, moving straight up and down.",
+    "Pause at the top of the motion, and then return the weight to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leverage_Shrug\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leverage_Shrug\\images\\1.jpg"
+  ]
+}

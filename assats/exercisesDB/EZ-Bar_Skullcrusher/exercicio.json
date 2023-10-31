@@ -1,0 +1,24 @@
+{
+  "id": "bd888c57-988b-412c-b258-e17cfff86bf9",
+  "nome": "EZ-Bar Skullcrusher",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Using a close grip, lift the EZ bar and hold it with your elbows in as you lie on the bench. Your arms should be perpendicular to the floor. This will be your starting position.",
+    "Keeping the upper arms stationary, lower the bar by allowing the elbows to flex. Inhale as you perform this portion of the movement. Pause once the bar is directly above the forehead.",
+    "Lift the bar back to the starting position by extending the elbow and exhaling.",
+    "Repeat."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/EZ-Bar_Skullcrusher\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/EZ-Bar_Skullcrusher\\images\\1.jpg"
+  ]
+}

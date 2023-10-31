@@ -1,0 +1,26 @@
+{
+  "id": "472fe6c5-0164-4a25-a45a-d8ff39e70375",
+  "nome": "One Half Locust",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abdominals",
+    "biceps",
+    "chest"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Lie facedown on the floor.",
+    "Put your left hand under your left hipbone to pad your hip and pubic bone.",
+    "Bend your right knee so you can hold the foot in your right hand.",
+    "Lift the foot in the air and simultaneously lift your shoulders off the floor. This also stretches the right hip flexor and the chest and shoulders. Switch sides. If it doesn\u0027t bother your back, you can try it with both arms and legs at the same time."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One_Half_Locust\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One_Half_Locust\\images\\1.jpg"
+  ]
+}

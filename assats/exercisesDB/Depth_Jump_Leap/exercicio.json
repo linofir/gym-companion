@@ -1,0 +1,28 @@
+{
+  "id": "ddce15b0-9295-4cb3-b273-a333ac2de65c",
+  "nome": "Depth Jump Leap",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.",
+    "Stand on one of the two boxes with arms at the sides; feet should be together and slightly off the edge as in the depth jump. Place the other box approximately two or three feet in front of and facing the performer.",
+    "Begin by dropping off the initial box, landing and simultaneously taking off with both feet.",
+    "Rebound by driving upward and outward as intensely as possible, using the arms and full extension of the body to jump onto the higher box. Again, allow the legs to absorb the impact."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Depth_Jump_Leap\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Depth_Jump_Leap\\images\\1.jpg"
+  ]
+}

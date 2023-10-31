@@ -1,0 +1,17 @@
+{
+  "id": "b287abe4-f5e0-408d-9258-64f52203787a",
+  "nome": "Side Jackknife",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Jackknife\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Jackknife\\images\\1.jpg"
+  ]
+}

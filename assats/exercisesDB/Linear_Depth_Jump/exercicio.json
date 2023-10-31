@@ -1,0 +1,26 @@
+{
+  "id": "6c0a6409-ab3f-4fcd-9879-db3b97482994",
+  "nome": "Linear Depth Jump",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "You will need two boxes or benches spaced a few feet away from each other. Begin by standing on one box facing towards the other platform.",
+    "To initiate the movement, gently drop down to the ground between your platforms, allowing the knees and hips to flex.",
+    "Reverse the motion by exploding, extending through the hips, knees, and ankles to jump onto the other platform.",
+    "Land softly, asborbing the impact through the legs."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Linear_Depth_Jump\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Linear_Depth_Jump\\images\\1.jpg"
+  ]
+}

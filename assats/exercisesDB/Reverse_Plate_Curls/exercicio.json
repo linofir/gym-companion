@@ -1,0 +1,25 @@
+{
+  "id": "a4824081-761a-42d6-8b26-c480fd893153",
+  "nome": "Reverse Plate Curls",
+  "grupoMuscular": [
+    "biceps"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Start by standing straight with a weighted plate held by both hands and arms fully extended. Use a pronated grip (palms facing down) and make sure your fingers grab the rough side of the plate while your thumb grabs the smooth side. Note: For the best results, grab the weighted plate at an 11:00 and 1:00 o\u0027clock position.",
+    "Your feet should be shoulder width apart from each other and the weighted plate should be near the groin area. This is the starting position.",
+    "Slowly lift the plate up while keeping the elbows in and the upper arms stationary until your biceps and forearms touch while exhaling. The plate should be evenly aligned with your torso at this point.",
+    "Feel the contraction for a second and begin to lower the weight back down to the starting position while inhaling",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Reverse_Plate_Curls\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Reverse_Plate_Curls\\images\\1.jpg"
+  ]
+}

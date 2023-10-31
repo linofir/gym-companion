@@ -1,0 +1,21 @@
+{
+  "id": "fef2588a-a63f-465a-9d11-2675456f5247",
+  "nome": "Pelvic Tilt Into Bridge",
+  "grupoMuscular": [
+    "lower back"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "static",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Lie down with your feet on the floor, heels directly under your knees.",
+    "Lift only your tailbone to the ceiling to stretch your lower back. (Don\u0027t lift the entire spine yet.) Pull in your stomach.",
+    "To go into a bridge, lift the entire spine except the neck."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Pelvic_Tilt_Into_Bridge\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Pelvic_Tilt_Into_Bridge\\images\\1.jpg"
+  ]
+}

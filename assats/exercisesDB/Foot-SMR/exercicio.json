@@ -1,0 +1,20 @@
+{
+  "id": "65735b05-f371-4589-a315-f6c247480129",
+  "nome": "Foot-SMR",
+  "grupoMuscular": [
+    "calves"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "This exercise stretches the fascia of the muscles in the feet. Start off seated with your shoes removed. Using a foot roller or a similar object, such as a small section of pvc pipe, place your foot against the roller across the arch of your foot. This will be your starting position.",
+    "Press down firmly, rolling across the arch of your foot. Hold for 10-30 seconds, and then switch feet."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Foot-SMR\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Foot-SMR\\images\\1.jpg"
+  ]
+}

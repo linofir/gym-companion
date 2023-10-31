@@ -1,0 +1,22 @@
+{
+  "id": "59978ccf-b2f8-4fc9-93bc-763898650030",
+  "nome": "External Rotation with Cable",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Adjust the cable to the same height as your elbow. Stand with your left side to the band a couple of feet away.",
+    "Grasp the handle with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",
+    "With your upper arm in position, your elbow should be flexed to 90 degrees with your hand reaching across the front of your torso. This will be your starting position.",
+    "Execute the movement by rotating your arm in a backhand motion, keeping your elbow in place."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/External_Rotation_with_Cable\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/External_Rotation_with_Cable\\images\\1.jpg"
+  ]
+}

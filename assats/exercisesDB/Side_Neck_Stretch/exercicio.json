@@ -1,0 +1,20 @@
+{
+  "id": "ce53642e-9fc5-4544-8762-e61c60c8df43",
+  "nome": "Side Neck Stretch",
+  "grupoMuscular": [
+    "neck"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Start with your shoulders relaxed, gently tilt your head towards your shoulder.",
+    "Assist stretch with a gentle pull on the side of the head."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Neck_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Neck_Stretch\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d4924dc5-e38f-42bf-a899-f0d81a0f0b32",
+  "nome": "The Straddle",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "adductors",
+    "calves"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Begin in a seated, upright position. Start by extending your legs in front of you in a V.",
+    "With your hands on the floor, lean forward as far as possible. Hold for 10 to 20 seconds."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/The_Straddle\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/The_Straddle\\images\\1.jpg"
+  ]
+}

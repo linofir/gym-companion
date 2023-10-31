@@ -1,0 +1,23 @@
+{
+  "id": "4b7e55e1-5e9d-40ce-9974-a5c8dfddf17c",
+  "nome": "Downward Facing Balance",
+  "grupoMuscular": [
+    "glutes"
+  ],
+  "grupoMuscularSecundario": [
+    "abdominals",
+    "hamstrings"
+  ],
+  "nivel": "intermediate",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Lie facedown on top of an exercise ball.",
+    "While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Downward_Facing_Balance\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Downward_Facing_Balance\\images\\1.jpg"
+  ]
+}

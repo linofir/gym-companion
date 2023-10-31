@@ -1,0 +1,24 @@
+{
+  "id": "0f7ac003-925d-445a-bb5d-150116fe4130",
+  "nome": "One-Arm Kettlebell Clean and Jerk",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Hold a kettlebell by the handle.",
+    "Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.",
+    "Dip your body by bending the knees, keeping your torso upright.",
+    "Immediately reverse direction, driving through the heels, in essence jumping to create momentum. As you do so, press the kettlebell overhead to lockout by extending the arms, using your body\u0027s momentum to move the weight.",
+    "Receive the weight overhead by returning to a squat position underneath the weight.",
+    "Keeping the weight overhead, return to a standing position. Lower the weight to the floor to perform the next repetition."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One-Arm_Kettlebell_Clean_and_Jerk\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One-Arm_Kettlebell_Clean_and_Jerk\\images\\1.jpg"
+  ]
+}

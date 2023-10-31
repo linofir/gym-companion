@@ -1,0 +1,21 @@
+{
+  "id": "d6288902-682c-4b56-ac37-58b33d3699ae",
+  "nome": "Groiners",
+  "grupoMuscular": [
+    "adductors"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Begin in a pushup position on the floor. This will be your starting position.",
+    "Using both legs, jump forward landing with your feet next to your hands. Keep your head up as you do so.",
+    "Return to the starting position and immediately repeat the movement, continuing for 10-20 repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Groiners\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Groiners\\images\\1.jpg"
+  ]
+}

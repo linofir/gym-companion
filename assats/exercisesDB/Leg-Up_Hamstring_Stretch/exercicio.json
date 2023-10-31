@@ -1,0 +1,21 @@
+{
+  "id": "90adde08-f6e0-49cd-ab62-7d38f27087e7",
+  "nome": "Leg-Up Hamstring Stretch",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.",
+    "Extend the other leg in the air. If you\u0027re tight, you wont be able to straighten it. That\u0027s okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).",
+    "Slowly straighten the legs as much as possible and then pull the leg toward your nose. Switch sides."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leg-Up_Hamstring_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leg-Up_Hamstring_Stretch\\images\\1.jpg"
+  ]
+}

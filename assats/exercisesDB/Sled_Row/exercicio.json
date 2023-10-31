@@ -1,0 +1,25 @@
+{
+  "id": "0f9512c1-0391-478d-aa33-4c94f8c17db0",
+  "nome": "Sled Row",
+  "grupoMuscular": [
+    "middle back"
+  ],
+  "grupoMuscularSecundario": [
+    "biceps",
+    "lats"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Attach dual handles to a sled connected by a rope or chain. Load the sled to an appropriate weight. Face the sled, backing up until there is some tension in the line.",
+    "With a handle in each hand, bend the knees slightly, keep your head and chest up, and begin with your arms extended.",
+    "To initiate the movement, flex the elbow as you retract your shoulder blades, pulling the sled towards you.",
+    "Take a step or two back to get tension in the line and repeat."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Sled_Row\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Sled_Row\\images\\1.jpg"
+  ]
+}

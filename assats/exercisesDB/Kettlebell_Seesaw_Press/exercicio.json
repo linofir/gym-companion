@@ -1,0 +1,23 @@
+{
+  "id": "b13e9786-fda8-4728-8056-29a2c8278ee5",
+  "nome": "Kettlebell Seesaw Press",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "triceps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Clean two kettlebells two your shoulders.",
+    "Press one kettlebell.",
+    "Lower the kettlebell and immediately press the other kettlebell. Make sure to do the same amount of reps on both sides."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Seesaw_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Seesaw_Press\\images\\1.jpg"
+  ]
+}

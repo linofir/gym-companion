@@ -1,0 +1,26 @@
+{
+  "id": "78f445af-1035-4a7c-84f6-3218a4914303",
+  "nome": "Vertical Swing",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Allow the dumbbell to hang at arms length between your legs, holding it with both hands. Keep your back straight and your head up.",
+    "Swing the dumbbell between your legs, flexing at the hips and bending the knees slightly.",
+    "Powerfully reverse the motion by extending at the hips, knees, and ankles to propel yourself upward, swinging the dumbell over your head.",
+    "As you land, absorb the impact through your legs and draw the dumbbell to your torso before the next repetition."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Vertical_Swing\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Vertical_Swing\\images\\1.jpg"
+  ]
+}

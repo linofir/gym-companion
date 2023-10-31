@@ -1,0 +1,21 @@
+{
+  "id": "6eaf5556-9e29-416c-9b19-867146aa26d2",
+  "nome": "Ankle On The Knee",
+  "grupoMuscular": [
+    "glutes"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "From a lying position, bend your knees and keep your feet on the floor.",
+    "Place your ankle of one foot on your opposite knee.",
+    "Grasp the thigh or knee of the bottom leg and pull both of your legs into the chest. Relax your neck and shoulders. Hold for 10-20 seconds and then switch sides."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Ankle_On_The_Knee\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Ankle_On_The_Knee\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "78aa526d-45b8-4d3b-8926-26823d8db7fa",
+  "nome": "Dumbbell Bicep Curl",
+  "grupoMuscular": [
+    "biceps"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Stand up straight with a dumbbell in each hand at arm\u0027s length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position.",
+    "Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Then, inhale and slowly begin to lower the dumbbells back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Dumbbell_Bicep_Curl\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Dumbbell_Bicep_Curl\\images\\1.jpg"
+  ]
+}

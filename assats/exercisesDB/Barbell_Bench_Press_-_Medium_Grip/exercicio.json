@@ -1,0 +1,26 @@
+{
+  "id": "85a1b877-3185-4d31-a640-aa68094bb419",
+  "nome": "Barbell Bench Press - Medium Grip",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+    "From the starting position, breathe in and begin coming down slowly until the bar touches your middle chest.",
+    "After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the bar back in the rack."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Barbell_Bench_Press_-_Medium_Grip\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Barbell_Bench_Press_-_Medium_Grip\\images\\1.jpg"
+  ]
+}

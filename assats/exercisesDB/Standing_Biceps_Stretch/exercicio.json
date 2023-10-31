@@ -1,0 +1,23 @@
+{
+  "id": "bf821018-081e-4176-9a83-8c4127c2a0c0",
+  "nome": "Standing Biceps Stretch",
+  "grupoMuscular": [
+    "biceps"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "shoulders"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
+    "Raise your arms up and hold until you feel a stretch in your biceps."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Biceps_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Biceps_Stretch\\images\\1.jpg"
+  ]
+}

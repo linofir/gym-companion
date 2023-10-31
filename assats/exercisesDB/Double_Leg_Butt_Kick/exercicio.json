@@ -1,0 +1,28 @@
+{
+  "id": "f92c8ee5-1ca7-4290-80ca-49c6a1340ffe",
+  "nome": "Double Leg Butt Kick",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Begin standing with your knees slightly bent.",
+    "Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum vertical height.",
+    "As you go up, tuck your heels by flexing the knees, attempting to touch the buttocks.",
+    "Finish the motion by landing with the knees only partially bent, using your legs to absorb the impact."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Double_Leg_Butt_Kick\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Double_Leg_Butt_Kick\\images\\1.jpg"
+  ]
+}

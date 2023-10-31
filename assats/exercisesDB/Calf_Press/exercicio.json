@@ -1,0 +1,22 @@
+{
+  "id": "ea5148de-ca64-4ca7-bff1-ef33146f5038",
+  "nome": "Calf Press",
+  "grupoMuscular": [
+    "calves"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
+    "Select an appropriate weight, and grasp the handles. This will be your starting position.",
+    "Straighten the legs by extending the knees, just barely lifting the weight from the stack. Your ankle should be fully flexed, toes pointing up. Execute the movement by pressing downward through the balls of your feet as far as possible.",
+    "After a brief pause, reverse the motion and repeat."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Calf_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Calf_Press\\images\\1.jpg"
+  ]
+}

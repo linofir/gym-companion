@@ -1,0 +1,23 @@
+{
+  "id": "f5c316c9-92be-4a43-bde9-23beede816c0",
+  "nome": "Rope Crunch",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Kneel 1-2 feet in front of a cable system with a rope attached.",
+    "After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.",
+    "To begin, flex at the spine, attempting to bring your rib cage to your legs as you pull the cable down.",
+    "Pause at the bottom of the motion, and then slowly return to the starting position.",
+    "These can be done with twists or to the side to hit the obliques."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Rope_Crunch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Rope_Crunch\\images\\1.jpg"
+  ]
+}

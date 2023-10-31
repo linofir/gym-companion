@@ -1,0 +1,25 @@
+{
+  "id": "129b4adf-7917-488f-b036-eafb4969f1ce",
+  "nome": "Floor Press with Chains",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "shoulders"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Adjust the j-hooks so they are at the appropriate height to rack the bar. For this exercise, drape the chains directly over the end of the bar, trying to keep the ends away from the plates.",
+    "Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together, pull the bar off of the hooks.",
+    "Lower the bar towards the bottom of your chest or upper stomach, squeezing the bar and attempting to pull it apart as you do so. Ensure that you tuck your elbows throughout the movement. Lower the bar until your upper arm contacts the ground and pause, preventing any slamming or bouncing of the weight.",
+    "Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Floor_Press_with_Chains\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Floor_Press_with_Chains\\images\\1.jpg"
+  ]
+}

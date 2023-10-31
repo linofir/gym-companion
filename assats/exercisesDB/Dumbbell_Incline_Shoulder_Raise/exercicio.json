@@ -1,0 +1,25 @@
+{
+  "id": "2e1fb18b-836a-4859-946d-afa8bc00d6dd",
+  "nome": "Dumbbell Incline Shoulder Raise",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Sit on an Incline Bench while holding a dumbbell on each hand on top of your thighs.",
+    "Lift your legs up to kick the weights to your shoulders and lean back. Position the dumbbells above your shoulders with your arms extended. The arms should be perpendicular to the floor with your palms facing forward and knuckles pointing towards the ceiling. This will be your starting position.",
+    "While keeping the arms straight and locked, lift the dumbbells by raising the shoulders from the bench as you breathe out.",
+    "Bring back the dumbbells to the starting position as you breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Dumbbell_Incline_Shoulder_Raise\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Dumbbell_Incline_Shoulder_Raise\\images\\1.jpg"
+  ]
+}

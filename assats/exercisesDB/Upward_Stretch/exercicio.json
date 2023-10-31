@@ -1,0 +1,23 @@
+{
+  "id": "48a6a23c-dfca-41d0-9fa4-877f1485c927",
+  "nome": "Upward Stretch",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "lats"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Extend both hands straight above your head, palms touching.",
+    "Slowly push your hands up and back, keeping your back straight."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Upward_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Upward_Stretch\\images\\1.jpg"
+  ]
+}

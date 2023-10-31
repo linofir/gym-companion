@@ -1,0 +1,22 @@
+{
+  "id": "bbc5c1f1-3dbe-4865-9585-fb2ec1178dda",
+  "nome": "Seated Band Hamstring Curl",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Secure a band close to the ground and place a bench a couple feet away from it.",
+    "Seat yourself on the bench and secure the band behind your ankles, beginning with your legs straight. This will be your starting position.",
+    "Flex the knees, bringing your feet towards the bench. You may need to lean back slightly to keep your feet from striking the floor.",
+    "Pause at the completion of the movement, and then slowly return to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Seated_Band_Hamstring_Curl\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Seated_Band_Hamstring_Curl\\images\\1.jpg"
+  ]
+}

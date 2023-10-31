@@ -1,0 +1,24 @@
+{
+  "id": "a88e078a-108a-417e-ad33-83427c9e6b6f",
+  "nome": "Thigh Abductor",
+  "grupoMuscular": [
+    "abductors"
+  ],
+  "grupoMuscularSecundario": [
+    "glutes"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "To begin, sit down on the abductor machine and select a weight you are comfortable with. When your legs are positioned properly, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.",
+    "Slowly press against the machine with your legs to move them away from each other while exhaling.",
+    "Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary to prevent any injuries from occurring.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Thigh_Abductor\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Thigh_Abductor\\images\\1.jpg"
+  ]
+}

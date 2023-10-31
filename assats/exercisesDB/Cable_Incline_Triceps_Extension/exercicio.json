@@ -1,0 +1,23 @@
+{
+  "id": "2d381db2-98b2-4e57-89b4-df5727ffd050",
+  "nome": "Cable Incline Triceps Extension",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
+    "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) narrow grip (less than shoulder width) and keep your elbows tucked in to your sides. Your upper arms should create around a 25 degree angle when measured from the floor.",
+    "Keeping the upper arms stationary, extend the arms as you flex the triceps. Breathe out during this portion of the movement and hold the contraction for a second.",
+    "Slowly go back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cable_Incline_Triceps_Extension\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cable_Incline_Triceps_Extension\\images\\1.jpg"
+  ]
+}

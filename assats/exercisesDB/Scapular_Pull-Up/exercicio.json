@@ -1,0 +1,24 @@
+{
+  "id": "950402f7-07f7-43c6-941c-92f1022a1238",
+  "nome": "Scapular Pull-Up",
+  "grupoMuscular": [
+    "traps"
+  ],
+  "grupoMuscularSecundario": [
+    "lats",
+    "middle back"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Take a pronated grip on a pull-up bar.",
+    "From a hanging position, raise yourself a few inches without using your arms. Do this by depressing your shoulder girdle in a reverse shrugging motion.",
+    "Pause at the completion of the movement, and then slowly return to the starting position before performing more repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Scapular_Pull-Up\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Scapular_Pull-Up\\images\\1.jpg"
+  ]
+}

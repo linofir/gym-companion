@@ -1,0 +1,24 @@
+{
+  "id": "4a7e11a6-04ab-464e-bf8d-c564bc1826ad",
+  "nome": "Standing Dumbbell Reverse Curl",
+  "grupoMuscular": [
+    "biceps"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "To begin, stand straight with a dumbbell in each hand using a pronated grip (palms facing down). Your arms should be fully extended while your feet are shoulder width apart from each other. This is the starting position.",
+    "While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the muscle.",
+    "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Dumbbell_Reverse_Curl\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Dumbbell_Reverse_Curl\\images\\1.jpg"
+  ]
+}

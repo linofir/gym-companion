@@ -1,0 +1,23 @@
+{
+  "id": "ec42c920-3fc5-4bed-8447-15b6db093861",
+  "nome": "Kettlebell Seated Press",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "triceps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Sit on the floor and spread your legs out comfortably.",
+    "Clean one kettlebell to your shoulder.",
+    "Press the kettlebell up and out until it is locked out overhead. Return to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Seated_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Seated_Press\\images\\1.jpg"
+  ]
+}

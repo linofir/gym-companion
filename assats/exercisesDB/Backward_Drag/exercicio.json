@@ -1,0 +1,26 @@
+{
+  "id": "7e959580-e27b-4fca-a6ed-f61f762ffeec",
+  "nome": "Backward Drag",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.",
+    "Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Backward_Drag\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Backward_Drag\\images\\1.jpg"
+  ]
+}

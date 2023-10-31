@@ -1,0 +1,24 @@
+{
+  "id": "2e26cf57-2867-4ed5-bf6c-0fa8718fe4d0",
+  "nome": "Kettlebell One-Legged Deadlift",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "glutes",
+    "lower back"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",
+    "Keeping that knee slightly bent, perform a stiff legged deadlift by bending at the hip, extending your free leg behind you for balance.",
+    "Continue lowering the kettlebell until you are parallel to the ground, and then return to the upright position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_One-Legged_Deadlift\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_One-Legged_Deadlift\\images\\1.jpg"
+  ]
+}

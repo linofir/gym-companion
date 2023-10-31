@@ -1,0 +1,26 @@
+{
+  "id": "bef4dfb8-29a9-4aa0-b7b7-abe5e29e21f8",
+  "nome": "Incline Push-Up Close-Grip",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "shoulders"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
+    "Place your hands next to one another on the bar.",
+    "Position your feet back from the bar with arms and body straight. This will be your starting position.",
+    "Keeping your body straight, lower your chest to the bar by bending the arms.",
+    "Return to the starting position by extending the elbows, pressing yourself back up."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Incline_Push-Up_Close-Grip\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Incline_Push-Up_Close-Grip\\images\\1.jpg"
+  ]
+}

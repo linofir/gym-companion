@@ -1,0 +1,25 @@
+{
+  "id": "3f14a63e-bc0d-4362-8333-c18194599ce4",
+  "nome": "Flat Bench Cable Flyes",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Position a flat bench between two low pulleys so that when you are laying on it, your chest will be lined up with the cable pulleys.",
+    "Lay flat on the bench and keep your feet on the ground.",
+    "Have someone hand you the handles on each hand. You will grab each single handle attachment with a palms up grip.",
+    "Extend your arms by your side with a slight bend on your elbows. Tip: You will keep this bend constant through the whole movement. Your arms should be parallel to the floor. This is your starting position.",
+    "Now start lifting the arms in a semi-circle motion directly in front of you by pulling the cables together until both hands meet at the top of the movement. Squeeze your chest as you perform this motion and breathe out during this movement. Also, hold the contraction for a second at the top. Tip: When performed correctly, at the top position of this movement, your arms should be perpendicular to your torso and the floor touching above your chest.",
+    "Slowly come back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Flat_Bench_Cable_Flyes\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Flat_Bench_Cable_Flyes\\images\\1.jpg"
+  ]
+}

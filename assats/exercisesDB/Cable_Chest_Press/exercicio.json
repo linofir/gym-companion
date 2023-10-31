@@ -1,0 +1,25 @@
+{
+  "id": "1caa39ab-544a-4fb8-8b49-19cffc256a7a",
+  "nome": "Cable Chest Press",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.",
+    "Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.",
+    "After pausing at full extension, return to th starting position, keeping tension on the cables.",
+    "You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cable_Chest_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cable_Chest_Press\\images\\1.jpg"
+  ]
+}

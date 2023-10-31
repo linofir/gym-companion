@@ -1,0 +1,23 @@
+{
+  "id": "4dba9fdc-33ff-4716-b523-70e2a0b1e5da",
+  "nome": "Elbows Back",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "shoulders"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": null,
+  "instrucoes": [
+    "Stand up straight.",
+    "Place both hands on your lower back, fingers pointing downward and elbows out.",
+    "Then gently pull your elbows back aiming to touch them together."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Elbows_Back\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Elbows_Back\\images\\1.jpg"
+  ]
+}

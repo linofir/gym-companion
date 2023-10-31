@@ -1,0 +1,22 @@
+{
+  "id": "e0538b36-34f4-4c72-a10c-525071388e88",
+  "nome": "Rhomboids-SMR",
+  "grupoMuscular": [
+    "middle back"
+  ],
+  "grupoMuscularSecundario": [
+    "traps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": null,
+  "instrucoes": [
+    "Lay down with your back on the floor. Place a foam roll underneath your upper back, and cross your arms in front of you, protracting your shoulders. This will be your starting position.",
+    "Raise your hips off of the ground, placing your weight onto the foam roll. Shift your weight to one side at a time, rolling over your middle and upper back. Pause at points of tension for 10-30 seconds."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Rhomboids-SMR\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Rhomboids-SMR\\images\\1.jpg"
+  ]
+}

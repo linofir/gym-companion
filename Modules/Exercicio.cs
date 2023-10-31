@@ -6,6 +6,8 @@ namespace GymCompanion.Modules;
 class Exercicio
 {
 
+    public Guid Id { get; set; }
+    
     [JsonPropertyName("name")]
     public string? Nome { get; set; }
 
@@ -13,7 +15,7 @@ class Exercicio
     public List<String>? GrupoMuscular { get; set; }
 
     [JsonPropertyName("secondaryMuscles")]
-    public List<string>? MusculoSecundario { get; set; }
+    public List<string>? GrupoMuscularSecundario { get; set; }
 
     [JsonPropertyName("level")]
     public string? Nivel { get; set; }

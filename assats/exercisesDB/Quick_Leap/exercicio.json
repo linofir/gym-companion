@@ -1,0 +1,25 @@
+{
+  "id": "e97ab4da-7ed2-4dcd-a090-77fe89f03f2f",
+  "nome": "Quick Leap",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "You will need a box for this exerise.",
+    "Begin facing the box standing 1-2 feet from its edge.",
+    "By utilizing your hips, hop onto the box, landing on both legs. Ensure that you land with your legs bent and your feet flat.",
+    "Immediately upon landing, fully extend through the entire body and swing your arms overhead to explode off of the box. Use your legs to absorb the impact of landing."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Quick_Leap\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Quick_Leap\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d684c8c6-8bd8-4f36-af82-4afd0eaeddd1",
+  "nome": "Leverage Iso Row",
+  "grupoMuscular": [
+    "lats"
+  ],
+  "grupoMuscularSecundario": [
+    "biceps",
+    "middle back"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Load an appropriate weight onto the pins and adjust the seat height so that the handles are at chest level. Grasp the handles with either a neutral or pronated grip. This will be your starting position.",
+    "Pull the handles towards your torso, retracting your shoulder blades as you flex the elbow.",
+    "Pause at the bottom of the motion, and then slowly return the handles to the starting position. For multiple repetitions, avoid completely returning the weight to the stops to keep tension on the muscles being worked."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leverage_Iso_Row\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Leverage_Iso_Row\\images\\1.jpg"
+  ]
+}

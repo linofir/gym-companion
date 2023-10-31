@@ -1,0 +1,25 @@
+{
+  "id": "f9f547c9-c9ee-4d61-84fa-d003eaa4c791",
+  "nome": "One Knee To Chest",
+  "grupoMuscular": [
+    "glutes"
+  ],
+  "grupoMuscularSecundario": [
+    "hamstrings",
+    "lower back"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "compound",
+  "categoria": null,
+  "instrucoes": [
+    "Start off by lying on the floor.",
+    "Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.",
+    "Gently tug that knee toward your nose.",
+    "Switch sides. This stretches the buttocks and lower back of the bent leg and the hip flexor of the straight leg."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One_Knee_To_Chest\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One_Knee_To_Chest\\images\\1.jpg"
+  ]
+}
