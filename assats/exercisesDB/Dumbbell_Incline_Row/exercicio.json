@@ -1,5 +1,5 @@
 {
-  "id": "1716c32b-766e-4511-9834-812fae83067f",
+  "id": "dd2ce1eb-e793-48ee-9cdb-20de0a598027",
   "nome": "Dumbbell Incline Row",
   "grupoMuscular": [
     "middle back"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Using a neutral grip, lean into an incline bench.",
     "Take a dumbbell in each hand with a neutral grip, beginning with the arms straight. This will be your starting position.",

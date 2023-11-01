@@ -1,5 +1,5 @@
 {
-  "id": "0186d4e9-6061-4972-8a25-18def1b8335b",
+  "id": "d373162a-4d7a-4944-957e-f4e3906a8759",
   "nome": "Standing Cable Lift",
   "grupoMuscular": [
     "abdominals"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Connect a standard handle on a tower, and move the cable to the lowest pulley position.",
     "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm\u00E2\u20AC\u2122s length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",

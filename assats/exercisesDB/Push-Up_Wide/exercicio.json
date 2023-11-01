@@ -1,5 +1,5 @@
 {
-  "id": "8568ba6d-4aa3-44bc-8857-4a9359d35520",
+  "id": "36b57a69-aefe-47a6-9728-2400d7c02125",
   "nome": "Push-Up Wide",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "With your hands wide apart, support your body on your toes and hands in a plank position. Your elbows should be extended and your body straight. Do not allow your hips to sag. This will be your starting position.",
     "To begin, allow the elbows to flex, lowering your chest to the floor as you inhale.",

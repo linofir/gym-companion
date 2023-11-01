@@ -1,5 +1,5 @@
 {
-  "id": "281fdd16-1e61-40a8-8be1-7017de3ad804",
+  "id": "03c33ef3-36a2-4cf7-9fa2-6ed23ba31959",
   "nome": "Backward Medicine Ball Throw",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
     "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",

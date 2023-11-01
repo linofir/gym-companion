@@ -1,5 +1,5 @@
 {
-  "id": "3ae49135-7759-445f-9a68-5cdb7ee460fb",
+  "id": "b5250ba2-5254-43db-803d-40e0971419fa",
   "nome": "Rocking Standing Calf Raise",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place it on the back of your shoulders (slightly below the neck).",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",

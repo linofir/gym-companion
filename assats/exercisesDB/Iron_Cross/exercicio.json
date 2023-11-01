@@ -1,5 +1,5 @@
 {
-  "id": "9dad37a6-fb77-4bfe-b3c5-415b88fd15e2",
+  "id": "3cf4b24c-a475-4ec1-bf4f-0909cd896231",
   "nome": "Iron Cross",
   "grupoMuscular": [
     "shoulders"
@@ -15,7 +15,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [],
   "imagens": [
     "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Iron_Cross\\images\\0.jpg",

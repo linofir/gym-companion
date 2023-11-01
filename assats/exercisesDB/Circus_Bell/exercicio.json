@@ -1,5 +1,5 @@
 {
-  "id": "0713615f-c357-4460-92ae-e58a9bcac208",
+  "id": "3171ba2a-b65a-4eaa-8a58-50e88a58bd93",
   "nome": "Circus Bell",
   "grupoMuscular": [
     "shoulders"
@@ -15,7 +15,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "The circus bell is an oversized dumbbell with a thick handle. Begin with the dumbbell between your feet, and grip the handle with both hands.",
     "Clean the dumbbell by extending through your hips and knees to deliver the implement to the desired shoulder, letting go with the extra hand.",

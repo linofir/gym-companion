@@ -1,5 +1,5 @@
 {
-  "id": "1eacaf7a-f833-4a6e-b26c-254d42566851",
+  "id": "43b0ff8a-6f03-43b9-9526-2e0e219dc149",
   "nome": "Bicycling, Stationary",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": null,
-  "categoria": null,
+  "categoria": "cardio",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, seat yourself on the bike and adjust the seat to your height.",
     "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."

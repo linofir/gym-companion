@@ -1,5 +1,5 @@
 {
-  "id": "335e523b-05a0-4f8e-af12-21c38de3848f",
+  "id": "3ee5094a-9c9f-486e-821e-0de4de0d496e",
   "nome": "Side Lying Groin Stretch",
   "grupoMuscular": [
     "adductors"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Start off by lying on your right side and bend your right knee in front of you to stabilize the torso.",
     "Rest your head on your right hand or shoulder. Lift your left leg upward and hold it by the back of the knee (easier) or the foot (harder).",

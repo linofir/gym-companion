@@ -1,5 +1,5 @@
 {
-  "id": "32d6be21-2696-4294-a1b5-69df20767263",
+  "id": "91281fc6-8dea-4064-a1f7-473be01339cd",
   "nome": "Glute Ham Raise",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "machine",
   "instrucoes": [
     "Begin by adjusting the equipment to fit your body. Place your feet against the footplate in between the rollers as you lie facedown. Your knees should be just behind the pad.",
     "Start from the bottom of the movement. Keep your back arched as you begin the movement by flexing the knees. Drive your toes into the foot plate as you do so. Keep your upper body straight, and continue until your body is upright.",

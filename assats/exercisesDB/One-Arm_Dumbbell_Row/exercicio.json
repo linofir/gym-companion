@@ -1,5 +1,5 @@
 {
-  "id": "fe5ff1a2-d8a8-4c64-b374-022b91ad73be",
+  "id": "6cff0ae8-273a-440e-b100-ee4c768704d5",
   "nome": "One-Arm Dumbbell Row",
   "grupoMuscular": [
     "middle back"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Choose a flat bench and place a dumbbell on each side of it.",
     "Place the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support.",

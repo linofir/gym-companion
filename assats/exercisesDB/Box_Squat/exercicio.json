@@ -1,5 +1,5 @@
 {
-  "id": "22f2eb99-020e-49fd-bc14-d19b0cc5a320",
+  "id": "b57e4ac7-0a85-4e0e-a2d4-4f0c612c9c1f",
   "nome": "Box Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "The box squat allows you to squat to desired depth and develop explosive strength in the squat movement. Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.",
     "Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.",

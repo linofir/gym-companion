@@ -1,5 +1,5 @@
 {
-  "id": "66ac4049-4238-4113-9204-b6163476fec6",
+  "id": "0debb50d-7c60-4007-a45d-78cea2dbb8a9",
   "nome": "Low Cable Crossover",
   "grupoMuscular": [
     "chest"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "To move into the starting position, place the pulleys at the low position, select the resistance to be used and grasp a handle in each hand.",
     "Step forward, gaining tension in the pulleys. Your palms should be facing forward, hands below the waist, and your arms straight. This will be your starting position.",

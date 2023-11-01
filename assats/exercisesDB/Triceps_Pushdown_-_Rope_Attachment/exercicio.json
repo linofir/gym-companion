@@ -1,5 +1,5 @@
 {
-  "id": "31ce1c31-d196-42a0-b4bb-747261db6ac9",
+  "id": "4e71d261-9229-478b-96f7-7f2af1634f6e",
   "nome": "Triceps Pushdown - Rope Attachment",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Attach a rope attachment to a high pulley and grab with a neutral grip (palms facing each other).",
     "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the rope with the palms facing each other. This is your starting position.",

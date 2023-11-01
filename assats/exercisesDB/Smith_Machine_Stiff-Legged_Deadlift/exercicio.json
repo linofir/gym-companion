@@ -1,5 +1,5 @@
 {
-  "id": "5262cae3-fd06-4437-b1ef-cf0715f07410",
+  "id": "2c60cefb-9da2-47a5-ae94-94ff4c67b807",
   "nome": "Smith Machine Stiff-Legged Deadlift",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
     "Lift the bar up by fully extending your arms while keeping your back straight. Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",

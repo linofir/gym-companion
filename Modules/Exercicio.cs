@@ -6,61 +6,104 @@ namespace GymCompanion.Modules;
 class Exercicio
 {
 
-    public Guid Id { get; set; }
-    
-    [JsonPropertyName("name")]
+    [JsonPropertyName("id")]
+    public string? Id { get; set; }
+
+    [JsonPropertyName("nome")]
     public string? Nome { get; set; }
 
-    [JsonPropertyName("primaryMuscles")]
+    [JsonPropertyName("grupoMuscular")]
     public List<String>? GrupoMuscular { get; set; }
 
-    [JsonPropertyName("secondaryMuscles")]
-    public List<string>? GrupoMuscularSecundario { get; set; }
+    [JsonPropertyName("grupoMuscularSecundario")]
+    public List<string>? GrupoMuscularSecundario{ get; set; }
 
-    [JsonPropertyName("level")]
+    [JsonPropertyName("nivel")]
     public string? Nivel { get; set; }
 
-    [JsonPropertyName("force")]
+    [JsonPropertyName("tipo")]
     public string? Tipo { get; set; }
 
-    [JsonPropertyName("mechanic")]
+    [JsonPropertyName("mecanica")]
     public string? Mecanica { get; set; }
 
-    [JsonPropertyName("strength")]
+    [JsonPropertyName("categoria")]
     public string? Categoria { get; set; }
 
-    [JsonPropertyName("instructions")]
+    [JsonPropertyName("equipamento")]
+    public string? Equipamento { get; set; }
+
+
+    [JsonPropertyName("instrucoes")]
     public List<string>? Instrucao { get; set; }
 
     public List<string>? Imagens { get; set; }
 
-    public string? Descricao 
-    { 
+    public string? Descricao
+    {
         get
         {
-            foreach (var musc in GrupoMuscular!)
+            List<string> grupoMuscularDescricao = new();
+            List<string> grupoSecundarioDescricao = new();
+            List<string> imagensDescricao = new();
+            List<string> instrucaoDescricao = new();
+            if(GrupoMuscular != null)
             {
-                return $"O {Nome} pertence ao grupo {musc}"; 
-            }
-            return $"O {Nome} pertence ao grupo (vazio)";
+                grupoMuscularDescricao = GrupoMuscular!.Where(valor => valor != null).ToList();
+            }else grupoMuscularDescricao.Add("sem valor");
 
+            if(GrupoMuscularSecundario != null)
+            {
+                grupoSecundarioDescricao = GrupoMuscularSecundario!.Where(valor => valor != null).ToList();
+            }else grupoSecundarioDescricao.Add("sem valor");
+
+            if(Imagens != null)
+            {
+                imagensDescricao = Imagens!.Where(valor => valor != null).ToList();
+            }else imagensDescricao.Add("sem valor");
+
+            if(Instrucao != null)
+            {
+                instrucaoDescricao = Instrucao!.Where(valor => valor != null).ToList();
+            }else instrucaoDescricao.Add("sem valor");
+            
+            string resposta = $@" 
+            id = {Id}
+            nome = {Nome}
+            grupoMuscular = {string.Join(", ", grupoMuscularDescricao!)}
+            grupoMuscularSecundario = {string.Join(", ", grupoSecundarioDescricao!)}
+            nivel = {Nivel}
+            tipo = {Tipo}
+            mecanica = {Mecanica}
+            categoria = {Categoria}
+            equipamento = {Equipamento}
+            instrucoes = {string.Join("\n", instrucaoDescricao!)}
+            imagens =  {string.Join(" ,\n ", imagensDescricao!)}
+            ";
+            return resposta;
         }
-    
     }
 
-    public string? DescricaoImg 
-    { 
-        get
-        {
-            // foreach (var img in Imagens!)
-            // {
-            //     return $"O {Nome} tem as imagens: {img}"; 
-            // }
-            return $"O {Nome} tem as imagens:\n {Imagens![0]}\n {Imagens[1]} ";
-
-        }
+    public string PrintDescricao()
+    {
+        string resposta = $@" 
+            id ={Id},/n
+            nome = {Nome},/n
+            grupoMuscular = {GrupoMuscular},/n
+            grupoMuscularSecundario = {GrupoMuscularSecundario},/n
+            nivel = {Nivel},/n
+            tipo = {Tipo},/n
+            mecanica = {Mecanica},/n
+            categoria = {Categoria},/n
+            equipamento = {Equipamento},/n
+            instrucoes = {Instrucao},/n
+            imagens =  {Imagens};
+        ";
     
+        return resposta;
     }
+   
+
 
     
 }

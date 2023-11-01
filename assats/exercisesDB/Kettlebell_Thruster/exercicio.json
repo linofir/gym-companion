@@ -1,5 +1,5 @@
 {
-  "id": "909fc502-5d44-44ac-90c6-ac3a2a19e9b2",
+  "id": "49548414-46d2-425a-b753-585504b7b4e5",
   "nome": "Kettlebell Thruster",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so. This will be your starting position.",
     "Begin to squat by flexing your hips and knees, lowering your hips between your legs. Maintain an upright, straight back as you descend as low as you can.",

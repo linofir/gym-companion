@@ -1,5 +1,5 @@
 {
-  "id": "9adfc8ba-e8c6-4d6b-a1b4-f7f169f3e709",
+  "id": "6149fff8-bea7-4a1b-86ac-507753db1b00",
   "nome": "One-Arm Long Bar Row",
   "grupoMuscular": [
     "middle back"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
     "Stand next to the bar, and take a grip with one hand close to the collar. Using your hips and legs, rise to a standing position.",

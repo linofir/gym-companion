@@ -1,5 +1,5 @@
 {
-  "id": "bdd7b36e-68c4-4ccc-8e2a-59f24b9d3665",
+  "id": "c4671a0b-67d5-47ca-a614-eef4d2188726",
   "nome": "Reverse Flyes With External Rotation",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "To begin, lie down on an incline bench set at a 30-degree angle with the chest and stomach pressing against the incline.",
     "Have the dumbbells in each hand with the palms facing down to the floor. Your arms should be in front of you so that they are perpendicular to the angle of the bench. Tip: Your elbows should have a slight bend. The legs should be stationary while applying pressure with the ball of your toes (your heels should not be touching the floor). This is the starting position.",

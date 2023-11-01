@@ -1,5 +1,5 @@
 {
-  "id": "f14cb2ec-38c2-4548-8248-05e019b6b9fb",
+  "id": "13e09523-6e3c-451b-968d-139a8e05f288",
   "nome": "Sled Overhead Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Attach dual handles to a sled using a chain or rope. Load the sled to an appropriate load.",
     "Facing away from the sled, step away until there is tension in the line. Raise your hands above your head, keeping them together, palms facing each other. Your elbows should be pointed upward with the elbows flexed. This will be your starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "33b3f755-4b1b-42ae-9e93-6aea58142297",
+  "id": "07a1bb2d-1eb1-4804-8a11-1e9f4663f854",
   "nome": "Smith Machine Decline Press",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Position a decline bench in the rack so that the bar will be above your chest. Load an appropriate weight and take your place on the bench.",
     "Rotate the bar to unhook it from the rack and fully extend your arms. Your back should be slightly arched and your shoulder blades retracted. This will be your starting position.",

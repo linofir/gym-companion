@@ -1,5 +1,5 @@
 {
-  "id": "dfff37c8-32d7-4ff8-9baa-6172c906b932",
+  "id": "eb37febd-5e29-415e-ba69-efb438aab916",
   "nome": "Cable Hip Adduction",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Stand in front of a low pulley facing forward with one leg next to the pulley and the other one away.",
     "Attach the ankle cuff to the cable and also to the ankle of the leg that is next to the pulley.",

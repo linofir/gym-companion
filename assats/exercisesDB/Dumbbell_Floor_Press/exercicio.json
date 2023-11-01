@@ -1,5 +1,5 @@
 {
-  "id": "e5ede32d-ec61-4db5-8018-c93e37a6201c",
+  "id": "e5400d6d-d650-4ec7-b149-762576b71895",
   "nome": "Dumbbell Floor Press",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lay on the floor holding dumbbells in your hands. Your knees can be bent. Begin with the weights fully extended above you.",
     "Lower the weights until your upper arm comes in contact with the floor. You can tuck your elbows to emphasize triceps size and strength, or to focus on your chest angle your arms to the side.",

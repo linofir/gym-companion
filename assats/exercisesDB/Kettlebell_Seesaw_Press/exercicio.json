@@ -1,5 +1,5 @@
 {
-  "id": "b13e9786-fda8-4728-8056-29a2c8278ee5",
+  "id": "0d5217d0-39df-4cde-bffc-2c133c1636de",
   "nome": "Kettlebell Seesaw Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Clean two kettlebells two your shoulders.",
     "Press one kettlebell.",

@@ -1,5 +1,5 @@
 {
-  "id": "5551c838-5a23-4800-8da9-36e2a50554f9",
+  "id": "46978f7a-66dd-4f18-8542-0f4bd1742130",
   "nome": "Weighted Sissy Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Standing upright, with feet at shoulder width and toes raised, use one hand to hold onto the beams of a squat rack and the opposite arm to hold a plate on top of your chest. This is your starting position.",
     "As you use one arm to hold yourself, bend at the knees and slowly lower your torso toward the ground by bringing your pelvis and knees forward. Inhale as you go down and stop when your upper and lower legs almost create a 90-degree angle. Hold the stretch position for a second.",

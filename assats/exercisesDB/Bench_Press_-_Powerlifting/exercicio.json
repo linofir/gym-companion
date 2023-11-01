@@ -1,5 +1,5 @@
 {
-  "id": "c1207a75-41ca-47ba-80c1-4c6fa15cbe00",
+  "id": "52d9e549-4888-4730-9ced-fba64994ec88",
   "nome": "Bench Press - Powerlifting",
   "grupoMuscular": [
     "triceps"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin by lying on the bench, getting your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
     "However wide your grip, it should cover the ring on the bar. Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart.",

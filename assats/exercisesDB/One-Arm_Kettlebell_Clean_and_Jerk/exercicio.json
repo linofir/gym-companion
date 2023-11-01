@@ -1,5 +1,5 @@
 {
-  "id": "0f7ac003-925d-445a-bb5d-150116fe4130",
+  "id": "173c7a5e-1067-4e49-a896-c9628bd8e764",
   "nome": "One-Arm Kettlebell Clean and Jerk",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Hold a kettlebell by the handle.",
     "Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.",

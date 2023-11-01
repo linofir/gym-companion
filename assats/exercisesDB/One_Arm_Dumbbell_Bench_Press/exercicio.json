@@ -1,5 +1,5 @@
 {
-  "id": "f23ac9b2-d062-49a1-9fbc-9a43fbf818d9",
+  "id": "732341ad-dba4-4952-bd04-c196344ee15e",
   "nome": "One Arm Dumbbell Bench Press",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie down on a flat bench with a dumbbell in one hand on top of your thigh.",
     "By using your thigh to help you get the dumbbell up, clean the dumbbell up so that you can hold it in front of you at shoulder width. Use the hand you are not lifting with to help position the dumbbell over you properly.",

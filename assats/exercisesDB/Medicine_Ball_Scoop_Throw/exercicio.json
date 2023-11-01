@@ -1,5 +1,5 @@
 {
-  "id": "5734d57a-ae48-499e-b72b-60d11e299252",
+  "id": "58315b5a-8dba-4092-a244-26005c6b5e68",
   "nome": "Medicine Ball Scoop Throw",
   "grupoMuscular": [
     "shoulders"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "Assume a semisquat stance with a medicine ball in your hands. Your arms should hang so the ball is near your feet.",
     "Begin by thrusting the hips forward as you extend through the legs, jumping up.",

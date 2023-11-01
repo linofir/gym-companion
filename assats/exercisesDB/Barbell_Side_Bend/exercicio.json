@@ -1,5 +1,5 @@
 {
-  "id": "9ac56090-59fc-4514-9637-cb561a1c7b63",
+  "id": "5d6d7c47-b5e1-4d4a-a70d-1fb657db287a",
   "nome": "Barbell Side Bend",
   "grupoMuscular": [
     "abdominals"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck). Your feet should be shoulder width apart. This will be your starting position.",
     "While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary.",

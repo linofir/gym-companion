@@ -1,5 +1,5 @@
 {
-  "id": "b3635376-3d51-4ccf-afd0-b598f5463ce6",
+  "id": "16d871f2-b347-4aa3-ba08-5d0ab2a766af",
   "nome": "Standing Lateral Stretch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Take a slightly wider than hip distance stance with your knees slightly bent.",
     "Place your right hand on your right hip to support the spine.",

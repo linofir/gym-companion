@@ -1,5 +1,5 @@
 {
-  "id": "d5c86669-a9ea-4db5-a57a-3bd1be04665a",
+  "id": "0b529274-952b-4bee-be0e-aad1f6a82660",
   "nome": "London Bridges",
   "grupoMuscular": [
     "lats"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Attach a climbing rope to a high beam or cross member. Below it, ensure that the smith machine bar is locked in place with the safeties and cannot move. Alternatively, a secure box could also be utilized.",
     "Stand on the bar, using the rope to balance yourself. This will be your starting position.",

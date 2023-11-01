@@ -1,5 +1,5 @@
 {
-  "id": "52e949c5-0b10-444e-86a1-d400c537f332",
+  "id": "ae54087f-ce42-4459-bd02-4910bf5b2aca",
   "nome": "Double Kettlebell Jerk",
   "grupoMuscular": [
     "shoulders"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Hold a kettlebell by the handle in each hand.",
     "Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. This will be your starting position.",

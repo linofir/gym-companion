@@ -1,5 +1,5 @@
 {
-  "id": "19c057af-123b-4eaf-abc1-62a21c8c6b74",
+  "id": "a4881992-7cfd-49c7-854d-04f6e4c0441c",
   "nome": "Wide-Grip Rear Pull-Up",
   "grupoMuscular": [
     "lats"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
     "As you have both arms extended in front of you holding the bar, bring your torso forward and head so that there is an imaginary line from the pull-up bar to the back of your neck. This is your starting position.",

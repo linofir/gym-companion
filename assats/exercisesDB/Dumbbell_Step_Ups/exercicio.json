@@ -1,5 +1,5 @@
 {
-  "id": "5907959c-e691-4f88-bf9a-d527637be0b3",
+  "id": "b72e03a8-9e3c-49cb-a22b-680974dd929d",
   "nome": "Dumbbell Step Ups",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
     "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",

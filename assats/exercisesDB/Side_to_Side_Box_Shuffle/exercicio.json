@@ -1,5 +1,5 @@
 {
-  "id": "f1e73004-9779-43f8-a824-f3d0acf85686",
+  "id": "72aa527a-4007-4730-8771-6285939e8316",
   "nome": "Side to Side Box Shuffle",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Stand to one side of the box with your left foot resting on the middle of it.",
     "To begin, jump up and over to the other side of the box, landing with your right foot on top of the box and your left foot on the floor. Swing your arms to aid your movement.",

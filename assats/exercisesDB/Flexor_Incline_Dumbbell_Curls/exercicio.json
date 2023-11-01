@@ -1,5 +1,5 @@
 {
-  "id": "6a601239-b2bd-4f15-a1cb-9b9d285591a7",
+  "id": "b0bfa3b1-d27a-4173-ad99-7afe9b7493fe",
   "nome": "Flexor Incline Dumbbell Curls",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Hold the dumbbell towards the side farther from you so that you have more weight on the side closest to you. (This can be done for a good effect on all bicep dumbbell exercises). Now do a normal incline dumbbell curl, but keep your wrists as far back as possible so as to neutralize any stress that is placed on them.",
     "Sit on an incline bench that is angled at 45-degrees while holding a dumbbell on each hand.",

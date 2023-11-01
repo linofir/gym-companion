@@ -1,5 +1,5 @@
 {
-  "id": "a9e41e07-b371-4c1b-a89e-f5b1a4db6ef7",
+  "id": "19da8b6c-bd7d-4061-8d3f-2be7e1997c44",
   "nome": "One Arm Against Wall",
   "grupoMuscular": [
     "lats"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "From a standing position, place a bent arm against a wall or doorway.",
     "Slowly lean toward your arm until you feel a stretch in your lats."

@@ -1,5 +1,5 @@
 {
-  "id": "4d6af148-fc2e-4da4-a1ff-1f141a8e9193",
+  "id": "04dbc9bc-6793-4c9b-878b-5d561308ed35",
   "nome": "Elliptical Trainer",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": null,
   "mecanica": null,
-  "categoria": null,
+  "categoria": "cardio",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, step onto the elliptical and select the desired option from the menu. Most ellipticals have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
     "The handles can be used to monitor your heart rate to help you stay at an appropriate intensity."

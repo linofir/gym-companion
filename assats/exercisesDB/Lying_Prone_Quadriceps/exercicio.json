@@ -1,5 +1,5 @@
 {
-  "id": "d97a74fd-29ae-46eb-923d-fe73a4b91a05",
+  "id": "2739704d-d8c3-4794-b542-f48d89c3c58f",
   "nome": "Lying Prone Quadriceps",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "expert",
   "tipo": null,
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Lay face down on the floor with your partner kneeling beside you. Flex one knee and raise that leg off the ground, attempting to touch your glutes with your foot. Your partner should hold the knee and ankle. This will be your starting position.",
     "Attempt to extend your knee while your partner prevents any actual movement.",

@@ -1,5 +1,5 @@
 {
-  "id": "cfffd336-ebb5-4b4f-906c-3afa9ca3c56d",
+  "id": "8bc4a227-8e8f-4e83-9e8e-ae4eb51d0c67",
   "nome": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Sit on a flat bench with a dumbbell in your right hand.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",

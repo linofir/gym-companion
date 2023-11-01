@@ -1,5 +1,5 @@
 {
-  "id": "e3b59f4c-554b-47af-aac3-2e78010a863d",
+  "id": "ac441922-efff-4174-8032-f518e429b1a5",
   "nome": "Machine Preacher Curls",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Sit down on the Preacher Curl Machine and select the weight.",
     "Place the back of your upper arms (your triceps) on the preacher pad provided and grab the handles using an underhand grip (palms facing up). Tip: Make sure that when you place the arms on the pad you keep the elbows in. This will be your starting position.",

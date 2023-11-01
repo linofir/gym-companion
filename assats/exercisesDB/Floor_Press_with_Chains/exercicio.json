@@ -1,5 +1,5 @@
 {
-  "id": "129b4adf-7917-488f-b036-eafb4969f1ce",
+  "id": "b161b8a6-2177-4ac7-a1ea-cb16e0e94bc2",
   "nome": "Floor Press with Chains",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Adjust the j-hooks so they are at the appropriate height to rack the bar. For this exercise, drape the chains directly over the end of the bar, trying to keep the ends away from the plates.",
     "Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together, pull the bar off of the hooks.",

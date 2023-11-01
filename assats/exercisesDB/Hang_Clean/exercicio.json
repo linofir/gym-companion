@@ -1,5 +1,5 @@
 {
-  "id": "8b9c78bd-2cb4-4746-ba8c-13a92642f752",
+  "id": "3f230b16-03da-4c38-ba7a-8867446066a3",
   "nome": "Hang Clean",
   "grupoMuscular": [
     "quadriceps"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.",
     "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears.",

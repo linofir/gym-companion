@@ -1,5 +1,5 @@
 {
-  "id": "59796c7b-3e9c-4241-93d3-0f526f89fe01",
+  "id": "4a305b40-76c8-4542-b748-c6d96c3f957f",
   "nome": "Elevated Back Lunge",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a bar onto a rack at shoulder height loaded to an appropriate weight. Place a short, raised platform behind you.",
     "Rack the bar onto your upper back, keeping your back arched and tight. Step onto your raised platform with both feet. This will be your starting position.",

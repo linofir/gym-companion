@@ -1,5 +1,5 @@
 {
-  "id": "86f931ce-4029-4b8b-b054-b732da3bb151",
+  "id": "0223a65f-205f-4cd3-910f-ff81677c815d",
   "nome": "Decline Dumbbell Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "Once you are laying down, move the dumbbells in front of you at shoulder width. The palms of the hands should be facing each other and the arms should be perpendicular to the floor and fully extended. This will be your starting position.",

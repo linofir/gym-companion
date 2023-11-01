@@ -1,5 +1,5 @@
 {
-  "id": "b7895d18-a113-406a-b1b2-faf4936d1362",
+  "id": "23bca3a5-f601-4796-9a64-7d565573c3cb",
   "nome": "Flat Bench Lying Leg Raise",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie with your back flat on a bench and your legs extended in front of you off the end.",
     "Place your hands either under your glutes with your palms down or by the sides holding on to the bench. This will be your starting position.",

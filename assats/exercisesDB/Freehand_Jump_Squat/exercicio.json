@@ -1,5 +1,5 @@
 {
-  "id": "1580e28e-7a47-40fd-8bb5-09e2e08e218f",
+  "id": "15196c21-7a38-4418-8c64-52196f6c1d5b",
   "nome": "Freehand Jump Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Cross your arms over your chest.",
     "With your head up and your back straight, position your feet at shoulder width.",

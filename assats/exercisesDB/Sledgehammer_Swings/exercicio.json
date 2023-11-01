@@ -1,5 +1,5 @@
 {
-  "id": "83b39b6b-d5cc-415c-b8c5-647b0e62cd6b",
+  "id": "9c5299de-3512-48dd-9e0e-2aae14530daf",
   "nome": "Sledgehammer Swings",
   "grupoMuscular": [
     "abdominals"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "You will need a tire and a sledgehammer for this exercise. Stand in front of the tire about two feet away from it with a staggered stance. Grip the sledgehammer.",
     "If you are right handed, your left hand should be at the bottom of the handle, and your right hand should be choking up closer to the head.",

@@ -1,5 +1,5 @@
 {
-  "id": "cb7263e9-4d7c-4094-b2c6-29d1df0e409a",
+  "id": "14cdec28-d85d-4759-a1a9-1bf96c05f252",
   "nome": "One Handed Hang",
   "grupoMuscular": [
     "lats"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "other",
   "instrucoes": [
     "Grab onto a chinup bar with one hand, using a pronated grip. Keep your feet on the floor or a step. Allow the majority of your weight to hang from that hand, while keeping your feet on the ground. Hold for 10-20 seconds and switch sides."
   ],

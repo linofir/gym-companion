@@ -1,5 +1,5 @@
 {
-  "id": "48190729-fe1d-4286-877d-7857888ed626",
+  "id": "0772b264-394a-46e7-8e66-7c98fa0cf34d",
   "nome": "Recumbent Bike",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": null,
-  "categoria": null,
+  "categoria": "cardio",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, seat yourself on the bike and adjust the seat to your height.",
     "Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",

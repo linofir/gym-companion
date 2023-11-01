@@ -1,5 +1,5 @@
 {
-  "id": "7ed68887-b4f2-45d2-9624-a359b5bc97c2",
+  "id": "cfdc29c4-769a-4470-b9f4-460e54e04ec5",
   "nome": "Standing Gastrocnemius Calf Stretch",
   "grupoMuscular": [
     "calves"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Place your right heel on a step with your knee extended and lean forward to grab your right toe with your right hand. Your left knee should be slightly bent and your back should be straight.",
     "Support your weight on your left leg and place your left hand on your left thigh.",

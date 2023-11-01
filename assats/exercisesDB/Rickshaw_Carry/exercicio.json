@@ -1,5 +1,5 @@
 {
-  "id": "07959bd0-bd2d-4720-bb46-7e89ccb8f17b",
+  "id": "15c76e8e-aef9-450c-b002-cc7ce329c3a2",
   "nome": "Rickshaw Carry",
   "grupoMuscular": [
     "forearms"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "Position the frame at the starting point, and load with the appropriate weight. Standing in the center of the frame, begin by gripping the handles and driving through your heels to lift the frame. Ensure your chest and head are up and your back is straight.",
     "Immediately begin walking briskly with quick, controlled steps. Keep your chest up and head forward, and make sure you continue breathing. Bring the frame to the ground after you have reached the end point."

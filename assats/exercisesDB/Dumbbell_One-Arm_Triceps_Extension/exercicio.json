@@ -1,5 +1,5 @@
 {
-  "id": "93389fe9-6355-46ed-9f72-750e0e6efdf0",
+  "id": "089057e3-18a3-4166-80c1-c2dc365cff97",
   "nome": "Dumbbell One-Arm Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.",
     "Clean the dumbbell up to bring it to shoulder height and then extend the arm over your head so that the whole arm is perpendicular to the floor and next to your head. The dumbbell should be on top of you. The other hand can be kept fully extended to the side, by the waist, supporting the upper arm that has the dumbbell or grabbing a fixed surface.",

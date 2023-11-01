@@ -1,5 +1,5 @@
 {
-  "id": "d59d00f5-5154-4237-bb1c-6a3c1d8a2ad0",
+  "id": "4f50e5f3-4451-4eda-bf5f-4de3ae545555",
   "nome": "Spider Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "e-z curl bar",
   "instrucoes": [
     "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.",
     "Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench.",

@@ -1,5 +1,5 @@
 {
-  "id": "790eea8e-e73d-4dff-80ba-1194591dd43f",
+  "id": "3f3bb9f3-e9a1-4ef0-9dcf-20b24e6529fe",
   "nome": "Finger Curls",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "f9f547c9-c9ee-4d61-84fa-d003eaa4c791",
+  "id": "2ae04064-5592-482f-b138-19eef726d3d3",
   "nome": "One Knee To Chest",
   "grupoMuscular": [
     "glutes"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Start off by lying on the floor.",
     "Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.",

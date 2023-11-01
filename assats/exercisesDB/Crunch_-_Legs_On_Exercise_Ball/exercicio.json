@@ -1,5 +1,5 @@
 {
-  "id": "b537601d-546e-4e41-ba15-d44ebd081110",
+  "id": "be309993-02eb-4e98-8994-a4c1f6e26a3b",
   "nome": "Crunch - Legs On Exercise Ball",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
     "Place your feet three to four inches apart and point your toes inward so they touch.",

@@ -1,5 +1,5 @@
 {
-  "id": "f607ce0e-dce1-49b0-a212-219d1f994249",
+  "id": "61db0608-725a-4d81-b67a-68fed5a5e198",
   "nome": "Atlas Stones",
   "grupoMuscular": [
     "lower back"
@@ -19,7 +19,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "Begin with the atlas stone between your feet. Bend at the hips to wrap your arms vertically around the Atlas Stone, attempting to get your fingers underneath the stone. Many stones will have a small flat portion on the bottom, which will make the stone easier to hold.",
     "Pulling the stone into your torso, drive through the back half of your feet to pull the stone from the ground.",

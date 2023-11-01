@@ -1,5 +1,5 @@
 {
-  "id": "322658cc-13ff-4f41-b2f8-55c726aeb278",
+  "id": "c4352d93-12c5-41c7-a8dd-3bff7b3381a3",
   "nome": "Lying Triceps Press",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "e-z curl bar",
   "instrucoes": [
     "Lie on a flat bench with either an e-z bar (my preference) or a straight bar placed on the floor behind your head and your feet on the floor.",
     "Grab the bar behind you, using a medium overhand (pronated) grip, and raise the bar in front of you at arms length. Tip: The arms should be perpendicular to the torso and the floor. The elbows should be tucked in. This is the starting position.",

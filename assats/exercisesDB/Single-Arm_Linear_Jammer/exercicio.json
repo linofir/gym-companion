@@ -1,5 +1,5 @@
 {
-  "id": "3c510ed5-bd5d-418b-8741-cf347fd08bfd",
+  "id": "48fa1b07-ffce-4f8d-ae79-ee93e8c6a08e",
   "nome": "Single-Arm Linear Jammer",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
     "Raise the bar from the floor, taking it to your shoulders with one or both hands. Adopt a wide stance. This will be your starting position.",

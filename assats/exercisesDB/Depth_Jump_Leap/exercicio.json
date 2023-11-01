@@ -1,5 +1,5 @@
 {
-  "id": "ddce15b0-9295-4cb3-b273-a333ac2de65c",
+  "id": "d381fefb-d468-432c-84c0-4ee632d18eda",
   "nome": "Depth Jump Leap",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.",
     "Stand on one of the two boxes with arms at the sides; feet should be together and slightly off the edge as in the depth jump. Place the other box approximately two or three feet in front of and facing the performer.",

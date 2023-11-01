@@ -1,5 +1,5 @@
 {
-  "id": "9fe1a64f-b9e9-42dd-a9fe-bdbdd765d20c",
+  "id": "19131378-e629-4075-89cf-ef544b94fa90",
   "nome": "Shoulder Circles",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you\u0027re seated), gently roll your shoulders forward, up, back, and down.",
     "Reverse direction. You can do this exercise alternating shoulders or both at the same time."

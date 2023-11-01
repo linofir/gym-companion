@@ -1,5 +1,5 @@
 {
-  "id": "50ec3132-cbd2-4bc6-b12d-cf3ea14d3cde",
+  "id": "0ad33552-08e6-494d-a3c4-b8041d92e1d7",
   "nome": "Seated Calf Stretch",
   "grupoMuscular": [
     "calves"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Sit up straight on an exercise mat.",
     "Bend one knee and put that foot on the floor to stabilize the torso.",

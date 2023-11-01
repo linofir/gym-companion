@@ -1,5 +1,5 @@
 {
-  "id": "fef2588a-a63f-465a-9d11-2675456f5247",
+  "id": "29597c1b-c500-4720-a80e-8a5b63b756cb",
   "nome": "Pelvic Tilt Into Bridge",
   "grupoMuscular": [
     "lower back"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Lie down with your feet on the floor, heels directly under your knees.",
     "Lift only your tailbone to the ceiling to stretch your lower back. (Don\u0027t lift the entire spine yet.) Pull in your stomach.",

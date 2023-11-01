@@ -1,5 +1,5 @@
 {
-  "id": "ad500698-e8cc-426d-9b3a-49c5f553920b",
+  "id": "2e21f7cf-102a-4f91-b7a7-a1777db34afb",
   "nome": "Narrow Stance Squats",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",

@@ -1,5 +1,5 @@
 {
-  "id": "dfc3c811-f112-4466-b91f-73d1c3177137",
+  "id": "19ba46b5-7863-4ab0-9ba0-d69413a8a352",
   "nome": "Butt-Ups",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Begin a pushup position but with your elbows on the ground and resting on your forearms. Your arms should be bent at a 90 degree angle.",
     "Arch your back slightly out rather than keeping your back completely straight.",

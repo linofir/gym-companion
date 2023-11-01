@@ -1,5 +1,5 @@
 {
-  "id": "bd5fce37-0273-4ddd-9351-4d82f0c2429a",
+  "id": "517401e5-27d1-47d4-a4c1-b441388d0645",
   "nome": "Dips - Chest Version",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "For this exercise you will need access to parallel bars. To get yourself into the starting position, hold your body at arms length (arms locked) above the bars.",
     "While breathing in, lower yourself slowly with your torso leaning forward around 30 degrees or so and your elbows flared out slightly until you feel a slight stretch in the chest.",

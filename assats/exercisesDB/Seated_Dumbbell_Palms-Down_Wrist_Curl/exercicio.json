@@ -1,5 +1,5 @@
 {
-  "id": "0fd7eb11-7623-44dc-afe0-1a54cf05852b",
+  "id": "08a5527f-c3a2-496d-9b6e-a3e49e5d7998",
   "nome": "Seated Dumbbell Palms-Down Wrist Curl",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Start out by placing two dumbbells on the floor in front of a flat bench.",
     "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",

@@ -1,5 +1,5 @@
 {
-  "id": "a9d88bb5-ae40-41ee-9a81-760cbfacd281",
+  "id": "27816a64-6d26-4527-a863-477269f54383",
   "nome": "Decline Oblique Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
     "Raise your upper body off the bench until your torso is about 35-45 degrees if measured from the floor.",

@@ -1,5 +1,5 @@
 {
-  "id": "7d1adc94-c47f-453b-ad61-945570bb5241",
+  "id": "16ab015b-2642-42be-aa35-b06e21723d74",
   "nome": "Snatch",
   "grupoMuscular": [
     "quadriceps"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Place your feet at a shoulder width stance with the barbell resting right above the connection between the toes and the rest of the foot.",
     "With a palms facing down grip, bend at the knees and keeping the back flat grab the bar using a wider than shoulder width grip. Bring the hips down and make sure that your body drops as if you were going to sit on a chair. This will be your starting position.",

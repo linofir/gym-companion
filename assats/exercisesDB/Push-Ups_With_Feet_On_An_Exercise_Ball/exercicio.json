@@ -1,5 +1,5 @@
 {
-  "id": "025107b8-c711-4229-b0ab-359059e844b9",
+  "id": "4f5c2a63-00c2-415b-a77a-e0307cd521ae",
   "nome": "Push-Ups With Feet On An Exercise Ball",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "exercise ball",
   "instrucoes": [
     "Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.",
     "Place your toes on top of an exercise ball. This will allow your body to be elevated.",

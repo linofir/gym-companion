@@ -1,5 +1,5 @@
 {
-  "id": "6c0a6409-ab3f-4fcd-9879-db3b97482994",
+  "id": "3524ba6f-40eb-44d4-b283-c6facd8f4f0a",
   "nome": "Linear Depth Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "You will need two boxes or benches spaced a few feet away from each other. Begin by standing on one box facing towards the other platform.",
     "To initiate the movement, gently drop down to the ground between your platforms, allowing the knees and hips to flex.",

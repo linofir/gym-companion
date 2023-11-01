@@ -1,5 +1,5 @@
 {
-  "id": "60b525f7-2153-43f2-a8b3-cd8927c1fad3",
+  "id": "69c4b517-6fe2-4f94-ad68-938ff9c88e17",
   "nome": "One-Arm Kettlebell Swings",
   "grupoMuscular": [
     "hamstrings"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [],
   "imagens": [
     "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One-Arm_Kettlebell_Swings\\images\\0.jpg",

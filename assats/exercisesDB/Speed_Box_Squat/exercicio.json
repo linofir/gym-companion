@@ -1,5 +1,5 @@
 {
-  "id": "71010ad7-57bd-4d61-a762-2d7c69b1a03f",
+  "id": "a59cb103-cd09-48df-89b2-48fab2fea342",
   "nome": "Speed Box Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Attach bands to the bar that are securely anchored near the ground. You may need to choke the bands to get adequate tension.",
     "Use a box of an appropriate height for this exercise. Load the bar to a weight that still requires effort, but isn\u0027t so heavy that speed is compromised. Typically, that will be between 50-70% of your one rep max.",

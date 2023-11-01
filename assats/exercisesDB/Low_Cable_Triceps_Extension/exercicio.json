@@ -1,5 +1,5 @@
 {
-  "id": "1c2ee998-0965-496e-9b47-b8f96d48e569",
+  "id": "9cb2f455-0fdb-433d-bfc4-4491c2f08bf7",
   "nome": "Low Cable Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Select the desired weight and lay down face up on the bench of a seated row machine that has a rope attached to it. Your head should be pointing towards the attachment.",
     "Grab the outside of the rope ends with your palms facing each other (neutral grip).",

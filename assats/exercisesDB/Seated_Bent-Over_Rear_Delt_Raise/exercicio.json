@@ -1,5 +1,5 @@
 {
-  "id": "6f1a33ac-d410-448c-aad4-17218bd8448e",
+  "id": "3a7093ca-fcdb-4507-9cde-0838f77aa599",
   "nome": "Seated Bent-Over Rear Delt Raise",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Place a couple of dumbbells looking forward in front of a flat bench.",
     "Sit on the end of the bench with your legs together and the dumbbells behind your calves.",

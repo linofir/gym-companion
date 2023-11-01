@@ -4,7 +4,7 @@ namespace GymCompanion.Modules;
 
 class Exercicios
 {
-    private List<Exercicio> listaExercicios = new();
+    public List<Exercicio> listaExercicios = new();
 
     public Exercicios(string nome)
     {
@@ -22,8 +22,8 @@ class Exercicios
         }else
         {
             listaExercicios.Add(exercicioSelecionado);
-            //Console.WriteLine($"{exercicioSelecionado!.Nome} foi adicionado\n");
-            exercicioSelecionado.Id = Guid.NewGuid();
+            Console.WriteLine($"{exercicioSelecionado!.Nome} foi adicionado\n");
+            //exercicioSelecionado.Id = Guid.NewGuid().ToString();
         }
 
         
@@ -36,7 +36,7 @@ class Exercicios
         foreach (var exercicio in listaExercicios)
         {
             counter += 1;
-            Console.WriteLine($"Exercício {counter}: {exercicio.DescricaoImg}");
+            Console.WriteLine($"Exercício {counter}: {exercicio.Descricao}");
             
         }
     }
@@ -72,6 +72,7 @@ class Exercicios
             tipo = exercicio.Tipo,
             mecanica = exercicio.Mecanica,
             categoria = exercicio.Categoria,
+            equipamento = exercicio.Equipamento,
             instrucoes = exercicio.Instrucao,
             imagens =  exercicio.Imagens
         },

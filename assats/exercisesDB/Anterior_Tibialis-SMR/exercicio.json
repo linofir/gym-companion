@@ -1,5 +1,5 @@
 {
-  "id": "a62d0998-ef56-4365-b140-52133b85bdab",
+  "id": "cf1690d9-da1d-44f1-98a6-002e268879b0",
   "nome": "Anterior Tibialis-SMR",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "other",
   "instrucoes": [
     "Begin seated on the ground with your legs bent and your feet on the floor.",
     "Using a Muscle Roller or a rolling pin, apply pressure to the muscles on the outside of your shins. Work from just below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat on the other leg."

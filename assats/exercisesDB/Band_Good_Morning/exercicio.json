@@ -1,5 +1,5 @@
 {
-  "id": "1d84e6d7-3ea3-464b-b0ae-3bc681a8be27",
+  "id": "f4a322bd-4e05-47ef-86b6-bed57afb586a",
   "nome": "Band Good Morning",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "bands",
   "instrucoes": [
     "Using a 41 inch band, stand on one end, spreading your feet a small amount. Bend at the hips to loop the end of the band behind your neck. This will be your starting position.",
     "Keeping your legs straight, extend through the hips to come to a near vertical position.",

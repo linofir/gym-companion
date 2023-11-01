@@ -1,5 +1,5 @@
 {
-  "id": "5b80fdc0-2ee9-4fde-b9da-d9afd0844f3b",
+  "id": "8b2b045f-9007-4bce-92a4-53822dc741d8",
   "nome": "Barbell Seated Calf Raise",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Place a block about 12 inches in front of a flat bench.",
     "Sit on the bench and place the ball of your feet on the block.",

@@ -1,5 +1,5 @@
 {
-  "id": "5ceb5105-a9b6-4d2b-83a4-38a983c313a4",
+  "id": "219d145d-bd48-421b-a6ec-bdd939f2ad82",
   "nome": "Moving Claw Series",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": null,
   "instrucoes": [
     "This move helps prepare your running form to help you excel at sprinting. As you run, be sure to flex the knee, aiming to kick your glutes as the hip extends.",
     "Reload the quad as the leg moves back forward, attacking the ground on the next step.",

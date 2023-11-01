@@ -1,5 +1,5 @@
 {
-  "id": "3261458c-67e8-4100-a5b3-1e2b7d73f8ae",
+  "id": "568d65da-daa2-4916-bf4a-a2b7c8043786",
   "nome": "Alternating Kettlebell Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
     "Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other kettlebell stationary .",

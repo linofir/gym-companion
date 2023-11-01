@@ -1,5 +1,5 @@
 {
-  "id": "f34acbe8-7397-40ad-a5b3-c33adfa70e9a",
+  "id": "12c35d4f-0223-4b2d-a302-6ed8109a6c14",
   "nome": "Weighted Sit-Ups - With Bands",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Start out by strapping the bands around the base of the decline bench. Place the handles towards the inside of the decline bench so that when lying down, you can reach for both of them.",
     "Position your legs through the decline machine until they are secured. Now reach for the exercise bands with both hands. Use a pronated (palms forward) grip to grasp the handles. Position them near your collar bone and rotate your wrist to a neutral grip (palms facing the torso). Note: Your arms should remain stationary throughout the exercise. This is the starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "5c6e814b-1fdc-4c20-a622-360734f1f26d",
+  "id": "bcdd47c6-e6c6-4933-a012-4749042c3d68",
   "nome": "Split Squats",
   "grupoMuscular": [
     "hamstrings"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",
     "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."

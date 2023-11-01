@@ -1,5 +1,5 @@
 {
-  "id": "df44a433-cc62-44c1-8221-cc5ef228bc83",
+  "id": "e191ad0f-b02d-4565-9e03-a698f0f55fc7",
   "nome": "Face Pull",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground."
   ],

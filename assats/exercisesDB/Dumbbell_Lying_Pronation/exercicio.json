@@ -1,5 +1,5 @@
 {
-  "id": "f53e2346-1bd2-41ff-aa2a-09c2c609d6c5",
+  "id": "e631df1b-d09a-4941-a337-a552fba48a53",
   "nome": "Dumbbell Lying Pronation",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie on a flat bench face down with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
     "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm.",

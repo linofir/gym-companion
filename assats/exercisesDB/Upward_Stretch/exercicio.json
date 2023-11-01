@@ -1,5 +1,5 @@
 {
-  "id": "48a6a23c-dfca-41d0-9fa4-877f1485c927",
+  "id": "d941c6c5-a06e-466f-89fd-9aea7bafd0dc",
   "nome": "Upward Stretch",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Extend both hands straight above your head, palms touching.",
     "Slowly push your hands up and back, keeping your back straight."

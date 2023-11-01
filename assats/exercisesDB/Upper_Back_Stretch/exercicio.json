@@ -1,5 +1,5 @@
 {
-  "id": "2f07fe2e-379e-4b05-8204-9345bdce1487",
+  "id": "7d63e2ca-95bc-440d-b570-8f0c77d22484",
   "nome": "Upper Back Stretch",
   "grupoMuscular": [
     "middle back"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Clasp fingers together with your thumbs pointing down, round your shoulders as you reach your hands forward."
   ],

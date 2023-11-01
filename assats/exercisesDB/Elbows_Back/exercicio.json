@@ -1,5 +1,5 @@
 {
-  "id": "4dba9fdc-33ff-4716-b523-70e2a0b1e5da",
+  "id": "6c485318-f100-4b15-a163-b1fda707e436",
   "nome": "Elbows Back",
   "grupoMuscular": [
     "chest"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Stand up straight.",
     "Place both hands on your lower back, fingers pointing downward and elbows out.",

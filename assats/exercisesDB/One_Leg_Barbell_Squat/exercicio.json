@@ -1,5 +1,5 @@
 {
-  "id": "79145fb3-2f39-4342-9e94-7db46ed4d812",
+  "id": "3390c8e1-c08e-42ed-9b7b-a87f20713209",
   "nome": "One Leg Barbell Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Start by standing about 2 to 3 feet in front of a flat bench with your back facing the bench. Have a barbell in front of you on the floor. Tip: Your feet should be shoulder width apart from each other.",
     "Bend the knees and use a pronated grip with your hands being wider than shoulder width apart from each other to lift the barbell up until you can rest it on your chest.",

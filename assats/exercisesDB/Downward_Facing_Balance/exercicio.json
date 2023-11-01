@@ -1,5 +1,5 @@
 {
-  "id": "4b7e55e1-5e9d-40ce-9974-a5c8dfddf17c",
+  "id": "eb7cec9b-0339-4e70-9ded-ab73b2ef566a",
   "nome": "Downward Facing Balance",
   "grupoMuscular": [
     "glutes"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "exercise ball",
   "instrucoes": [
     "Lie facedown on top of an exercise ball.",
     "While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees."

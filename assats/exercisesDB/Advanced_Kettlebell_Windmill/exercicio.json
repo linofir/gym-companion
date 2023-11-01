@@ -1,5 +1,5 @@
 {
-  "id": "338556a1-c38a-475d-b045-9146a549fe82",
+  "id": "17b32e23-083b-4de0-8f85-9400aad29d49",
   "nome": "Advanced Kettlebell Windmill",
   "grupoMuscular": [
     "abdominals"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Clean and press a kettlebell overhead with one arm.",
     "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Keep the non-working arm behind your back and turn your feet out at a forty-five degree angle from the arm with the kettlebell.",

@@ -1,5 +1,5 @@
 {
-  "id": "0f9512c1-0391-478d-aa33-4c94f8c17db0",
+  "id": "18d182e8-793a-4878-a2ac-84eea8894272",
   "nome": "Sled Row",
   "grupoMuscular": [
     "middle back"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Attach dual handles to a sled connected by a rope or chain. Load the sled to an appropriate weight. Face the sled, backing up until there is some tension in the line.",
     "With a handle in each hand, bend the knees slightly, keep your head and chest up, and begin with your arms extended.",

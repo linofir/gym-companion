@@ -1,5 +1,5 @@
 {
-  "id": "e97ab4da-7ed2-4dcd-a090-77fe89f03f2f",
+  "id": "25abff2d-7059-4dd9-abab-9aa47868789c",
   "nome": "Quick Leap",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "You will need a box for this exerise.",
     "Begin facing the box standing 1-2 feet from its edge.",

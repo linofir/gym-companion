@@ -1,5 +1,5 @@
 {
-  "id": "dbdd895d-d440-4ddb-bb98-0d34788280f0",
+  "id": "0de2d0ae-0433-4500-87e9-d8fd185c71e6",
   "nome": "Incline Dumbbell Bench With Palms Facing In",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie back on an incline bench with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "By using your thighs to help you get the dumbbells up, clean the dumbbells one arm at a time so that you can hold them at shoulder width.",

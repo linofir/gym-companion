@@ -1,5 +1,5 @@
 {
-  "id": "b3a9e925-46e5-4c45-b651-03c5d827f98f",
+  "id": "c559e746-45e9-4e02-887f-1af9d7194a73",
   "nome": "Calf Stretch Hands Against Wall",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Stand facing a wall from several feet away. Stagger your stance, placing one foot forward.",
     "Lean forward and rest your hands on the wall, keeping your heel, hip and head in a straight line.",

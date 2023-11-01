@@ -1,5 +1,5 @@
 {
-  "id": "f70df411-21d4-4cd2-95b9-3cd71896dde9",
+  "id": "85cfc9be-c051-4874-b092-9f165ae5c062",
   "nome": "Isometric Neck Exercise - Front And Back",
   "grupoMuscular": [
     "neck"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "With your head and neck in a neutral position (normal position with head erect facing forward), place both of your hands on the front side of your head.",
     "Now gently push forward as you contract the neck muscles but resisting any movement of your head. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",

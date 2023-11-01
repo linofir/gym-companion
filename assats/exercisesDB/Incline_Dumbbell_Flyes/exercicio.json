@@ -1,5 +1,5 @@
 {
-  "id": "364e7c0e-88e5-49eb-b20a-ff58c30b7ef0",
+  "id": "098d49f2-d0f4-4f99-90e9-ab5203fb668a",
   "nome": "Incline Dumbbell Flyes",
   "grupoMuscular": [
     "chest"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Hold a dumbbell on each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
     "Extend your arms above you with a slight bend at the elbows.",

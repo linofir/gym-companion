@@ -1,5 +1,5 @@
 {
-  "id": "9a2f5bd0-9c50-49f2-89cc-85b67d4a7a29",
+  "id": "e53fffa0-5851-4660-9738-0a4a3455e0e2",
   "nome": "Windmills",
   "grupoMuscular": [
     "abductors"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Lie on your back with your arms extended out to the sides and your legs straight. This will be your starting position.",
     "Lift one leg and quickly cross it over your body, attempting to touch the ground near the opposite hand.",

@@ -1,5 +1,5 @@
 {
-  "id": "76b80ebf-a04d-469e-9306-cd30435f0316",
+  "id": "1be76542-3dd4-4d42-b053-fe17b837bf99",
   "nome": "See-Saw Press (Alternating Side Press)",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Grab a dumbbell with each hand and stand up erect.",
     "Clean (lift) the dumbbells to the chest/shoulder level and then rotate your wrists so that your palms are facing towards you as if you were getting ready to perform an Arnold Press. This will be your starting position.",

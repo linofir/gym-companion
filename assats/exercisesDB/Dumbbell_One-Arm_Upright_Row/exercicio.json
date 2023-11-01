@@ -1,5 +1,5 @@
 {
-  "id": "616c3fe7-799c-47e3-84be-ba6eda8f1887",
+  "id": "9b8d203c-8b6c-45f5-8a17-59720aa11341",
   "nome": "Dumbbell One-Arm Upright Row",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Grab a dumbbell and stand up straight with your arm extended in front of you with a slight bend at the elbows and your back straight. This will be your starting position. Tip: The dumbbell should be resting on top of your thigh with the palm of your hands facing your thighs.",
     "Keep the other hand can be kept fully extended to the side, by the waist or grabbing a fixed surface. This will be your starting position.",

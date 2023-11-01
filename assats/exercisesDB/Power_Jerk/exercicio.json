@@ -1,5 +1,5 @@
 {
-  "id": "4c2fc384-ca99-48b7-adbd-67336d8399d6",
+  "id": "5d78b181-c3ee-45e3-994e-bcba5499175f",
   "nome": "Power Jerk",
   "grupoMuscular": [
     "quadriceps"
@@ -15,7 +15,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible.",
     "Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.",

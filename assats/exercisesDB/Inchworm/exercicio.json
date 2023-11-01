@@ -1,5 +1,5 @@
 {
-  "id": "c568f713-af89-4a40-b847-1dbb15c2d544",
+  "id": "e2d940d2-eae2-4241-a0d1-4b43b116e65d",
   "nome": "Inchworm",
   "grupoMuscular": [
     "hamstrings"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Stand with your feet close together. Keeping your legs straight, stretch down and put your hands on the floor directly in front of you. This will be your starting position.",
     "Begin by walking your hands forward slowly, alternating your left and your right. As you do so, bend only at the hip, keeping your legs straight.",

@@ -1,5 +1,5 @@
 {
-  "id": "e2c17cdb-74a7-4e4a-93bf-705f72958ff8",
+  "id": "0aa3963c-d4db-442d-ae15-999486b9cba0",
   "nome": "Stomach Vacuum",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",
     "Now slowly inhale as much air as possible and then start to exhale as much as possible while bringing your stomach in as much as possible and hold this position. Try to visualize your navel touching your backbone.",

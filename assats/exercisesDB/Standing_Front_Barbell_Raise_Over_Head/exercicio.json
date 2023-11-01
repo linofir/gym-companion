@@ -1,5 +1,5 @@
 {
-  "id": "6f695ac0-b77e-4997-a522-6fa64eb381d8",
+  "id": "6beedff6-3972-4a74-b356-527356ea71ec",
   "nome": "Standing Front Barbell Raise Over Head",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
     "Your feet should be shoulder width apart from each other. Your elbows should be slightly bent. This is the starting position.",

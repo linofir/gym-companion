@@ -1,5 +1,5 @@
 {
-  "id": "8059ba4e-2384-4a36-90db-74cb14b7f830",
+  "id": "44871199-8899-4e34-8b46-987880727751",
   "nome": "Zottman Curl",
   "grupoMuscular": [
     "biceps"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Stand up with your torso upright and a dumbbell in each hand being held at arms length. The elbows should be close to the torso.",
     "Make sure the palms of the hands are facing each other. This will be your starting position.",

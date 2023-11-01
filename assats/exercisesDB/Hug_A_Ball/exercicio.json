@@ -1,5 +1,5 @@
 {
-  "id": "ed9563e9-5248-44e3-8478-b6218e4b3449",
+  "id": "ee075e99-7503-41bd-955f-8ac6ea7ac452",
   "nome": "Hug A Ball",
   "grupoMuscular": [
     "lower back"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "exercise ball",
   "instrucoes": [
     "Seat yourself on the floor.",
     "Straddle an exercise ball between both legs and lower your hips down toward the floor.",

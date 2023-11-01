@@ -1,5 +1,5 @@
 {
-  "id": "03a97de3-8420-466c-95a7-487d6cf10d45",
+  "id": "ae656d08-7bf1-4dee-b50e-cfebd39f1a8b",
   "nome": "Lying Cable Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Grab a straight bar or E-Z bar attachment that is attached to the low pulley with both hands, using an underhand (palms facing up) shoulder-width grip.",
     "Lie flat on your back on top of an exercise mat in front of the weight stack with your feet flat against the frame of the pulley machine and your legs straight.",

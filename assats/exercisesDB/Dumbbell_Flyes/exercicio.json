@@ -1,5 +1,5 @@
 {
-  "id": "67717de4-7b16-4c05-b05d-942b6b657e8b",
+  "id": "3ea07736-af14-4984-8978-1c62d51c8bee",
   "nome": "Dumbbell Flyes",
   "grupoMuscular": [
     "chest"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie down on a flat bench with a dumbbell on each hand resting on top of your thighs. The palms of your hand will be facing each other.",
     "Then using your thighs to help raise the dumbbells, lift the dumbbells one at a time so you can hold them in front of you at shoulder width with the palms of your hands facing each other. Raise the dumbbells up like you\u0027re pressing them, but stop and hold just before you lock out. This will be your starting position.",

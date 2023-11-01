@@ -1,5 +1,5 @@
 {
-  "id": "839ea985-3348-4ae7-922b-dbdbc8d88b0f",
+  "id": "c034203f-1556-4957-9008-a7cc21e8413b",
   "nome": "V-Bar Pulldown",
   "grupoMuscular": [
     "lats"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Sit down on a pull-down machine with a V-Bar attached to the top pulley.",
     "Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",

@@ -1,5 +1,5 @@
 {
-  "id": "e432ee34-dd55-46aa-af5c-5125863895b1",
+  "id": "ed200b97-1198-496f-9538-ac94a0f16533",
   "nome": "Seated Overhead Stretch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Sit up straight on an exercise mat.",
     "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",

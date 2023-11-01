@@ -1,5 +1,5 @@
 {
-  "id": "8b014717-2f66-4889-8da2-34bab3f388e7",
+  "id": "33d355bb-2296-4922-99bd-88f2eba1814b",
   "nome": "Palms-Down Wrist Curl Over A Bench",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Start out by placing a barbell on one side of a flat bench.",
     "Kneel down on both of your knees so that your body is facing the flat bench.",

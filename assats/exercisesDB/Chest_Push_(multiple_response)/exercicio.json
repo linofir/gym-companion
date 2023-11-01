@@ -1,5 +1,5 @@
 {
-  "id": "1c4475ea-9629-4ccb-b91f-03aa9373154d",
+  "id": "467fdb05-5b28-41b1-92d2-a4039b0c9cbc",
   "nome": "Chest Push (multiple response)",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "Begin in a kneeling position facing a wall or utilize a partner. Hold the ball with both hands tight into the chest.",
     "Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.",

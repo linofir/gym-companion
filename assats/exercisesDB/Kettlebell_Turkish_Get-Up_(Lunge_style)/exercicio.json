@@ -1,5 +1,5 @@
 {
-  "id": "6cdc4e0d-1be9-44f2-833e-4439032f4f33",
+  "id": "d5300dc3-8a28-4d93-8a01-13500ed3d536",
   "nome": "Kettlebell Turkish Get-Up (Lunge style)",
   "grupoMuscular": [
     "shoulders"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",
     "Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position. Using your free hand, push yourself to a seated position, then progressing to one knee.",

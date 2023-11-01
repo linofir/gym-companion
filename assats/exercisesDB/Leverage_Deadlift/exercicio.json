@@ -1,5 +1,5 @@
 {
-  "id": "192678b2-dac2-46d5-beca-a579f7f9216e",
+  "id": "d120484c-11f2-4126-bb5a-b5c216d7a3a4",
   "nome": "Leverage Deadlift",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Load the pins to an appropriate weight. Position yourself directly between the handles. Grasp the bottom handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up. This will be your starting position.",
     "Return the weight to the starting position."

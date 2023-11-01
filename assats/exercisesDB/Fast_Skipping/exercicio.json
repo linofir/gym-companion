@@ -1,5 +1,5 @@
 {
-  "id": "2d13de2d-dbf9-4c86-abc1-0b311c1accaa",
+  "id": "9281e3a4-fd8b-4527-8f65-ef29227f88d2",
   "nome": "Fast Skipping",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "Start in a relaxed position with one leg slightly forward. This will be your starting position.",
     "Skip by executing a step-hop pattern of right-right-step to left-left-step, and so on, alternating back and forth.",

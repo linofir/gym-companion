@@ -1,5 +1,5 @@
 {
-  "id": "25f97ad2-1272-4054-8577-a63ba87391bf",
+  "id": "9fb97a89-69e6-4798-81b3-4871eba3b6ee",
   "nome": "Close-Grip Dumbbell Press",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Place a dumbbell standing up on a flat bench.",
     "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.",

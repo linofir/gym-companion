@@ -1,5 +1,5 @@
 {
-  "id": "1e2b5c15-9ff7-49f7-8d00-30f2bf2d06cd",
+  "id": "f89d03b8-e928-4028-a529-7151006718ad",
   "nome": "Speed Band Overhead Triceps",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "For this exercise anchor a band to the ground. We used an incline bench and anchored the band to the base, standing over the bench. Alternatively, this could be performed standing on the band.",
     "To begin, pull the band behind your head, holding it with a pronated grip and your elbows up. This will be your starting position.",

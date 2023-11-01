@@ -1,5 +1,5 @@
 {
-  "id": "97835dfe-889c-4cd2-881e-80ac0bcd9642",
+  "id": "6f42040c-8e2f-4168-92c3-353a57c2dd31",
   "nome": "Chair Leg Extended Stretch",
   "grupoMuscular": [
     "hamstrings"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "other",
   "instrucoes": [
     "Sit upright in a chair and grip the seat on the sides.",
     "Raise one leg, extending the knee, flexing the ankle as you do so.",

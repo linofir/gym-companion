@@ -1,5 +1,5 @@
 {
-  "id": "add0b2fb-720d-4cd5-b8f8-333c464aa74f",
+  "id": "4082b238-671b-4b70-bb53-ce24dc685e61",
   "nome": "Barbell Hip Thrust",
   "grupoMuscular": [
     "glutes"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin seated on the ground with a bench directly behind you. Have a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise.",
     "Roll the bar so that it is directly above your hips, and lean back against the bench so that your shoulder blades are near the top of it.",

@@ -1,5 +1,5 @@
 {
-  "id": "a566074b-f997-48bd-bcf9-c664f6c7b2c7",
+  "id": "1cd3693f-c5d4-4184-935c-fe659ca14cd1",
   "nome": "Hang Clean - Below the Knees",
   "grupoMuscular": [
     "quadriceps"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a shoulder width, double overhand or hook grip, with the bar hanging just below the knees. Your back should be straight and inclined slightly forward.",
     "Begin by aggressively extending through the hips, knees and ankles, driving the weight upward. As you do so, shrug your shoulders towards your ears. As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out.",

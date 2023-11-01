@@ -1,5 +1,5 @@
 {
-  "id": "8c8a2f40-cdd6-4d92-a370-48a77db03291",
+  "id": "02d015f5-3b76-40bd-9272-b06a3a5061ff",
   "nome": "Split Jerk",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward.",
     "Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders. At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible.",

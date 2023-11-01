@@ -1,5 +1,5 @@
 {
-  "id": "bb40d34f-2114-4ecc-9a62-3f4c6b11c4e2",
+  "id": "fad59ebb-189e-4fa4-808f-3c52684c4e97",
   "nome": "Reverse Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie down on the floor with your legs fully extended and arms to the side of your torso with the palms on the floor. Your arms should be stationary for the entire exercise.",
     "Move your legs up so that your thighs are perpendicular to the floor and feet are together and parallel to the floor. This is the starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "b213d483-c27f-4039-9122-d49b9c97b903",
+  "id": "37ed5728-31aa-4b7d-8bc0-9ca78d6a2c36",
   "nome": "Handstand Push-Ups",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "With your back to the wall bend at the waist and place both hands on the floor at shoulder width.",
     "Kick yourself up against the wall with your arms straight. Your body should be upside down with the arms and legs fully extended. Keep your whole body as straight as possible. Tip: If doing this for the first time, have a spotter help you. Also, make sure that you keep facing the wall with your head, rather than looking down.",

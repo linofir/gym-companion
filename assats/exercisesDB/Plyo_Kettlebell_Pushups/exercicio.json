@@ -1,5 +1,5 @@
 {
-  "id": "740ff0d5-1a30-4c66-8dc7-c5a1c53e5b6d",
+  "id": "79df12f2-6c92-41a2-91e0-211fb0f21ad2",
   "nome": "Plyo Kettlebell Pushups",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place a kettlebell on the floor. Place yourself in a pushup position, on your toes with one hand on the ground and one hand holding the kettlebell, with your elbows extended. This will be your starting position.",
     "Begin by lowering yourself as low as you can, keeping your back straight.",

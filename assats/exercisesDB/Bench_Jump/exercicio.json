@@ -1,5 +1,5 @@
 {
-  "id": "0a723086-a430-4c0a-92a9-a1ef26690e40",
+  "id": "2f506c30-a1fe-473d-9f13-80adc54f549b",
   "nome": "Bench Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "Begin with a box or bench 1-2 feet in front of you. Stand with your feet shoulder width apart. This will be your starting position.",
     "Perform a short squat in preparation for the jump; swing your arms behind you.",

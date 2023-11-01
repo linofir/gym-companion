@@ -1,5 +1,5 @@
 {
-  "id": "ee45da3c-d096-4200-a008-3dbbbbe7e8f3",
+  "id": "928520bc-b5bf-43bc-a291-6387750447e9",
   "nome": "Box Skip",
   "grupoMuscular": [
     "hamstrings"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "You will need several boxes lined up about 8 feet apart.",
     "Begin facing the first box with one leg slightly behind the other.",

@@ -1,5 +1,5 @@
 {
-  "id": "1ba70bc4-de48-45bd-bc2f-31ce931f11aa",
+  "id": "abaeb015-2a1c-4666-a368-6b610962275d",
   "nome": "Iliotibial Tract-SMR",
   "grupoMuscular": [
     "abductors"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "foam roll",
   "instrucoes": [
     "Lay on your side, with the bottom leg placed onto a foam roller between the hip and the knee. The other leg can be crossed in front of you.",
     "Place as much of your weight as is tolerable onto your bottom leg; there is no need to keep your bottom leg in contact with the ground. Be sure to relax the muscles of the leg you are stretching.",

@@ -1,5 +1,5 @@
 {
-  "id": "93e4c95f-0e22-44ec-90fb-7dc90fe6e40b",
+  "id": "3d1b6972-1e7b-448a-976e-e0fed2b0fbd4",
   "nome": "Machine Bench Press",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Sit down on the Chest Press Machine and select the weight.",
     "Step on the lever provided by the machine since it will help you to bring the handles forward so that you can grab the handles and fully extend the arms.",

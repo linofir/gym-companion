@@ -1,5 +1,5 @@
 {
-  "id": "33bf1516-1b54-4143-b7ec-fd387699d0cb",
+  "id": "05303aaa-6be6-4658-aabf-adef386e5a58",
   "nome": "Leg Lift",
   "grupoMuscular": [
     "glutes"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "While standing up straight with both feet next to each other at around shoulder width, grab a sturdy surface such as the sides of a squat rack or the top of a chair to brace yourself and keep balance.",
     "With or without an ankle weight, lift one leg behind you as if performing a leg curl but standing up while keeping the other leg straight. Breathe out as you perform this movement.",

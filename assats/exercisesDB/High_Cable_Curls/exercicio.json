@@ -1,5 +1,5 @@
 {
-  "id": "1c3bf025-0a6c-4e14-aea1-4b2e56e3069c",
+  "id": "de095dbe-67c9-42a9-b0b8-d5073ff588f9",
   "nome": "High Cable Curls",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Stand between a couple of high pulleys and grab a handle in each arm. Position your upper arms in a way that they are parallel to the floor with the palms of your hands facing you. This will be your starting position.",
     "Curl the handles towards you until they are next to your ears. Make sure that as you do so you flex your biceps and exhale. The upper arms should remain stationary and only the forearms should move. Hold for a second in the contracted position as you squeeze the biceps.",

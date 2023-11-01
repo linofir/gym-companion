@@ -1,5 +1,5 @@
 {
-  "id": "8b43e1c8-8ce3-4918-b035-8ecf289aa368",
+  "id": "d2e25db6-85d3-4b51-8ad1-fa2e60f8e2c3",
   "nome": "Return Push from Stance",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "You will need a partner for this drill.",
     "Begin in an athletic 2 or 3 point stance.",

@@ -1,5 +1,5 @@
 {
-  "id": "83b145fd-cf61-47e3-b995-a082cfa4c386",
+  "id": "84b06125-d325-4b49-8c87-bac9dc7b3a0e",
   "nome": "Rack Pull with Bands",
   "grupoMuscular": [
     "lower back"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Attach bands to the base of the rack, or secure them with dumbbells. Attach the other end to the bar. You may need to choke the bands to provide tension.",
     "Position yourself against the bar in proper deadlifting position. Your feet should be under your hips, your grip shoulder width, back arched, and hips back to engage the hamstrings. Since the weight is typically heavy, you may use a mixed grip, a hook grip, or use straps to aid in holding the weight.",

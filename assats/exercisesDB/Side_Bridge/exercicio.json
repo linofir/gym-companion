@@ -1,5 +1,5 @@
 {
-  "id": "09b3dffc-637f-41c4-8f1b-9fa37af631c5",
+  "id": "f8cacb8c-2213-4aaf-8000-cc6af11df9af",
   "nome": "Side Bridge",
   "grupoMuscular": [
     "abdominals"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [],
   "imagens": [
     "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Bridge\\images\\0.jpg",

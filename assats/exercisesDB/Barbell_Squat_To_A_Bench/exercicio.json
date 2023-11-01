@@ -1,5 +1,5 @@
 {
-  "id": "19325551-a70e-46e5-95ac-87146b472b19",
+  "id": "6096fe06-d5c4-4564-a6bd-74f9f7a436fe",
   "nome": "Barbell Squat To A Bench",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first place a flat bench or a box behind you. The flat bench is used to teach you to set your hips back and to hit depth.",
     "",

@@ -1,5 +1,5 @@
 {
-  "id": "c6029f84-2526-44c5-9e56-90a76eec088b",
+  "id": "e31c477f-4b2f-442b-97b1-c5d58e5b7b4b",
   "nome": "Romanian Deadlift from Deficit",
   "grupoMuscular": [
     "hamstrings"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin standing while holding a bar at arm\u00E2\u20AC\u2122s length in front of you. You can stand on a raised platform to increase the range of motion.",
     "Begin by flexing the knees slightly, and then flex at the hip, moving your butt back as far as possible, lowering the torso as far as flexibility allows. The back should remain in absolute extension at all times, and the bar should remain in contact with the legs. If done properly, there should be heavy tension felt in the hamstrings.",

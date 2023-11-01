@@ -1,5 +1,5 @@
 {
-  "id": "2289691d-7624-40a8-b7b3-2b4f402c7146",
+  "id": "4f22508c-5548-4753-a785-2dc86fec4ea7",
   "nome": "Chest And Front Of Shoulder Stretch",
   "grupoMuscular": [
     "chest"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "other",
   "instrucoes": [
     "Start off by standing with your legs together, holding a bodybar or a broomstick.",
     "Take a slightly wider than shoulder width grip on the pole and hold it in front of you with your palms facing down.",

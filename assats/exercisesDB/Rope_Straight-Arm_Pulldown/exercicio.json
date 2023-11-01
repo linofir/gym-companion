@@ -1,5 +1,5 @@
 {
-  "id": "52f215e8-a029-4d07-9ea7-6437c3727b94",
+  "id": "83ffafbd-a63c-4e44-804a-16a055d201da",
   "nome": "Rope Straight-Arm Pulldown",
   "grupoMuscular": [
     "lats"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Attach a rope to a high pulley and make your weight selection. Stand a couple feet back from the pulley with your feet staggered and take the rope with both hands. Lean forward from the hip, keeping your back straight, with your arms extended up in front of you. This will be your starting position.",
     "Keeping your arms straight, extend the shoulder to pull the rope down to your thighs.",

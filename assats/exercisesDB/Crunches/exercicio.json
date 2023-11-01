@@ -1,5 +1,5 @@
 {
-  "id": "d648fd7f-9885-480f-b2fe-6d0507678751",
+  "id": "110646f8-1bfe-476c-a415-c9fd05bb996c",
   "nome": "Crunches",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie flat on your back with your feet flat on the ground, or resting on a bench with your knees bent at a 90 degree angle. If you are resting your feet on a bench, place them three to four inches apart and point your toes inward so they touch.",
     "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don\u0027t lock your fingers behind your head.",

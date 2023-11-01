@@ -1,5 +1,5 @@
 {
-  "id": "47f19c83-b520-49d3-bcd0-e3ed27c7c3dd",
+  "id": "054b3f60-359d-4867-aced-ee69733cd7a9",
   "nome": "Standing Soleus And Achilles Stretch",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
     "Bend both knees, keeping your back heel on the floor. Switch sides."

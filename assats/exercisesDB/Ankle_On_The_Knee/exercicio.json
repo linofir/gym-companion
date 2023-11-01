@@ -1,5 +1,5 @@
 {
-  "id": "6eaf5556-9e29-416c-9b19-867146aa26d2",
+  "id": "9d415c43-0073-4d67-a410-c482a2e6fadb",
   "nome": "Ankle On The Knee",
   "grupoMuscular": [
     "glutes"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "From a lying position, bend your knees and keep your feet on the floor.",
     "Place your ankle of one foot on your opposite knee.",

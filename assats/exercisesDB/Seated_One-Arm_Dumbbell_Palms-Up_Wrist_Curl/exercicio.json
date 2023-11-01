@@ -1,5 +1,5 @@
 {
-  "id": "bb4d5f3f-928b-41b8-9738-fa48d287236c",
+  "id": "8ee0c648-695c-4c4a-af3f-b93aa2afe690",
   "nome": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Sit on a flat bench with a dumbbell in your right hand.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",

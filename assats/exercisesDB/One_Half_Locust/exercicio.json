@@ -1,5 +1,5 @@
 {
-  "id": "472fe6c5-0164-4a25-a45a-d8ff39e70375",
+  "id": "869a4051-0023-4793-8368-1ecc07400c2f",
   "nome": "One Half Locust",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Lie facedown on the floor.",
     "Put your left hand under your left hipbone to pad your hip and pubic bone.",

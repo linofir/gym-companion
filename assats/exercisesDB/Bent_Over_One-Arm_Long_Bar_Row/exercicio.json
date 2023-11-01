@@ -1,5 +1,5 @@
 {
-  "id": "3a0f1d8d-596c-4166-866f-86710bf7c8d3",
+  "id": "35378bd9-d2c9-42a3-a218-7b083b06dc92",
   "nome": "Bent Over One-Arm Long Bar Row",
   "grupoMuscular": [
     "middle back"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Put weight on one of the ends of an Olympic barbell. Make sure that you either place the other end of the barbell in the corner of two walls; or put a heavy object on the ground so the barbell cannot slide backward.",
     "Bend forward until your torso is as close to parallel with the floor as you can and keep your knees slightly bent.",

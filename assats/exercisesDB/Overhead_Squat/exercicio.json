@@ -1,5 +1,5 @@
 {
-  "id": "12ed3e5d-9b71-4988-819d-64e7aef0bc02",
+  "id": "f526edc5-8850-411d-b191-ec8b876a6c6e",
   "nome": "Overhead Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -16,7 +16,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Start out by having a barbell in front of you on the floor. Your feet should be wider than shoulder width apart from each other.",
     "Bend the knees and use a pronated grip (palms facing you) to grab the barbell. Your hands should be at a wider than shoulder width apart from each other before lifting. Once you are positioned, lift the barbell up until you can rest it on your chest.",

@@ -1,5 +1,5 @@
 {
-  "id": "c8f89ac9-0239-41ae-8d4e-9f61be69c6aa",
+  "id": "bda1ca4c-0fed-4dec-9d2e-e104883599cc",
   "nome": "Weighted Jump Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a lightly loaded barbell across the back of your shoulders. You could also use a weighted vest, sandbag, or other type of resistance for this exercise.",
     "The weight should be light enough that it doesn\u0027t slow you down significantly. Your feet should be just outside of shoulder width with your head and chest up. This will be your starting position.",

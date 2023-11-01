@@ -1,5 +1,5 @@
 {
-  "id": "3d8f045d-49c6-4cc3-b861-992be418c513",
+  "id": "99e71b4a-6789-4e37-8dcf-abdbc9602b21",
   "nome": "Dumbbell Clean",
   "grupoMuscular": [
     "hamstrings"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Begin standing with a dumbbell in each hand with your feet shoulder width apart.",
     "Lower the weights to the floor by flexing at the hips and knees, pushing your hips back until the dumbbells reach the floor. This will be your starting position.",

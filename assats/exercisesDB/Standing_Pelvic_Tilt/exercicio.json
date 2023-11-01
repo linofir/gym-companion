@@ -1,5 +1,5 @@
 {
-  "id": "310e2943-fc84-4872-86ed-c72814681447",
+  "id": "cc53ecfb-c6dc-45bd-b9e5-0555eb6809d8",
   "nome": "Standing Pelvic Tilt",
   "grupoMuscular": [
     "lower back"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Start off with your feet hip-distance apart.",
     "Bend your knees slightly to keep them soft and springy.",

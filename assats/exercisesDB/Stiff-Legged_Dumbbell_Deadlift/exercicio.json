@@ -1,5 +1,5 @@
 {
-  "id": "f9cf435d-c363-402f-8094-b34b03d82fa0",
+  "id": "dc1035c5-8313-419d-b5f5-7cdfa3c63bd3",
   "nome": "Stiff-Legged Dumbbell Deadlift",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Grasp a couple of dumbbells holding them by your side at arm\u0027s length.",
     "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",

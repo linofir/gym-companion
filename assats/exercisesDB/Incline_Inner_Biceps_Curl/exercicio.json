@@ -1,5 +1,5 @@
 {
-  "id": "f3fbd732-3841-46d1-89f6-3cc02f002f77",
+  "id": "88d11335-8567-45ab-9233-5c069d73e1e5",
   "nome": "Incline Inner Biceps Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Hold a dumbbell in each hand and lie back on an incline bench.",
     "The dumbbells should be at arm\u0027s length hanging at your sides and your palms should be facing out. This will be your starting position.",

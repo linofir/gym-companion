@@ -1,5 +1,5 @@
 {
-  "id": "29cd0631-0167-47aa-ab1e-7ff00033d714",
+  "id": "c6b071f7-77cc-4ed6-9354-4a8225280b29",
   "nome": "Preacher Hammer Dumbbell Curl",
   "grupoMuscular": [
     "biceps"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Place the upper part of both arms on top of the preacher bench as you hold a dumbbell in each hand with the palms facing each other (neutral grip).",
     "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",

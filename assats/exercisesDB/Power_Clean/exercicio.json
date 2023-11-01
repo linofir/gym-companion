@@ -1,5 +1,5 @@
 {
-  "id": "63ad3cae-e0f8-4e47-844a-e3976dee939e",
+  "id": "954b1614-e5e8-45ef-9839-07d81ec7c532",
   "nome": "Power Clean",
   "grupoMuscular": [
     "hamstrings"
@@ -18,7 +18,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Stand with your feet slightly wider than shoulder width apart and toes pointing out slightly.",
     "Squat down and grasp bar with a closed, pronated grip. Your hands should be slightly wider than shoulder width apart outside knees with elbows fully extended.",

@@ -1,5 +1,5 @@
 {
-  "id": "3a2d70b6-4b66-446c-a143-b3cdb6d8305a",
+  "id": "8d7a4ae9-18d6-4189-b997-a05496e2514b",
   "nome": "On Your Side Quad Stretch",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Start off by lying on your right side, with your right knee bent at a 90-degree angle resting on the floor in front of you (this stabilizes the torso).",
     "Bend your left knee behind you and hold your left foot with your left hand. To stretch your hip flexor, press your left hip forward as you push your left foot back into your hand. Switch sides."

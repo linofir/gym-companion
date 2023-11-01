@@ -1,5 +1,5 @@
 {
-  "id": "d3624b90-84cb-4349-a054-b96eac3f9762",
+  "id": "d3487cb8-1be9-4455-b4d0-c33703d3922b",
   "nome": "Seated Dumbbell Palms-Up Wrist Curl",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Start out by placing two dumbbells on the floor in front of a flat bench.",
     "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",

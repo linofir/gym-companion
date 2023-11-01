@@ -1,5 +1,5 @@
 {
-  "id": "b6183972-2473-4bed-8f34-9c09c7a0f8de",
+  "id": "321675a7-6774-4ba6-950f-da8365f72109",
   "nome": "Cable Shrugs",
   "grupoMuscular": [
     "traps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Grasp a cable bar attachment that is attached to a low pulley with a shoulder width or slightly wider overhand (palms facing down) grip.",
     "Stand erect close to the pulley with your arms extended in front of you holding the bar. This will be your starting position.",

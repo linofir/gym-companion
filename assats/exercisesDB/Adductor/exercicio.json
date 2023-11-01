@@ -1,5 +1,5 @@
 {
-  "id": "ccdfd000-0134-498e-acb8-5cb73d9f9526",
+  "id": "321a4f7e-4c6d-4422-8d3e-fb9eea650f46",
   "nome": "Adductor",
   "grupoMuscular": [
     "adductors"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "foam roll",
   "instrucoes": [
     "Lie face down with one leg on a foam roll.",
     "Rotate the leg so that the foam roll contacts against your inner thigh. Shift as much weight onto the foam roll as can be tolerated.",

@@ -1,5 +1,5 @@
 {
-  "id": "5efde388-a5ff-4020-953e-27729fac353a",
+  "id": "335fd792-df30-4749-863f-76067a91b245",
   "nome": "Carioca Quick Step",
   "grupoMuscular": [
     "adductors"
@@ -15,7 +15,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": null,
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": null,
   "instrucoes": [
     "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",
     "With your right foot, quick step behind and pull the knee up.",

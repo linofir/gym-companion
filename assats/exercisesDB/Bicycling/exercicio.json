@@ -1,5 +1,5 @@
 {
-  "id": "085deb31-161f-4827-ac13-5e69324b1509",
+  "id": "5d0ff648-e10f-456a-b489-218c03964a4c",
   "nome": "Bicycling",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": null,
-  "categoria": null,
+  "categoria": "cardio",
+  "equipamento": "other",
   "instrucoes": [
     "To begin, seat yourself on the bike and adjust the seat to your height."
   ],

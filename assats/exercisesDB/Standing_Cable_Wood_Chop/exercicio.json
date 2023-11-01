@@ -1,5 +1,5 @@
 {
-  "id": "e7d908e5-7ca9-47ae-a94f-b57f9bcf7935",
+  "id": "bf008217-4ae8-4b19-a35f-9b3b0ddab49f",
   "nome": "Standing Cable Wood Chop",
   "grupoMuscular": [
     "abdominals"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Connect a standard handle to a tower, and move the cable to the highest pulley position.",
     "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm\u00E2\u20AC\u2122s length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",

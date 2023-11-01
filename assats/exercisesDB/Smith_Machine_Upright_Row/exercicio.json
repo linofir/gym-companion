@@ -1,5 +1,5 @@
 {
-  "id": "b2033612-a434-488e-94ea-13c7b2dbe27b",
+  "id": "24063b04-be0d-4d10-a702-c350b25fb764",
   "nome": "Smith Machine Upright Row",
   "grupoMuscular": [
     "traps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, set the bar on the smith machine to a height that is around the middle of your thighs. Once the correct height is chosen and the bar is loaded, grasp the bar using a pronated (palms forward) grip that is shoulder width apart. You may need some wrist wraps if using a significant amount of weight.",
     "Lift the barbell up and fully extend your arms with your back straight. There should be a slight bend at the elbows. This is the starting position.",

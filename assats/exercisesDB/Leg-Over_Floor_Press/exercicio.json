@@ -1,5 +1,5 @@
 {
-  "id": "1af9eeef-877f-44f0-a2ea-0170642e2faa",
+  "id": "10297470-a0a8-4057-9987-660e942cc12c",
   "nome": "Leg-Over Floor Press",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Lie on the floor with one kettlebell in place on your chest, holding it by the handle. Extend leg on working side over leg on non-working side.Your free arm can be extended out to your side for support.",
     "Press the kettlebll into a locked out position.",

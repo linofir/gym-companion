@@ -1,5 +1,5 @@
 {
-  "id": "6c6476ba-4798-4d28-b5ab-ea564909b5a0",
+  "id": "8befd7c9-5090-446e-a1fe-b4102e10f708",
   "nome": "Medicine Ball Chest Pass",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "You will need a partner for this exercise. Lacking one, this movement can be performed against a wall.",
     "Begin facing your partner holding the medicine ball at your torso with both hands.",

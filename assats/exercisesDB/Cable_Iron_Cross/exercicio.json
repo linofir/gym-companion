@@ -1,5 +1,5 @@
 {
-  "id": "77be20fa-aeb9-45a0-824a-3bc1666424d3",
+  "id": "6182526f-f0ac-437f-9c67-6c1b04723d18",
   "nome": "Cable Iron Cross",
   "grupoMuscular": [
     "chest"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",
     "Stand directly between both pulleys with your arms extended out to your sides. Your head and chest should be up while your arms form a \u00E2\u20AC\u0153T\u00E2\u20AC\u009D. This will be your starting position.",

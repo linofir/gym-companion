@@ -1,5 +1,5 @@
 {
-  "id": "0257a4b7-848d-49ef-b97a-6b6f4d8817ee",
+  "id": "fb353164-991e-4233-a9ed-16b7f63ef666",
   "nome": "Straight-Arm Pulldown",
   "grupoMuscular": [
     "lats"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
     "Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.",

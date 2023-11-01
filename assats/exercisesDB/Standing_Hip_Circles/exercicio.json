@@ -1,5 +1,5 @@
 {
-  "id": "a2c9d0f9-baad-46fe-bd6e-0094441b46f2",
+  "id": "9506eab3-c09a-4c12-bb8c-d379569fc5f8",
   "nome": "Standing Hip Circles",
   "grupoMuscular": [
     "abductors"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Begin standing on one leg, holding to a vertical support.",
     "Raise the unsupported knee to 90 degrees. This will be your starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "c605d509-ce20-4a0b-bd9e-df99963b4488",
+  "id": "dadc7d69-2b88-46c9-87cd-614e3bf1258c",
   "nome": "Lower Back Curl",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie on your stomach with your arms out to your sides. This will be your starting position.",
     "Using your lower back muscles, extend your spine lifting your chest off of the ground. Do not use your arms to push yourself up. Keep your head up during the movement. Repeat for 10-20 repetitions."

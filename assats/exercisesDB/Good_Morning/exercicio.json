@@ -1,5 +1,5 @@
 {
-  "id": "74f59cdc-612b-4488-a00f-0c232d150601",
+  "id": "129c44ba-1893-46cd-8281-474bbc68091e",
   "nome": "Good Morning",
   "grupoMuscular": [
     "hamstrings"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a bar on a rack at shoulder height. Rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Step back from the rack.",
     "Begin by bending at the hips, moving them back as you bend over to near parallel. Keep your back arched and your cervical spine in proper alignment.",

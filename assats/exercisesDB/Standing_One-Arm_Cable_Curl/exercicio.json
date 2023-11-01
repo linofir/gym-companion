@@ -1,5 +1,5 @@
 {
-  "id": "0b8b1930-c568-48aa-8644-71357a36d8a0",
+  "id": "841e1fe7-e0ba-44f7-898c-8db6ba129860",
   "nome": "Standing One-Arm Cable Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight.",
     "Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance.",

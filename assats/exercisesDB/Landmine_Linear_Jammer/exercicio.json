@@ -1,5 +1,5 @@
 {
-  "id": "97060905-3519-4964-9bcb-6e7eac13d75c",
+  "id": "4f0495d2-2dbf-4adf-b9dd-462723d19cf1",
   "nome": "Landmine Linear Jammer",
   "grupoMuscular": [
     "shoulders"
@@ -15,7 +15,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a bar into landmine or, lacking one, securely anchor it in a corner. Load the bar to an appropriate weight and position the handle attachment on the bar.",
     "Raise the bar from the floor, taking the handles to your shoulders. This will be your starting position.",

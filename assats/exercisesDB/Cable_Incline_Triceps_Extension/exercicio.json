@@ -1,5 +1,5 @@
 {
-  "id": "2d381db2-98b2-4e57-89b4-df5727ffd050",
+  "id": "a59d2041-5d95-4ce8-9f90-7975932011a3",
   "nome": "Cable Incline Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
     "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) narrow grip (less than shoulder width) and keep your elbows tucked in to your sides. Your upper arms should create around a 25 degree angle when measured from the floor.",

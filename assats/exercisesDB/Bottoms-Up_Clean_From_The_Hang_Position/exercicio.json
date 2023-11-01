@@ -1,5 +1,5 @@
 {
-  "id": "09404501-a1a8-46a4-bcd3-083b073d9c71",
+  "id": "7f4aea03-4bce-47a3-8790-79cc7e18020f",
   "nome": "Bottoms-Up Clean From The Hang Position",
   "grupoMuscular": [
     "forearms"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Initiate the exercise by standing upright with a kettlebell in one hand.",
     "Swing the kettlebell back forcefully and then reverse the motion forcefully. Crush the kettlebell handle as hard as possible and raise the kettlebell to your shoulder."

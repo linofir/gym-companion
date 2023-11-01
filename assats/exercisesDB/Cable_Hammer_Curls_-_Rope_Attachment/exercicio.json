@@ -1,5 +1,5 @@
 {
-  "id": "0d8217ea-76a8-4a42-8de3-83a8e10a2262",
+  "id": "293baa10-b9e8-43a7-9e10-e07e8c60bedb",
   "nome": "Cable Hammer Curls - Rope Attachment",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.",
     "Grasp the rope with a neutral (palms-in) grip and stand straight up keeping the natural arch of the back and your torso stationary.",

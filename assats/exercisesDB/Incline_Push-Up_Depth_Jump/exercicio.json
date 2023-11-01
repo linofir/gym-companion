@@ -1,5 +1,5 @@
 {
-  "id": "379d214e-2744-410b-aac0-dfd06ecc072c",
+  "id": "02f4cc0e-da3c-435b-a108-e77675d6abbb",
   "nome": "Incline Push-Up Depth Jump",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "For this drill you will need a box about 12 inches high, and two thick mats or aerobics steps.",
     "Place the steps just outside of your shoulders, and place your feet on top of the box so that you are in an incline pushup position, your hands just inside the steps. This will be your starting position.",

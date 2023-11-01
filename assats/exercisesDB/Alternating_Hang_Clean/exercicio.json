@@ -1,5 +1,5 @@
 {
-  "id": "e04e3356-5999-4594-9dd7-976a1c8a47c6",
+  "id": "62e5c7d5-a865-496d-9a9e-767c52614690",
   "nome": "Alternating Hang Clean",
   "grupoMuscular": [
     "hamstrings"
@@ -15,7 +15,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
     "Clean one kettlebell to your shoulder and hold on to the other kettlebell in a hanging position. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so.",

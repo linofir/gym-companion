@@ -1,5 +1,5 @@
 {
-  "id": "ae9aac8e-b81f-4d4b-9cf2-542d69d46d16",
+  "id": "ace5fdbb-2d87-4190-a642-bd3d313eda94",
   "nome": "Seated Glute",
   "grupoMuscular": [
     "glutes"
@@ -10,7 +10,8 @@
   "nivel": "expert",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "In a seated position with your knees bent, cross one ankle over the opposite knee. Your partner will stand behind you. Now, lean forward as your partner braces your shoulders with their hands. This will be your starting position.",
     "Attempt to push your torso back for 10-20 seconds, as your partner prevents any actual movement of your torso.",

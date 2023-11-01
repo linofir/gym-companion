@@ -1,5 +1,5 @@
 {
-  "id": "e5669215-98b1-4ee6-bfb1-ac8684acfa6e",
+  "id": "b8695dfa-bfd0-4f3e-9be4-91e3ebec6200",
   "nome": "Board Press",
   "grupoMuscular": [
     "triceps"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin by lying on the bench, getting your head beyond the bar if possible. One to five boards, made out of 2x6\u0027s, can be screwed together and held in place by a training partner, bands, or just tucked under your shirt.",
     "Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",

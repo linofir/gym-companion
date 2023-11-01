@@ -1,5 +1,5 @@
 {
-  "id": "914f67be-7194-4452-9ec0-0b18bb7e7092",
+  "id": "df5f5495-a739-4fb6-8aba-e8844a6cfcac",
   "nome": "Reverse Grip Bent-Over Rows",
   "grupoMuscular": [
     "middle back"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Stand erect while holding a barbell with a supinated grip (palms facing up).",
     "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",

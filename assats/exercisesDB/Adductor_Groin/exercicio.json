@@ -1,5 +1,5 @@
 {
-  "id": "69557679-ef45-407b-9b7f-734ce3849581",
+  "id": "4930908b-e036-415f-9bf5-be8943ffe04c",
   "nome": "Adductor/Groin",
   "grupoMuscular": [
     "adductors"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Lie on your back with your feet raised towards the ceiling.",
     "Have your partner hold your feet or ankles. Abduct your legs as far as you can. This will be your starting position.",

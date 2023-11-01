@@ -1,5 +1,5 @@
 {
-  "id": "a4824081-761a-42d6-8b26-c480fd893153",
+  "id": "3a5d98b9-e8a0-447f-b7ac-472aa84dec1f",
   "nome": "Reverse Plate Curls",
   "grupoMuscular": [
     "biceps"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Start by standing straight with a weighted plate held by both hands and arms fully extended. Use a pronated grip (palms facing down) and make sure your fingers grab the rough side of the plate while your thumb grabs the smooth side. Note: For the best results, grab the weighted plate at an 11:00 and 1:00 o\u0027clock position.",
     "Your feet should be shoulder width apart from each other and the weighted plate should be near the groin area. This is the starting position.",

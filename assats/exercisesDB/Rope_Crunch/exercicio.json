@@ -1,5 +1,5 @@
 {
-  "id": "f5c316c9-92be-4a43-bde9-23beede816c0",
+  "id": "ae526b38-2edf-40b3-a377-b8adb9bc3e1d",
   "nome": "Rope Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Kneel 1-2 feet in front of a cable system with a rope attached.",
     "After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.",

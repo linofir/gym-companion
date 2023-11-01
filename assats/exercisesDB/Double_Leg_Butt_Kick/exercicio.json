@@ -1,5 +1,5 @@
 {
-  "id": "f92c8ee5-1ca7-4290-80ca-49c6a1340ffe",
+  "id": "190c77a4-a88c-4bc4-8ebe-eddbd70f25b5",
   "nome": "Double Leg Butt Kick",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "Begin standing with your knees slightly bent.",
     "Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum vertical height.",

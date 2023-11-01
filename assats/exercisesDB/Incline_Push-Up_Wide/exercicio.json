@@ -1,5 +1,5 @@
 {
-  "id": "11770a58-c84b-44b5-ad90-aff7eb5377c5",
+  "id": "34e0c65d-cd25-4682-bf50-d269414cbd6f",
   "nome": "Incline Push-Up Wide",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
     "Place your hands on the bar, with your hands wider than shoulder width.",

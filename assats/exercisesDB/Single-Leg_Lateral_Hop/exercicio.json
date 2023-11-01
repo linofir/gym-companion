@@ -1,5 +1,5 @@
 {
-  "id": "e365715d-f628-4d80-919b-f6405293e7d4",
+  "id": "da6c13c7-d8f6-4abd-a5fd-31cf064f4575",
   "nome": "Single-Leg Lateral Hop",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Stand to the side of a cone or hurdle. To get into the start position, stand on one leg with your knee slightly bent.",
     "To begin, execute a counterjump to hop sideways over the cone.",

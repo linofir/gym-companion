@@ -1,5 +1,5 @@
 {
-  "id": "350f030d-4f4e-4f3e-8db4-61062c82d255",
+  "id": "32f17ffe-5252-4d59-8770-9f0390e166a3",
   "nome": "Bench Sprint",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Stand on the ground with one foot resting on a bench or box with your heel close to the edge.",
     "Push off with your foot on top of the bench, extending through the hip and knee.",

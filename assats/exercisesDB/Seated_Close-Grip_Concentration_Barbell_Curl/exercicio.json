@@ -1,5 +1,5 @@
 {
-  "id": "fdf56616-1ae7-4602-87ec-227150da5b83",
+  "id": "d0b54027-e92d-43d7-9466-bcec3b6404ef",
   "nome": "Seated Close-Grip Concentration Barbell Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Sit down on a flat bench with a barbell or E-Z Bar in front of you in between your legs. Your legs should be spread with the knees bent and the feet on the floor.",
     "Use your arms to pick the barbell up and place the back of your upper arms on top of your inner thighs (around three and a half inches away from the front of the knee). A supinated grip closer than shoulder width is needed to perform this exercise. Tip: Your arm should be extended at arms length and the barbell should be above the floor. This will be your starting position.",

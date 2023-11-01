@@ -1,5 +1,5 @@
 {
-  "id": "f9136595-b9de-4073-9f7c-c7bd2f8846c3",
+  "id": "a2526f49-cbd2-4116-aa4d-c6d8a22a7212",
   "nome": "Lying Supine Dumbbell Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie down on a flat bench face up while holding a dumbbell in each arm on top of your thighs.",
     "Bring the dumbbells to the sides with the arms extended and the palms of the hands facing your thighs (neutral grip).",

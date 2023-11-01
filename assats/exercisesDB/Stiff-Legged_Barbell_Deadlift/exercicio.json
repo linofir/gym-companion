@@ -1,5 +1,5 @@
 {
-  "id": "08b888f8-c9b1-4238-a4c6-120a0209a94a",
+  "id": "cf25f07b-fb65-4113-b915-f0e7be12bd0f",
   "nome": "Stiff-Legged Barbell Deadlift",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Grasp a bar using an overhand grip (palms facing down). You may need some wrist wraps if using a significant amount of weight.",
     "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",

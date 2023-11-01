@@ -1,5 +1,5 @@
 {
-  "id": "a3e6137e-2775-48cc-8445-29a097686d31",
+  "id": "e6a8fbfb-5c92-4fbf-9358-49fd67f23eb7",
   "nome": "Drop Push",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Position low boxes or other platforms 2-3 feet apart.",
     "Move to a pushup position between them, supporting yourself by placing your hands on the boxes.",

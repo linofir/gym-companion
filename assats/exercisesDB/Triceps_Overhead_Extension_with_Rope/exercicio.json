@@ -1,5 +1,5 @@
 {
-  "id": "358929b0-ed4c-480e-a61e-971ca25aba02",
+  "id": "7209188c-db51-45c7-bfe5-146b63e246c0",
   "nome": "Triceps Overhead Extension with Rope",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Attach a rope to a low pulley. After selecting an appropriate weight, grasp the rope with both hands and face away from the cable.",
     "Position your hands behind your head with your elbows point straight up. Your elbows should start out flexed, and you can stagger your stance and lean gently away from the machine to create greater stability. This will be your starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "583b9078-818f-4606-8042-99cd7ff0ca51",
+  "id": "f54aace1-35c1-4851-a72b-38881d79f7f5",
   "nome": "Decline Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Secure your legs at the end of the decline bench and lie down.",
     "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don\u0027t lock your fingers behind your head.",

@@ -1,5 +1,5 @@
 {
-  "id": "d2590e3f-f424-488b-beca-6bb0eac5e284",
+  "id": "fd39f4f4-bc76-4a7a-917e-ae437f060b90",
   "nome": "Deadlift with Chains",
   "grupoMuscular": [
     "lower back"
@@ -15,7 +15,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.",
     "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.",

@@ -1,5 +1,5 @@
 {
-  "id": "0d157b71-869f-46ad-8892-748a53060308",
+  "id": "90cd3cdf-4dc9-4acd-aa46-71376e1cebf5",
   "nome": "Bosu Ball Cable Crunch With Side Bends",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Connect a standard handle to each arm of a cable machine, and position them in the most downward position.",
     "Grab a Bosu Ball and position it in front and center of the cable machine.",

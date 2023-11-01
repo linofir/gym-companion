@@ -1,5 +1,5 @@
 {
-  "id": "4710e254-ce24-41c6-848d-5c13af9e204e",
+  "id": "c0ae4711-e397-4716-90dc-68b6a16bd57e",
   "nome": "Catch and Overhead Throw",
   "grupoMuscular": [
     "lats"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "Begin standing while facing a wall or a partner.",
     "Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward.",

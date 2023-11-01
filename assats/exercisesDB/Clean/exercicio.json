@@ -1,5 +1,5 @@
 {
-  "id": "73a54877-a331-4bb4-844f-7a6ce2f8d319",
+  "id": "440aa89d-6552-4671-bd77-9678c6beae48",
   "nome": "Clean",
   "grupoMuscular": [
     "hamstrings"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "With a barbell on the floor close to the shins, take an overhand (or hook) grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
     "",

@@ -1,5 +1,5 @@
 {
-  "id": "e5d064c9-340a-491c-8971-45fc9fb09763",
+  "id": "e917e69a-8f79-464a-aa82-46f6901382e7",
   "nome": "Bent-Knee Hip Raise",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lay flat on the floor with your arms next to your sides.",
     "Now bend your knees at around a 75 degree angle and lift your feet off the floor by around 2 inches.",

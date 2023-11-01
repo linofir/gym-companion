@@ -1,5 +1,5 @@
 {
-  "id": "09aa1b8a-eee3-4654-bef8-fa68f14051fa",
+  "id": "6583271f-bc1f-4b2f-b461-bb5e56511a3a",
   "nome": "Rope Climb",
   "grupoMuscular": [
     "lats"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Grab the rope with both hands above your head. Pull down on the rope as you take a small jump.",
     "Wrap the rope around one leg, using your feet to pinch the rope. Reach up as high as possible with your arms, gripping the rope tightly.",

@@ -1,5 +1,5 @@
 {
-  "id": "27223401-05fd-4d7c-9070-a088624a4f89",
+  "id": "c5883097-b9cb-4332-b47f-93c7608506b0",
   "nome": "Dumbbell Shoulder Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "While holding a dumbbell in each hand, sit on a military press bench or utility bench that has back support. Place the dumbbells upright on top of your thighs.",
     "Now raise the dumbbells to shoulder height one at a time using your thighs to help propel them up into position.",

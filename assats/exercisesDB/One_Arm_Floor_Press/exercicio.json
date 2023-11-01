@@ -1,5 +1,5 @@
 {
-  "id": "ba61702d-a9ee-491a-b7c4-2a4a389c5b28",
+  "id": "eb04ec28-ef81-45cb-bb6f-a677cbe583bc",
   "nome": "One Arm Floor Press",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Lie down on a flat surface with your back pressing against the floor or an exercise mat. Make sure your knees are bent.",
     "Have a partner hand you the bar on one hand. When starting, your arm should be just about fully extended, similar to the starting position of a barbell bench press. However, this time your grip will be neutral (palms facing your torso).",

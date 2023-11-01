@@ -1,5 +1,5 @@
 {
-  "id": "4b60c0da-d972-4c31-91b8-192ea599699f",
+  "id": "bf0b7d49-3800-49c3-be8c-3180bf3b5ce8",
   "nome": "Clean and Press",
   "grupoMuscular": [
     "shoulders"
@@ -19,7 +19,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Assume a shoulder-width stance, with knees inside the arms. Now while keeping the back flat, bend at the knees and hips so that you can grab the bar with the arms fully extended and a pronated grip that is slightly wider than shoulder width. Point the elbows out to sides. The bar should be close to the shins. Position the shoulders over or slightly ahead of the bar. Establish a flat back posture. This will be your starting position.",
     "Begin to pull the bar by extending the knees. Move your hips forward and raise the shoulders at the same rate while keeping the angle of the back constant; continue to lift the bar straight up while keeping it close to your body.",

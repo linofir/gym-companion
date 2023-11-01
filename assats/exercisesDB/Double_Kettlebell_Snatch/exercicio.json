@@ -1,5 +1,5 @@
 {
-  "id": "526ae7b3-0251-4b80-85b3-bb99dc06ecc8",
+  "id": "27f40496-521c-4c03-ac1c-d8d78809b36c",
   "nome": "Double Kettlebell Snatch",
   "grupoMuscular": [
     "shoulders"
@@ -12,7 +12,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",
     "Swing the kettlebells between your legs forcefully and reverse the direction.",

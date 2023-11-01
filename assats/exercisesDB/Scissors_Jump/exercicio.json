@@ -1,5 +1,5 @@
 {
-  "id": "1e334a3d-6658-461d-a89b-a7f72aa3ad75",
+  "id": "b9d8ca50-7301-455e-9bab-391a999d084b",
   "nome": "Scissors Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
     "Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.",

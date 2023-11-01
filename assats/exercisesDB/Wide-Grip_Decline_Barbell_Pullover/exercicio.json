@@ -1,5 +1,5 @@
 {
-  "id": "768df1e0-a67c-4bac-9f2e-f0f0ccca7008",
+  "id": "d952f043-3c24-4292-aa53-49d38fed1a64",
   "nome": "Wide-Grip Decline Barbell Pullover",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Lie down on a decline bench with both legs securely locked in position. Reach for the barbell behind the head using a pronated grip (palms facing out). Make sure to grab the barbell wider than shoulder width apart for this exercise. Slowly lift the barbell up from the floor by using your arms.",
     "When positioned properly, your arms should be fully extended and perpendicular to the floor. This is the starting position.",

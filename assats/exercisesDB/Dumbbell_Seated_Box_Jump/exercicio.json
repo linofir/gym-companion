@@ -1,5 +1,5 @@
 {
-  "id": "005ecb3c-27b0-474d-8154-88be329507f1",
+  "id": "a18974d1-3a9d-48bd-a920-f8a71c81ef5a",
   "nome": "Dumbbell Seated Box Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Position a box a couple feet to the side of a bench. Hold a dumbbell to your chest with both hands and seat yourself on the bench facing the box. This will be your starting position.",
     "Plant your feet firmly on the ground as you lean forward, extending through the hips and knees to jump up and forward.",

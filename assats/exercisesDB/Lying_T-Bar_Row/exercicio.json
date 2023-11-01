@@ -1,5 +1,5 @@
 {
-  "id": "f7c1407f-2b36-462e-8a9d-353a933e8335",
+  "id": "008f2e83-0687-4100-a70a-681b6380334f",
   "nome": "Lying T-Bar Row",
   "grupoMuscular": [
     "middle back"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Load up the T-bar Row Machine with the desired weight and adjust the leg height so that your upper chest is at the top of the pad. Tip: In some machines all you can do is stand on the appropriate step that allows you to be at a height that has the upper chest at the top of the pad.",
     "Lay face down on the pad and grab the handles. You can either use a palms down, palms up, or palms in position depending on what part of your back you want to emphasize.",

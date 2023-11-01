@@ -1,5 +1,5 @@
 {
-  "id": "3fa82590-fd2e-4362-a511-862d131b7927",
+  "id": "ccfcac01-e2d4-461a-baf3-5f10f8e1ff61",
   "nome": "Rocket Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
     "To initiate the move, squat down halfway and explode back up as high as possible.",

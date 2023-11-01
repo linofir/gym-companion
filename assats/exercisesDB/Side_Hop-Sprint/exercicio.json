@@ -1,5 +1,5 @@
 {
-  "id": "9e413f23-b59f-4483-ad2b-23b0a13afaad",
+  "id": "544a1800-564b-4936-a1e1-731b0e8cb112",
   "nome": "Side Hop-Sprint",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Stand to the side of a cone or hurdle.",
     "Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.",

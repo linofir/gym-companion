@@ -1,5 +1,5 @@
 {
-  "id": "43982785-ce0f-413a-b6a2-e31b718b8d69",
+  "id": "6c67994e-736b-4260-a9a1-8c9115928440",
   "nome": "Stairmaster",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": null,
   "mecanica": null,
-  "categoria": null,
+  "categoria": "cardio",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, step onto the stairmaster and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise.",
     "Pump your legs up and down in an established rhythm, driving the pedals down but not all the way to the floor. It is recommended that you maintain your grip on the handles so that you don\u00E2\u20AC\u2122t fall. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",

@@ -1,5 +1,5 @@
 {
-  "id": "cd530979-af92-437e-887a-04af7dd398b4",
+  "id": "0deaaecf-5d39-4f49-ad79-604fcd17a860",
   "nome": "Smith Machine Bent Over Row",
   "grupoMuscular": [
     "middle back"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Set the barbell attached to the smith machine to a height that is about 2 inches below your knees.",
     "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up.",

@@ -1,5 +1,5 @@
 {
-  "id": "6f6fe1be-771a-4e48-a490-4890360267d0",
+  "id": "83520b6e-3bd2-46e8-b726-c95bbd6928eb",
   "nome": "Kneeling Squat",
   "grupoMuscular": [
     "glutes"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.",
     "With your head looking forward, sit back with your butt until you touch your calves.",

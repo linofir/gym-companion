@@ -1,5 +1,5 @@
 {
-  "id": "2e6ded77-5d52-4d5c-8b12-f6c9ac2e2a6b",
+  "id": "39abe9fe-6d9d-423d-8f8e-3c4ae34c2082",
   "nome": "Snatch from Blocks",
   "grupoMuscular": [
     "quadriceps"
@@ -17,7 +17,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a loaded barbell on boxes or stands of the desired height. A wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar, with the elbows pointed out. This will be the starting position.",
     "Begin the first pull by driving through the front of the heels, raising the bar from the boxes.",

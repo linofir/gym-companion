@@ -1,5 +1,5 @@
 {
-  "id": "e5812f5a-39a8-41a4-80a1-e678ff950c03",
+  "id": "e320ca7e-53c7-4a7e-93f8-41823a5390c2",
   "nome": "Jefferson Squats",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Place a barbell on the floor.",
     "Stand in the middle of the bar length wise.",

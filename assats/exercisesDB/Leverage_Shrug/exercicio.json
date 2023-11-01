@@ -1,5 +1,5 @@
 {
-  "id": "7ea4e8eb-ac4c-4006-b075-1a9935ef2132",
+  "id": "1507d1d2-e6dc-4b89-a233-052a2393da5e",
   "nome": "Leverage Shrug",
   "grupoMuscular": [
     "traps"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Load the pins to an appropriate weight. Position yourself directly between the handles.",
     "Grasp the top handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up.",

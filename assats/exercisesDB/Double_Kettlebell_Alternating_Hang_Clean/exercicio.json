@@ -1,5 +1,5 @@
 {
-  "id": "21789936-7079-4f76-ae1d-5626066e90e2",
+  "id": "b8775247-e76b-4ede-b215-831930197466",
   "nome": "Double Kettlebell Alternating Hang Clean",
   "grupoMuscular": [
     "hamstrings"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
     "Clean one kettlebell to your shoulder and hold on to the other kettlebell.",

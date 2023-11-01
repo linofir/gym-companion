@@ -1,5 +1,5 @@
 {
-  "id": "39e27a81-0d4e-4b3c-8eb3-0a68451751d6",
+  "id": "69502635-39ce-4c3e-a859-ffb493740863",
   "nome": "Prone Manual Hamstring",
   "grupoMuscular": [
     "hamstrings"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": null,
   "instrucoes": [
     "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
     "To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.",

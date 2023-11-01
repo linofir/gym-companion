@@ -1,5 +1,5 @@
 {
-  "id": "0839d21b-71f6-4a88-ab50-a8b87633c082",
+  "id": "58bd6cf0-4377-4708-afef-8792e3324f46",
   "nome": "Alternating Deltoid Raise",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "In a standing position, hold a pair of dumbbells at your side.",
     "Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.",

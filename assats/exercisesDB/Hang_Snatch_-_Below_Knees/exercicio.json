@@ -1,5 +1,5 @@
 {
-  "id": "0885b951-8caf-4d76-b7b9-c520f99d6ca5",
+  "id": "6a9e248f-2a81-4e04-95c1-c9fd869da3e3",
   "nome": "Hang Snatch - Below Knees",
   "grupoMuscular": [
     "hamstrings"
@@ -17,7 +17,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be just below the knees. This will be your starting position.",
     "Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",

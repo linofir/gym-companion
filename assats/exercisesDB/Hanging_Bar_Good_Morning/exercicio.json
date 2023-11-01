@@ -1,5 +1,5 @@
 {
-  "id": "f0267e19-a872-48b6-b6a5-476db756efb3",
+  "id": "b48ddbb4-a98a-40f1-b36c-dd9a877abe5b",
   "nome": "Hanging Bar Good Morning",
   "grupoMuscular": [
     "hamstrings"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a bar on a rack at about the same height as your stomach. Suspend the bar using chains or suspension straps.",
     "Bend over underneath the bar and rack the bar across the rear of your shoulders as you would a power squat, not on top of your traps. At the proper height, you should be near parallel to the floor when bent over. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Keep your back arched and your cervical spine in proper alignment.",

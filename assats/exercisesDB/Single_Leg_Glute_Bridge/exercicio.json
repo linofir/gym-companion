@@ -1,5 +1,5 @@
 {
-  "id": "66d56764-3318-4afc-b6ae-8d85b40c12ad",
+  "id": "5b835ce1-deda-43e8-a62f-dc2ee0e5a871",
   "nome": "Single Leg Glute Bridge",
   "grupoMuscular": [
     "glutes"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lay on the floor with your feet flat and knees bent.",
     "Raise one leg off of the ground, pulling the knee to your chest. This will be your starting position.",

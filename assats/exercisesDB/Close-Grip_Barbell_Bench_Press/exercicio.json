@@ -1,5 +1,5 @@
 {
-  "id": "57193ff9-7540-4cef-ac3e-0b94adbc5088",
+  "id": "fbac7891-e220-43be-a3cc-7d374f276f0f",
   "nome": "Close-Grip Barbell Bench Press",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Lie back on a flat bench. Using a close grip (around shoulder width), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
     "As you breathe in, come down slowly until you feel the bar on your middle chest. Tip: Make sure that - as opposed to a regular bench press - you keep the elbows close to the torso at all times in order to maximize triceps involvement.",

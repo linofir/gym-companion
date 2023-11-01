@@ -1,5 +1,5 @@
 {
-  "id": "2d0e6288-7c07-4db4-8266-463843550f28",
+  "id": "7c5b06e1-48f4-4127-8b58-f202665f18d6",
   "nome": "Cable Seated Lateral Raise",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Stand in the middle of two low pulleys that are opposite to each other and place a flat bench right behind you (in perpendicular fashion to you; the narrow edge of the bench should be the one behind you). Select the weight to be used on each pulley.",
     "Now sit at the edge of the flat bench behind you with your feet placed in front of your knees.",

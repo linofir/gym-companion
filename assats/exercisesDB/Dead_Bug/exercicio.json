@@ -1,5 +1,5 @@
 {
-  "id": "5949eb59-6252-4ad5-a6e1-72513ad30ed7",
+  "id": "c93bd95a-82bb-4284-868d-ecabfdd7dae6",
   "nome": "Dead Bug",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Begin lying on your back with your hands extended above you toward the ceiling.",
     "Bring your feet, knees, and hips up to 90 degrees.",

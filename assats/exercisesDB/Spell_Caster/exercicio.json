@@ -1,5 +1,5 @@
 {
-  "id": "8057e29c-1834-44d6-aaec-342d0828cc83",
+  "id": "f9477f47-15cc-4ebb-b43e-9d6009902c10",
   "nome": "Spell Caster",
   "grupoMuscular": [
     "abdominals"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Hold a dumbbell in each hand with a pronated grip. Your feet should be wide with your hips and knees extended. This will be your starting position.",
     "Begin the movement by pulling both of the dumbbells to one side next to your hip, rotating your torso.",

@@ -1,5 +1,5 @@
 {
-  "id": "52471f35-f93b-461d-a046-ec5e93990865",
+  "id": "548abfd8-4826-483b-8364-95bc97ecf848",
   "nome": "Close-Grip EZ-Bar Press",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "e-z curl bar",
   "instrucoes": [
     "Lie on a flat bench with an EZ bar loaded to an appropriate weight.",
     "Using a narrow grip lift the bar and hold it straight over your torso with your elbows in. The arms should be perpendicular to the floor. This will be your starting position.",

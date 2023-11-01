@@ -1,5 +1,5 @@
 {
-  "id": "0b044766-084d-408f-9c51-c51cf6c1023a",
+  "id": "4bcda87d-eed7-4837-86c9-e1eb340fd5e6",
   "nome": "Dumbbell One-Arm Shoulder Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.",
     "Clean the dumbbell up to bring it to shoulder height. The other hand can be kept fully extended to the side, by the waist or grabbing a fixed surface.",

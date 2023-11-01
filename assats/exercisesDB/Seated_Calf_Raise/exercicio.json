@@ -1,5 +1,5 @@
 {
-  "id": "db89046d-867e-4d30-9d6b-7d2a24d4d7cc",
+  "id": "8350b9fb-d703-419c-9f8d-ee1f9a945ab6",
   "nome": "Seated Calf Raise",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Sit on the machine and place your toes on the lower portion of the platform provided with the heels extending off. Choose the toe positioning of your choice (forward, in, or out) as per the beginning of this chapter.",
     "Place your lower thighs under the lever pad, which will need to be adjusted according to the height of your thighs. Now place your hands on top of the lever pad in order to prevent it from slipping forward.",

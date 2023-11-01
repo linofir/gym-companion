@@ -1,5 +1,5 @@
 {
-  "id": "2e8500ac-994d-4d62-b2f3-8b93c71b82d1",
+  "id": "8664e512-5019-45d9-995b-b79fe6392116",
   "nome": "Stiff Leg Barbell Good Morning",
   "grupoMuscular": [
     "lower back"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",

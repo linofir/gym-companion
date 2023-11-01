@@ -1,5 +1,5 @@
 {
-  "id": "a68a2232-5503-4109-8c33-e2b3e22a65d5",
+  "id": "2f1d7941-2581-4fe6-bce3-2b94143cd65f",
   "nome": "Reverse Hyperextension",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Place your feet between the pads after loading an appropriate weight. Lay on the top pad, allowing your hips to hang off the back, while grasping the handles to hold your position.",
     "To begin the movement, flex the hips, pulling the legs forward.",

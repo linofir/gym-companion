@@ -1,5 +1,5 @@
 {
-  "id": "bef4dfb8-29a9-4aa0-b7b7-abe5e29e21f8",
+  "id": "19867216-3a8d-40e0-a0c8-cfa0e62d812c",
   "nome": "Incline Push-Up Close-Grip",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
     "Place your hands next to one another on the bar.",

@@ -1,5 +1,5 @@
 {
-  "id": "af3adb32-be79-4fe6-8bee-d912f8bf673e",
+  "id": "a67b309d-d69f-471f-a5e4-8402dd3803cf",
   "nome": "Landmine 180\u0027s",
   "grupoMuscular": [
     "abdominals"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",
     "Raise the bar from the floor, taking it to shoulder height with both hands with your arms extended in front of you. Adopt a wide stance. This will be your starting position.",

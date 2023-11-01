@@ -1,5 +1,5 @@
 {
-  "id": "b17eefec-b2c5-4fe9-af0b-b98825528587",
+  "id": "846a8490-4c3e-4ab3-bb98-9e62f04f7ca2",
   "nome": "Double Kettlebell Push Press",
   "grupoMuscular": [
     "shoulders"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Clean two kettlebells to your shoulders.",
     "Squat down a few inches and reverse the motion rapidly. Use the momentum from the legs to drive the kettlebells overhead.",

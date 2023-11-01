@@ -1,5 +1,5 @@
 {
-  "id": "b2289d7e-3638-4aee-8013-ba80ece1debc",
+  "id": "272027ea-7f52-46be-b3ac-9eccfa5c8e4d",
   "nome": "Oblique Crunches - On The Floor",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
     "Place your left hand behind your head.",

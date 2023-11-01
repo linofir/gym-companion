@@ -1,5 +1,5 @@
 {
-  "id": "a5977bbf-ce8a-49b3-9e85-ec93119ed66b",
+  "id": "2d0a1fde-288d-44f3-b192-0fc71574ff65",
   "nome": "Suspended Fallout",
   "grupoMuscular": [
     "abdominals"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Adjust the straps so the handles are at an appropriate height, below waist level.",
     "Begin standing and grasping the handles. Lean into the straps, moving to an incline push-up position. This will be your starting position.",

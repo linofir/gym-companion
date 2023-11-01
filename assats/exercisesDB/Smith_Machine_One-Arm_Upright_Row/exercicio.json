@@ -1,5 +1,5 @@
 {
-  "id": "0908a1a6-6be9-4dec-b12f-744f7437fc71",
+  "id": "e726511f-fa73-4115-adcb-e0f6b1db793f",
   "nome": "Smith Machine One-Arm Upright Row",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "With the bar at thigh level, load an appropriate weight.",
     "Take a wide grip on the bar and unhook the weight, removing your off hand from the bar. Your arm should be extended as you stand up straight with your head and chest up. This will be your starting position.",

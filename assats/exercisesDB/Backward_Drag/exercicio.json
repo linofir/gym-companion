@@ -1,5 +1,5 @@
 {
-  "id": "7e959580-e27b-4fca-a6ed-f61f762ffeec",
+  "id": "197234dd-1242-438b-89d6-4e072e08b697",
   "nome": "Backward Drag",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.",
     "Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible."

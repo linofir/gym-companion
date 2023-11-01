@@ -1,5 +1,5 @@
 {
-  "id": "00e4ad64-12e9-40c9-b982-d914e1032490",
+  "id": "ebf557b7-122a-4181-9a56-8f118c842f22",
   "nome": "Band Hip Adductions",
   "grupoMuscular": [
     "adductors"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Anchor a band around a solid post or other object.",
     "Stand with your left side to the post, and put your right foot through the band, getting it around the ankle.",

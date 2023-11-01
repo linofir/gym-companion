@@ -1,5 +1,5 @@
 {
-  "id": "bf026abd-9c9f-4adf-bcfc-930928d955dc",
+  "id": "15265a34-5068-45f9-9b78-71eb9b1512f6",
   "nome": "Dumbbell Scaption",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "This corrective exercise strengthens the muscles that stabilize your shoulder blade. Hold a light weight in each hand, hanging at your sides. Your thumbs should pointing up.",
     "Begin the movement raising your arms out in front of you, about 30 degrees off center. Your arms should be fully extended as you perform the movement.",

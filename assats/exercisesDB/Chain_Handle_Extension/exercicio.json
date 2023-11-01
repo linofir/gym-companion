@@ -1,5 +1,5 @@
 {
-  "id": "9908ca40-e3ac-4d26-9474-75a1286b91ce",
+  "id": "63a3c157-347b-4b40-a852-1b7513624e66",
   "nome": "Chain Handle Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "other",
   "instrucoes": [
     "You will need two cable handle attachments and a flat bench, as well as chains, for this exercise. Clip the middle of the chains to the handles, and position yourself on the flat bench. Your elbows should be pointing straight up.",
     "Begin by extending through the elbow, keeping your upper arm still, with your wrists pronated.",

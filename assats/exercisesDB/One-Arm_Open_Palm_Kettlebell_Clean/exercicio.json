@@ -1,5 +1,5 @@
 {
-  "id": "0fb4acde-d87e-41c8-8146-c923a1ae9475",
+  "id": "2f898a33-c606-4f7b-8bcf-132205875833",
   "nome": "One-Arm Open Palm Kettlebell Clean",
   "grupoMuscular": [
     "hamstrings"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place one kettlebell between your feet.",
     "Grab the handle with one hand and raise the kettlebell rapidly, let it flip so that the ball of the kettlebell lands in the palm of your hand.",

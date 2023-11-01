@@ -1,5 +1,5 @@
 {
-  "id": "359b7152-c221-4b87-b80f-f2c1d1d1b115",
+  "id": "492abc88-e32c-41de-b679-eced6e1649f1",
   "nome": "Snatch Pull",
   "grupoMuscular": [
     "hamstrings"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "With a barbell on the floor close to the shins, take a wide snatch grip. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",
     "Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. Move the weight with control as you continue to above the knees.",

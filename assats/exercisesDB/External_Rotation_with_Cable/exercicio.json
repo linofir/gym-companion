@@ -1,5 +1,5 @@
 {
-  "id": "59978ccf-b2f8-4fc9-93bc-763898650030",
+  "id": "5149384e-85c9-4656-9c88-7bc1c03365af",
   "nome": "External Rotation with Cable",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Adjust the cable to the same height as your elbow. Stand with your left side to the band a couple of feet away.",
     "Grasp the handle with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",

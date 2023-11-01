@@ -1,5 +1,5 @@
 {
-  "id": "c26886fb-eba8-4329-9897-688c0adbf82f",
+  "id": "d2a7637f-140e-4b8a-b7ad-f9eb23fdd716",
   "nome": "Seated One-arm Cable Pulley Rows",
   "grupoMuscular": [
     "middle back"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
     "Lean over as you keep the natural alignment of your back and grab the single handle attachment with your left arm using a palms-down grip.",

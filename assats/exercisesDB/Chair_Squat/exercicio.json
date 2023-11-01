@@ -1,5 +1,5 @@
 {
-  "id": "b0a555e6-7540-4e1e-ad9f-086da7c3eb5a",
+  "id": "1523f4fa-f2bc-4d85-b1ba-08b869995bc4",
   "nome": "Chair Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, first set the bar to a position that best matches your height. Once the bar is loaded, step under it and position it across the back of your shoulders.",
     "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs.",

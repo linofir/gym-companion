@@ -1,5 +1,5 @@
 {
-  "id": "831d1cf0-d95b-42bf-8b2b-6d79b90d84c8",
+  "id": "07efe9c3-42c8-4267-aadc-8d703cf1d1d9",
   "nome": "Middle Back Shrug",
   "grupoMuscular": [
     "middle back"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie facedown on an incline bench while holding a dumbbell in each hand. Your arms should be fully extended hanging down and pointing towards the floor. The palms of your hands should be facing each other. This will be your starting position.",
     "As you exhale, squeeze your shoulder blades together and hold the contraction for a full second. Tip: This movement is just like the reverse action of a hug, or trying to perform rear laterals as if you had no arms.",

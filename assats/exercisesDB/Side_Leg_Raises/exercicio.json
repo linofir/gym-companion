@@ -1,5 +1,5 @@
 {
-  "id": "ba025580-c07d-46c0-890d-a498f6feba97",
+  "id": "4fca0851-6dbd-4ba6-8f95-732d9897ea4c",
   "nome": "Side Leg Raises",
   "grupoMuscular": [
     "adductors"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Stand next to a chair, which you may hold onto as a support. Stand on one leg. This will be your starting position.",
     "Keeping your leg straight, raise it as far out to the side as possible, and swing it back down, allowing it to cross the opposite leg.",

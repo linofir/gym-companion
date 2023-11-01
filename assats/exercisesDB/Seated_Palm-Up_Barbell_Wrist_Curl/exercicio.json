@@ -1,5 +1,5 @@
 {
-  "id": "bfaa7bd6-8e1b-4615-8024-825edeffa16c",
+  "id": "9e770650-1706-4b3e-85ff-9feb30262c8b",
   "nome": "Seated Palm-Up Barbell Wrist Curl",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",

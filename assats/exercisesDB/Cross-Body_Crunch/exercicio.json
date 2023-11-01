@@ -1,5 +1,5 @@
 {
-  "id": "caad4178-9479-4a36-953b-7c664bf1c2dc",
+  "id": "c8bcb74f-9bc9-46a9-8129-46a3854ad0dd",
   "nome": "Cross-Body Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie flat on your back and bend your knees about 60 degrees.",
     "Keep your feet flat on the floor and place your hands loosely behind your head. This will be your starting position.",

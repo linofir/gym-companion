@@ -1,5 +1,5 @@
 {
-  "id": "0a1c8af0-5813-4dfd-bf40-8146b31b24e5",
+  "id": "5cf006f1-48e2-47a7-9aab-c5f2c8c65d42",
   "nome": "Dips - Triceps Version",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "To get into the starting position, hold your body at arm\u0027s length with your arms nearly locked above the bars.",
     "Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm.",

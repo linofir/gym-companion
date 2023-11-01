@@ -1,5 +1,5 @@
 {
-  "id": "6f2560b3-da42-4db8-a140-628bbf29f5f9",
+  "id": "3ed9a319-3bb8-42a7-ab04-8ab8509dcaa0",
   "nome": "Calf Raises - With Bands",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Grab an exercise band and stand on it with your toes making sure that the length of the band between the foot and the arms is the same for both sides.",
     "While holding the handles of the band, raise the arms to the side of your head as if you were getting ready to perform a shoulder press. The palms should be facing forward with the elbows bent and to the sides. This movement will create tension on the band. This will be your starting position.",

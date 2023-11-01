@@ -1,5 +1,5 @@
 {
-  "id": "0e44c819-45b2-4500-a5c1-12b931bbc563",
+  "id": "34c65314-8fdf-4136-9bad-4aa690a2afd8",
   "nome": "On-Your-Back Quad Stretch",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "other",
   "instrucoes": [
     "Lie on a flat bench or step, and hang one leg and arm over the side.",
     "Bend the knee and hold the top of the foot. As you do this, be careful not to arch your lower back.",

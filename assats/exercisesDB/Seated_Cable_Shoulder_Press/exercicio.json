@@ -1,5 +1,5 @@
 {
-  "id": "7132b40c-6c00-4d0c-abbd-a8dac64e6456",
+  "id": "3c494bb0-2b1e-46d9-a647-c2db868fdeaf",
   "nome": "Seated Cable Shoulder Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 90 degrees to the body, with your head and chest up. The elbows should also be bent to about 90 degrees. This will be your starting position.",
     "Begin by extending through the elbow, pressing the handles together above your head.",

@@ -1,5 +1,5 @@
 {
-  "id": "9e00192f-3c80-4523-8dfb-7cc372454cab",
+  "id": "dbfaee7d-cc8e-41cb-a27d-28c16ba00987",
   "nome": "Back Flyes - With Bands",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Run a band around a stationary post like that of a squat rack.",
     "Grab the band by the handles and stand back so that the tension in the band rises.",

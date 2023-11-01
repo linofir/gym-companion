@@ -1,5 +1,5 @@
 {
-  "id": "cbef71bf-85fd-4d2d-b203-fc65159b32e7",
+  "id": "295d2d0c-cea7-4f8b-91c5-80520f806e8b",
   "nome": "Scissor Kick",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
     "With a slight bend at the knees, lift your legs up so that your heels are about 6 inches off the ground. This is the starting position.",

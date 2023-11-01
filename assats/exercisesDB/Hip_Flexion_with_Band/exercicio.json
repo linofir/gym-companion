@@ -1,5 +1,5 @@
 {
-  "id": "4a3f08f3-0b9d-4afa-88f2-420b96531be4",
+  "id": "dec4d7df-8f2d-49bd-b61b-389b099c4a0d",
   "nome": "Hip Flexion with Band",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
     "Face away from the attachment point of the band.",

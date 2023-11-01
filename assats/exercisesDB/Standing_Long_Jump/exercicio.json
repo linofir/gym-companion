@@ -1,5 +1,5 @@
 {
-  "id": "d49f904e-80a8-485d-8fd4-1a6c8a6f56fb",
+  "id": "266b4401-a525-4bd5-acd2-01e4f9a653fd",
   "nome": "Standing Long Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.",
     "Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.",

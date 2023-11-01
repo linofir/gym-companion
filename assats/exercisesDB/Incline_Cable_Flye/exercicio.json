@@ -1,5 +1,5 @@
 {
-  "id": "9bce6546-e571-475b-8cbd-a2c5e0ed6254",
+  "id": "d89a4a7f-874f-44ee-9662-52524f1f68e1",
   "nome": "Incline Cable Flye",
   "grupoMuscular": [
     "chest"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "To get yourself into the starting position, set the pulleys at the floor level (lowest level possible on the machine that is below your torso).",
     "Place an incline bench (set at 45 degrees) in between the pulleys, select a weight on each one and grab a pulley on each hand.",

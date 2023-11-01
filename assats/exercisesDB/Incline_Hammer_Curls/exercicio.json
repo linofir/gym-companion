@@ -1,5 +1,5 @@
 {
-  "id": "5fb90036-8f93-4880-800f-3bc26f94de42",
+  "id": "716ee8eb-f47c-433f-96bc-3fadf99df3e2",
   "nome": "Incline Hammer Curls",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Seat yourself on an incline bench with a dumbbell in each hand. You should pressed firmly against he back with your feet together. Allow the dumbbells to hang straight down at your side, holding them with a neutral grip. This will be your starting position.",
     "Initiate the movement by flexing at the elbow, attempting to keep the upper arm stationary.",

@@ -1,5 +1,5 @@
 {
-  "id": "2b5c640c-93b0-4b81-8d3f-34890e4991ae",
+  "id": "bca96f68-0b03-4668-90f3-f2c18440b752",
   "nome": "Pushups (Close and Wide Hand Positions)",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie on the floor face down and body straight with your toes on the floor and the hands wider than shoulder width for a wide hand position and closer than shoulder width for a close hand position. Make sure you are holding your torso up at arms length.",
     "Lower yourself until your chest almost touches the floor as you inhale.",

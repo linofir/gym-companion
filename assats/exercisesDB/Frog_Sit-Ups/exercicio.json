@@ -1,5 +1,5 @@
 {
-  "id": "f6ec62be-631a-49ca-8924-6b4ea02a3790",
+  "id": "84e2a183-5c74-43c0-baea-27789250f96e",
   "nome": "Frog Sit-Ups",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie with your back flat on the floor (or exercise mat) and your legs extended in front of you.",
     "Now bend at the knees and place your outer thighs by the floor (or mat) as you make the soles of your feet touch each other.",

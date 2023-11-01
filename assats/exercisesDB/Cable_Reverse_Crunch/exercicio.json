@@ -1,5 +1,5 @@
 {
-  "id": "0d66b6f6-ad79-49f8-b0f7-07151730add0",
+  "id": "6eed7102-a2b4-408c-b477-497aa9f0a927",
   "nome": "Cable Reverse Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Connect an ankle strap attachment to a low pulley cable and position a mat on the floor in front of it.",
     "Sit down with your feet toward the pulley and attach the cable to your ankles.",

@@ -1,5 +1,5 @@
 {
-  "id": "22339bd5-6003-419d-ac39-8c361c5ca280",
+  "id": "ac2e0ebf-ff21-433c-92be-7d65627fcb18",
   "nome": "Shoulder Raise",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
   ],

@@ -1,5 +1,5 @@
 {
-  "id": "6c3550c4-f811-4dc5-840b-7874cff2255a",
+  "id": "683fdd5a-3589-4caf-90db-6c726ecf640e",
   "nome": "Pallof Press With Rotation",
   "grupoMuscular": [
     "abdominals"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Connect a standard handle to a tower, and position the cable to shoulder height.",
     "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm\u00E2\u20AC\u2122s length away from the pulley, with the tension of the weight on the cable. Align outstretched arm with cable.",

@@ -1,5 +1,5 @@
 {
-  "id": "8f1eaf50-c928-471d-aac2-965977101b38",
+  "id": "d4dc7e05-0f7b-477e-ba02-bcee22945ef4",
   "nome": "Lying Cambered Barbell Row",
   "grupoMuscular": [
     "middle back"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Place a cambered bar underneath an exercise bench.",
     "Lie face down on the exercise bench and grab the bar using a palms down (pronated grip) that is wider than shoulder width. This will be your starting position.",

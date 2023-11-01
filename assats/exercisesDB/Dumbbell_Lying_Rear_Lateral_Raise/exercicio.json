@@ -1,5 +1,5 @@
 {
-  "id": "8b365efb-e7f6-4659-9ce2-5d5feb49964b",
+  "id": "0e8857ce-3bb4-481e-be0d-258e8cb00fc1",
   "nome": "Dumbbell Lying Rear Lateral Raise",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "While holding a dumbbell in each hand, lay with your chest down on a slightly inclined (around 15 degrees when measured from the floor) adjustable bench.",
     "Position the palms of the hands in a neutral manner (palms facing your torso) as you keep the arms extended with the elbows slightly bent. This will be your starting position.",

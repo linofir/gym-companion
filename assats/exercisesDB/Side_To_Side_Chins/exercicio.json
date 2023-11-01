@@ -1,5 +1,5 @@
 {
-  "id": "4410fd72-c77d-4ad9-8aac-666a4ce42b98",
+  "id": "edb58d8a-1aff-423a-907d-c35568fb918f",
   "nome": "Side To Side Chins",
   "grupoMuscular": [
     "lats"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
     "As you have both arms extended in front of you holding the bar at a wide grip, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",

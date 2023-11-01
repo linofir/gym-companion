@@ -1,5 +1,5 @@
 {
-  "id": "5c51d742-157d-47f5-af48-e6f7799d7c9b",
+  "id": "fac1c05f-d0bb-4859-a345-260dcffb50ec",
   "nome": "Child\u0027s Pose",
   "grupoMuscular": [
     "lower back"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Get on your hands and knees, walk your hands in front of you.",
     "Lower your buttocks down to sit on your heels. Let your arms drag along the floor as you sit back to stretch your entire spine.",

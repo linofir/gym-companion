@@ -1,5 +1,5 @@
 {
-  "id": "07267987-d3d2-4564-a4a4-0508734f53f5",
+  "id": "6b588c7d-8938-46ec-a2bc-94131dcaaeb3",
   "nome": "Supine Chest Throw",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.",
     "Begin with the ball on your chest, held with both hands on the bottom.",

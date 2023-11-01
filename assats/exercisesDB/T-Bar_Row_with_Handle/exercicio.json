@@ -1,5 +1,5 @@
 {
-  "id": "ad7bcfa9-9a26-44b5-8c62-5e34cc46a587",
+  "id": "b07a7f59-65ca-40d3-b79e-80b83cda77e4",
   "nome": "T-Bar Row with Handle",
   "grupoMuscular": [
     "middle back"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
     "Stand over the bar, and position a Double D row handle around the bar next to the collar. Using your hips and legs, rise to a standing position.",

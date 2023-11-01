@@ -1,5 +1,5 @@
 {
-  "id": "4ffbe417-a9a8-4d43-9bab-8584d3c58e17",
+  "id": "862cf025-cdb7-483c-a86a-7df93cd79372",
   "nome": "Chest Push (single response)",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "medicine ball",
   "instrucoes": [
     "Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.",
     "Execute the pass by exploding forward and outward with the hips while pushing the ball as far as possible.",

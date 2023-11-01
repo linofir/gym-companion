@@ -1,5 +1,5 @@
 {
-  "id": "8228a5c1-1bf4-42c1-b9a5-ba25c2197b54",
+  "id": "bb652bdd-ed19-4c3b-bafd-0f6e8bb69630",
   "nome": "One Arm Chin-Up",
   "grupoMuscular": [
     "middle back"
@@ -12,7 +12,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "For this exercise, start out by placing a towel around a chin up bar.",
     "Grab the chin-up bar with your palm facing you. One hand will be grabbing the chin-up bar and the other will be grabbing the towel.",

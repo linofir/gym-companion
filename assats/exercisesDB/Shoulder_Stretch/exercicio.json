@@ -1,5 +1,5 @@
 {
-  "id": "ccaa150e-0b09-495b-88d6-79f728198895",
+  "id": "8ac9cfd4-b996-420a-b1fb-9fc75d67c6c4",
   "nome": "Shoulder Stretch",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Reach your left arm across your body and hold it straight."
   ],

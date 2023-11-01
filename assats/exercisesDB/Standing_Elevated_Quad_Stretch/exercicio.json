@@ -1,5 +1,5 @@
 {
-  "id": "e08c79cb-fb54-453c-9c84-56afb629e168",
+  "id": "c071e59a-d093-4b82-a7e2-35a3f4d5f111",
   "nome": "Standing Elevated Quad Stretch",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "other",
   "instrucoes": [
     "Start by standing with your back about two to three feet away from a bench or step.",
     "Lift one leg behind you and rest your foot on the step,either on your instep or the ball of your foot, whichever you find most comfortable.",

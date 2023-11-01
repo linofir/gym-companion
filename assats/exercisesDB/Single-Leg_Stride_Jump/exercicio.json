@@ -1,5 +1,5 @@
 {
-  "id": "ad7fefcc-e551-413c-825f-bff7f747852c",
+  "id": "f7bb915b-6d74-455f-b769-9472a3653614",
   "nome": "Single-Leg Stride Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Stand to the side of a box with your inside foot on top of it, close to the edge.",
     "Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.",

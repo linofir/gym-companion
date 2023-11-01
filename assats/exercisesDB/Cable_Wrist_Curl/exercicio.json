@@ -1,5 +1,5 @@
 {
-  "id": "90233ccf-82af-42dc-8a75-d69dae7fb233",
+  "id": "f260a1cf-e4eb-420d-be02-31cb79c5e8f8",
   "nome": "Cable Wrist Curl",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Start out by placing a flat bench in front of a low pulley cable that has a straight bar attachment.",
     "Use your arms to grab the cable bar with a narrow to shoulder width supinated grip (palms up) and bring them up so that your forearms are resting against the top of your thighs. Your wrists should be hanging just beyond your knees.",

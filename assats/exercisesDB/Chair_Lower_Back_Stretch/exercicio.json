@@ -1,5 +1,5 @@
 {
-  "id": "00be6d7a-69af-44b5-af3d-74498c406728",
+  "id": "3f5f2707-8b7e-4ec5-9d77-013a4693bace",
   "nome": "Chair Lower Back Stretch",
   "grupoMuscular": [
     "lats"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Sit upright on a chair.",
     "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",

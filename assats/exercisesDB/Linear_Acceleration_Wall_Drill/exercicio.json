@@ -1,5 +1,5 @@
 {
-  "id": "c49e1492-d6cb-4c6b-ba51-85d61a2060d6",
+  "id": "71ddbe8a-0acf-4900-ab58-016f400c9a6f",
   "nome": "Linear Acceleration Wall Drill",
   "grupoMuscular": [
     "hamstrings"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": null,
   "instrucoes": [
     "Lean at around 45 degrees against a wall. Your feet should be together, glutes contracted.",
     "Begin by lifting your right knee quickly, pausing, and then driving it straight down into the ground.",

@@ -1,5 +1,5 @@
 {
-  "id": "1c9bdd47-94c6-45be-b1b4-fd9a12744ca6",
+  "id": "17c0ba97-c0e8-494c-b7ba-77d56f8cf7f9",
   "nome": "Ball Leg Curl",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "exercise ball",
   "instrucoes": [
     "Begin on the floor laying on your back with your feet on top of the ball.",
     "Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.",

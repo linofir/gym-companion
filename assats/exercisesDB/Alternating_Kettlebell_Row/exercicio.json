@@ -1,5 +1,5 @@
 {
-  "id": "6ae68d37-9005-4b26-9e64-fb4212a8d691",
+  "id": "ee611e9d-dcd2-497a-901e-5e1805c1eb92",
   "nome": "Alternating Kettlebell Row",
   "grupoMuscular": [
     "middle back"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place two kettlebells in front of your feet. Bend your knees slightly and push your butt out as much as possible. As you bend over to get into the starting position grab both kettlebells by the handles.",
     "Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.",

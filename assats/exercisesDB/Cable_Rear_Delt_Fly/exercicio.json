@@ -1,5 +1,5 @@
 {
-  "id": "86ec6218-5fd1-40bd-b519-1d157d021261",
+  "id": "d7bfe4b9-62c2-4fd8-9b69-88eca0f8e60f",
   "nome": "Cable Rear Delt Fly",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Adjust the pulleys to the appropriate height and adjust the weight. The pulleys should be above your head.",
     "Grab the left pulley with your right hand and the right pulley with your left hand, crossing them in front of you. This will be your starting position.",

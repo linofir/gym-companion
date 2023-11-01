@@ -1,5 +1,5 @@
 {
-  "id": "277cdd83-82fb-425b-8a1e-023ee68c1a0f",
+  "id": "643aa68b-5888-4fa1-a8a8-0d8a5d2c9934",
   "nome": "Power Stairs",
   "grupoMuscular": [
     "hamstrings"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "In the power stairs, implements are moved up a staircase. For training purposes, these can be performed with a tire or box.",
     "Begin by taking the implement with both hands. Set your feet wide, with your head and chest up. Drive through the ground with your heels, extending your knees and hips to raise the weight from the ground.",

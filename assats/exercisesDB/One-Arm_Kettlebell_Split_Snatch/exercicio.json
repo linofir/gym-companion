@@ -1,5 +1,5 @@
 {
-  "id": "e5990b51-0ac6-4c3b-92ed-abd5a11c0566",
+  "id": "f6e16865-26f8-4ddf-84c8-434fbca4bea3",
   "nome": "One-Arm Kettlebell Split Snatch",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Hold a kettlebell in one hand by the handle.",
     "Squat towards the floor, and then reverse the motion, extending the hips, knees, and finally the ankles, to raise the kettlebell overhead.",

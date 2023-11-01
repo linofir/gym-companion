@@ -1,5 +1,5 @@
 {
-  "id": "9b8326c4-ee64-44c6-a5d2-b10c8e7d3fe0",
+  "id": "ca890c34-8c2e-4c98-bf2d-21566a83aae6",
   "nome": "Seated Head Harness Neck Resistance",
   "grupoMuscular": [
     "neck"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Place a neck strap on the floor at the end of a flat bench. Once you have selected the weights, sit at the end of the flat bench with your feet wider than shoulder width apart from each other. Your toes should be pointed out.",
     "Slowly move your torso forward until it is almost parallel with the floor. Using both hands, securely position the neck strap around your head. Tip: Make sure the weights are still lying on the floor to prevent any strain on the neck. Now grab the weight with both hands while elevating your torso back until it is almost perpendicular to the floor. Note: Your head and torso needs to be slightly tilted forward to perform this exercise.",

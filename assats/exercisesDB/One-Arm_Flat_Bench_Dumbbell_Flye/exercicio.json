@@ -1,5 +1,5 @@
 {
-  "id": "2c92f1d7-7cd2-4e62-920f-47c358dcc663",
+  "id": "68f70147-79a0-4660-943a-be389e281cc0",
   "nome": "One-Arm Flat Bench Dumbbell Flye",
   "grupoMuscular": [
     "chest"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie down on a flat bench with a dumbbell in one hand resting on top of your thigh. The palm of your hand with the dumbbell in it should be at a neutral grip.",
     "By using your thighs to help you get the dumbbell up, clean the dumbbell so that you can hold it in front of you with your lifting arm being fully extended. Remember to maintain a neutral grip with this exercise. Your non lifting hand should be to the side holding the flat bench for better support. This will be your starting position.",

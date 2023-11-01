@@ -1,5 +1,5 @@
 {
-  "id": "3b0c1bca-cced-4289-a20d-ddf985fc394d",
+  "id": "c82193be-f5cd-4cc2-8042-28acaa238731",
   "nome": "Atlas Stone Trainer",
   "grupoMuscular": [
     "lower back"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "This trainer is effective for developing Atlas Stone strength for those who don\u0027t have access to stones, and are typically made from bar ends or heavy pipe.",
     "Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.",

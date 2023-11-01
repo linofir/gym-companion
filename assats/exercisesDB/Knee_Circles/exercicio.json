@@ -1,5 +1,5 @@
 {
-  "id": "0d91bfb0-2c04-48c6-8d02-0cf101d7cd15",
+  "id": "57e5da41-d777-45d5-9f6e-eca18221409d",
   "nome": "Knee Circles",
   "grupoMuscular": [
     "calves"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Stand with your legs together and hands by your waist.",
     "Now move your knees in a circular motion as you breathe normally.",

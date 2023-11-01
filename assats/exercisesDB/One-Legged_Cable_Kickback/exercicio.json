@@ -1,5 +1,5 @@
 {
-  "id": "917cca6f-2200-4699-af8f-8e54e9847c69",
+  "id": "d436009b-4180-4778-a05f-6e3c4e349fb8",
   "nome": "One-Legged Cable Kickback",
   "grupoMuscular": [
     "glutes"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Hook a leather ankle cuff to a low cable pulley and then attach the cuff to your ankle.",
     "Face the weight stack from a distance of about two feet, grasping the steel frame for support.",

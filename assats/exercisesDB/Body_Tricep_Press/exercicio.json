@@ -1,5 +1,5 @@
 {
-  "id": "2d3cf6cf-7bc7-43da-8e1c-a6dfae5186b8",
+  "id": "86607ccf-74e5-45e1-9766-7b4376e6ce5d",
   "nome": "Body Tricep Press",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Position a bar in a rack at chest height.",
     "Standing, take a shoulder width grip on the bar and step a yard or two back, feet together and arms extended so that you are leaning on the bar. This will be your starting position.",

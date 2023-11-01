@@ -1,5 +1,5 @@
 {
-  "id": "e6308f56-aa9b-48be-81a5-9c0d1a6a8ff8",
+  "id": "90f46f31-a0bd-4372-9479-dc5f40efe6bb",
   "nome": "Kettlebell Pistol Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.",
     "Squat down by flexing the knee and sitting back with the hips, holding the kettlebell up in front of you.",

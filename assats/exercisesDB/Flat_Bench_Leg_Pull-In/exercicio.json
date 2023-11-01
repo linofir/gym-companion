@@ -1,5 +1,5 @@
 {
-  "id": "03204b4a-c747-4d04-8c33-df4075585e5a",
+  "id": "898f5508-0563-4c28-9319-39b0bbe562dd",
   "nome": "Flat Bench Leg Pull-In",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie on an exercise mat or a flat bench with your legs off the end.",
     "Place your hands either under your glutes with your palms down or by the sides holding on to the bench (or with palms down by the side on an exercise mat). Also extend your legs straight out. This will be your starting position.",

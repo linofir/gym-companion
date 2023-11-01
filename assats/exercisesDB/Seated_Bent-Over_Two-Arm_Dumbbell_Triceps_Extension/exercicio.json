@@ -1,5 +1,5 @@
 {
-  "id": "d18da0bf-cf39-4f0d-9ea4-ecf3a7e34320",
+  "id": "51d84e3b-4cc3-477f-9bc6-d4f68f71d7e0",
   "nome": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Sit down at the end of a flat bench with a dumbbell in both arms using a neutral grip (palms of the hand facing you).",
     "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",

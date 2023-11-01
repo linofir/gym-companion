@@ -1,5 +1,5 @@
 {
-  "id": "ec1f991b-3f01-45b3-8859-884aedf52333",
+  "id": "2e3bbe8c-2d13-4616-ae63-8d24e956e232",
   "nome": "Wrist Roller",
   "grupoMuscular": [
     "forearms"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "To begin, stand straight up grabbing a wrist roller using a pronated grip (palms facing down). Your feet should be shoulder width apart.",
     "Slowly lift both arms until they are fully extended and parallel to the floor in front of you. Note: Make sure the rope is not wrapped around the roller. Your entire body should be stationary except for the forearms. This is the starting position.",

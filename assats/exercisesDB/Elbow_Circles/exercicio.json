@@ -1,5 +1,5 @@
 {
-  "id": "09406f81-2fb2-4798-b451-48d212cad4ef",
+  "id": "97ca9f54-feab-4fb8-8d34-28c51cfd8dbf",
   "nome": "Elbow Circles",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Sit or stand with your feet slightly apart.",
     "Place your hands on your shoulders with your elbows at shoulder level and pointing out.",

@@ -1,5 +1,5 @@
 {
-  "id": "391c5da1-e80a-450e-ab65-6b3f4163e84e",
+  "id": "8b048f64-8f36-436b-a4e5-b66941a53018",
   "nome": "Trap Bar Deadlift",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "For this exercise load a trap bar, also known as a hex bar, to an appropriate weight resting on the ground. Stand in the center of the apparatus and grasp both handles.",
     "Lower your hips, look forward with your head and keep your chest up.",

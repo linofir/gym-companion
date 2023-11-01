@@ -1,5 +1,5 @@
 {
-  "id": "e3498864-f354-45f5-9b4c-2bd40b98e930",
+  "id": "f14706d5-7e3b-4770-aca4-588e32dec7ae",
   "nome": "Looking At Ceiling",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Kneel on the floor, holding your heels with both hands.",
     "Lift your buttocks up and forward while bringing your head back to look up at the ceiling, to give an arch in your back."

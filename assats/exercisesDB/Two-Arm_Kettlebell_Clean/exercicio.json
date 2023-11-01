@@ -1,5 +1,5 @@
 {
-  "id": "30d72f66-8168-4f1a-a178-c22d37164fbf",
+  "id": "27a603ee-67ce-4291-ab8c-ee5a4f18bec6",
   "nome": "Two-Arm Kettlebell Clean",
   "grupoMuscular": [
     "shoulders"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
     "Clean the kettlebells to your shoulders by extending through the legs and hips as you raise the kettlebells towards your shoulders. Rotate your wrists as you do so.",

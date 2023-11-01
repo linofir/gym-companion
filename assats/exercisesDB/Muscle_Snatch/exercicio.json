@@ -1,5 +1,5 @@
 {
-  "id": "3b220cd0-5387-44bd-82a0-dc78bed56cff",
+  "id": "3bf70d79-e808-4b61-a9da-6a466f40188b",
   "nome": "Muscle Snatch",
   "grupoMuscular": [
     "hamstrings"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
     "Begin the pull by driving through the front of the heels, raising the bar. Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body.",

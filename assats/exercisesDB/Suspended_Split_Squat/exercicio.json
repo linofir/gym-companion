@@ -1,5 +1,5 @@
 {
-  "id": "bbbbd828-d7bd-44d2-ace9-b02962e73dd2",
+  "id": "88628d47-3d80-4f18-a1bb-32316fdb3f86",
   "nome": "Suspended Split Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Suspend your straps so the handles are 18-30 inches from the floor.",
     "Facing away from the setup, place your rear foot into the handle behind you. Keep your head looking forward and your chest up, with your knee slightly bent. This will be your starting position.",

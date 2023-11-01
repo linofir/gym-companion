@@ -1,5 +1,5 @@
 {
-  "id": "864e24a3-a0d4-40b4-8a82-ad6dfa9f9094",
+  "id": "7e470b58-f97b-41b4-bbee-9cde951b6016",
   "nome": "Dumbbell Alternate Bicep Curl",
   "grupoMuscular": [
     "biceps"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Stand (torso upright) with a dumbbell in each hand held at arms length. The elbows should be close to the torso and the palms of your hand should be facing your thighs.",
     "While holding the upper arm stationary, curl the right weight as you rotate the palm of the hands until they are facing forward. At this point continue contracting the biceps as you breathe out until your biceps is fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Tip: Only the forearms should move.",

@@ -1,5 +1,5 @@
 {
-  "id": "545e4119-8123-4ea5-85aa-7ecaf341497b",
+  "id": "7571f69a-5840-46d5-ae74-4e5678499135",
   "nome": "Russian Twist",
   "grupoMuscular": [
     "abdominals"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
     "Elevate your upper body so that it creates an imaginary V-shape with your thighs. Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.",

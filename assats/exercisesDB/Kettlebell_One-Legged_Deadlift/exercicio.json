@@ -1,5 +1,5 @@
 {
-  "id": "2e26cf57-2867-4ed5-bf6c-0fa8718fe4d0",
+  "id": "19d64e3f-9e3b-4ebb-bc78-70bfc9124156",
   "nome": "Kettlebell One-Legged Deadlift",
   "grupoMuscular": [
     "hamstrings"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",
     "Keeping that knee slightly bent, perform a stiff legged deadlift by bending at the hip, extending your free leg behind you for balance.",

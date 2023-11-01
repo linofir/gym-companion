@@ -1,5 +1,5 @@
 {
-  "id": "6bcf2f81-0ed4-4dad-abf9-1f786a9ceea1",
+  "id": "5ce9fde9-e05a-4f5a-9c44-8ea145f869ec",
   "nome": "Dumbbell Seated One-Leg Calf Raise",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Place a block on the floor about 12 inches from a flat bench.",
     "Sit on a flat bench and place a dumbbell on your upper left thigh about 3 inches above your knee.",

@@ -1,5 +1,5 @@
 {
-  "id": "a2612a5c-ecdd-4388-9e4d-a7e11dae089f",
+  "id": "85728983-7494-40a8-a74b-99a8cb5dd934",
   "nome": "Single-Leg Leg Extension",
   "grupoMuscular": [
     "quadriceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Seat yourself in the machine and adjust it so that you are positioned properly. The pad should be against the lower part of the shin but not in contact with the ankle. Adjust the seat so that the pivot point is in line with your knee. Select a weight appropriate for your abilities.",
     "Maintaining good posture, fully extend one leg, pausing at the top of the motion.",

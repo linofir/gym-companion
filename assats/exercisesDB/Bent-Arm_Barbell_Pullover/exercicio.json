@@ -1,5 +1,5 @@
 {
-  "id": "59300c97-386b-4dd3-bb8c-160476364700",
+  "id": "b0dbc36b-b5d6-45d6-91e4-3fe51221f2d6",
   "nome": "Bent-Arm Barbell Pullover",
   "grupoMuscular": [
     "lats"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Lie on a flat bench with a barbell using a shoulder grip width.",
     "Hold the bar straight over your chest with a bend in your arms. This will be your starting position.",

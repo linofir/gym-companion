@@ -1,5 +1,5 @@
 {
-  "id": "30be87b3-ff7e-4ed1-892a-a97db389d815",
+  "id": "ba5414f1-11fa-4a30-8f86-47c22a0a75d9",
   "nome": "One-Arm Kettlebell Snatch",
   "grupoMuscular": [
     "shoulders"
@@ -15,7 +15,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place a kettlebell between your feet. Bend your knees and push your butt back to get in the proper starting position.",
     "Look straight ahead and swing the kettlebell back between your legs.",

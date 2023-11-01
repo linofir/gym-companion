@@ -1,5 +1,5 @@
 {
-  "id": "542033a1-4727-40ce-ac1d-7d7831516836",
+  "id": "5b495450-fbb3-4fb2-b742-222c4d901eac",
   "nome": "Cable Seated Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Seat on a flat bench with your back facing a high pulley.",
     "Grasp the cable rope attachment with both hands (with the palms of the hands facing each other) and place your hands securely over both shoulders. Tip: Allow the weight to hyperextend the lower back slightly. This will be your starting position.",

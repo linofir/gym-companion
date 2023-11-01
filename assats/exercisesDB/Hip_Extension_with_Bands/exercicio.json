@@ -1,5 +1,5 @@
 {
-  "id": "40b70bb5-8c00-4d0d-9bab-ef6ec34cf2e7",
+  "id": "4aa13510-3301-4980-9d80-158bc0ead521",
   "nome": "Hip Extension with Bands",
   "grupoMuscular": [
     "glutes"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
     "Facing the attachment point of the band, hold on to the column to stabilize yourself.",

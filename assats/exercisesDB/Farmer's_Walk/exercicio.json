@@ -1,5 +1,5 @@
 {
-  "id": "b83bdd10-403f-47f1-af01-8fe188b0070a",
+  "id": "6b9a4f42-04b5-45e8-8c07-631ea3796a6c",
   "nome": "Farmer\u0027s Walk",
   "grupoMuscular": [
     "forearms"
@@ -15,7 +15,8 @@
   "nivel": "intermediate",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren\u0027t available. Begin by standing between the implements.",
     "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",

@@ -1,5 +1,5 @@
 {
-  "id": "1ee887cc-4c4b-48c3-8153-ae6300577664",
+  "id": "9ba0333d-3665-4ee6-81d4-f742c9af7ec5",
   "nome": "One-Arm Side Deadlift",
   "grupoMuscular": [
     "quadriceps"
@@ -15,7 +15,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Stand to the side of a barbell next to its center. Bend your knees and lower your body until you are able to reach the barbell.",
     "Grasp the bar as if you were grabbing a briefcase (palms facing you since the bar is sideways). You may need a wrist wrap if you are using a significant amount of weight. This is your starting position.",

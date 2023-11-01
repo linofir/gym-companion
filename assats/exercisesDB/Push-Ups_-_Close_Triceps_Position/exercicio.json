@@ -1,5 +1,5 @@
 {
-  "id": "ffe9c708-58f9-470d-a656-78a075545906",
+  "id": "5bd6b12a-dfeb-44b6-aed8-8caf5e1fd1da",
   "nome": "Push-Ups - Close Triceps Position",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms\u0027 length.",
     "Lower yourself until your chest almost touches the floor as you inhale.",

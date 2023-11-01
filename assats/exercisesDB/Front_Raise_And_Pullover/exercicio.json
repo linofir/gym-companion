@@ -1,5 +1,5 @@
 {
-  "id": "6aa51fab-66f0-4469-93bc-45484ed4b5a8",
+  "id": "feb6b54f-0b6b-4042-b673-cb1cc7e0aefb",
   "nome": "Front Raise And Pullover",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Lie on a flat bench while holding a barbell using a palms down grip that is about 15 inches apart.",
     "Place the bar on your upper thighs, extend your arms and lock them while keeping a slight bend on the elbows. This will be your starting position.",

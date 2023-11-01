@@ -1,5 +1,5 @@
 {
-  "id": "41d8b906-b25a-4c15-bb32-28fe6fa1b6f6",
+  "id": "cc96b3c2-2d00-4d56-9941-ab69d020da34",
   "nome": "Wide-Grip Lat Pulldown",
   "grupoMuscular": [
     "lats"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
     "Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",

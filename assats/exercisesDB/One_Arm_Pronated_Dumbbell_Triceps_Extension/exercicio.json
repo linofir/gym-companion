@@ -1,5 +1,5 @@
 {
-  "id": "aee05823-82de-49d1-9297-fe538a034d9c",
+  "id": "c2a85c31-6fe4-45e0-a2a4-991fc5ad15ea",
   "nome": "One Arm Pronated Dumbbell Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your feet as a pronated grip is required to perform this exercise.",
     "Place your non lifting hand on your bicep for support.",

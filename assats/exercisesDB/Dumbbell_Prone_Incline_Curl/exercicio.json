@@ -1,5 +1,5 @@
 {
-  "id": "20f7288f-1a29-4844-a452-10832cf812d5",
+  "id": "957b8802-cb5f-469c-b4ad-fa3c46616596",
   "nome": "Dumbbell Prone Incline Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Grab a dumbbell on each hand and lie face down on an incline bench with your shoulders near top of the incline. Your knees can rest on the seat or your legs can be straddled to the sides (my preferred way).",
     "Let your arms extend and hang naturally in front of you so that they are perpendicular to the floor.",

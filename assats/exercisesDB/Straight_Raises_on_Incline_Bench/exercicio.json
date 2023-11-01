@@ -1,5 +1,5 @@
 {
-  "id": "4eb60884-e84b-40a5-8267-29dae0fc45ff",
+  "id": "52d4e510-7748-4b40-ac13-7d7a44c337bb",
   "nome": "Straight Raises on Incline Bench",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Place a bar on the ground behind the head of an incline bench.",
     "Lay on the bench face down. With a pronated grip, pick the barbell up from the floor, keeping your arms straight. Allow the bar to hang straight down. This will be your starting position.",

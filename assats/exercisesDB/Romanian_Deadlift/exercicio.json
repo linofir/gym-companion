@@ -1,5 +1,5 @@
 {
-  "id": "33353745-3947-44d0-a24c-9f360ffe6117",
+  "id": "903d7435-7d11-4267-89ac-4b91a2ff8fd2",
   "nome": "Romanian Deadlift",
   "grupoMuscular": [
     "hamstrings"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Put a barbell in front of you on the ground and grab it using a pronated (palms facing down) grip that a little wider than shoulder width. Tip: Depending on the weight used, you may need wrist wraps to perform the exercise and also a raised platform in order to allow for better range of motion.",
     "Bend the knees slightly and keep the shins vertical, hips back and back straight. This will be your starting position.",

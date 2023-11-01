@@ -1,5 +1,5 @@
 {
-  "id": "c9ed13a2-d1c0-4b95-afa2-6b9eb9b231e8",
+  "id": "c764d96b-4dbe-4750-bf82-94f610dc8e22",
   "nome": "Wind Sprints",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Hang from a pull-up bar using a pronated grip. Your arms and legs should be extended. This will be your starting position.",
     "Begin by quickly raising one knee as high as you can. Do not swing your body or your legs. 3",

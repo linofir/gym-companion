@@ -1,5 +1,5 @@
 {
-  "id": "de23d3cc-00f3-41f1-bd11-113b8553b7fd",
+  "id": "d78f0922-6559-44dc-91b1-edf495684c44",
   "nome": "Isometric Wipers",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Assume a push-up position, supporting your weight on your hands and toes while keeping your body straight. Your hands should be just outside of shoulder width. This will be your starting position.",
     "Begin by shifting your body weight as far to one side as possible, allowing the elbow on that side to flex as you lower your body.",

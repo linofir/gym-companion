@@ -1,5 +1,5 @@
 {
-  "id": "777e71d5-f82f-4bfb-a172-02c20c7534ba",
+  "id": "2aa3f055-c37b-422a-b25e-bcbbe3ea9a8e",
   "nome": "Pull Through",
   "grupoMuscular": [
     "glutes"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Begin standing a few feet in front of a low pulley with a rope or handle attached. Face away from the machine, straddling the cable, with your feet set wide apart.",
     "Begin the movement by reaching through your legs as far as possible, bending at the hips. Keep your knees slightly bent. Keeping your arms straight, extend through the hip to stand straight up. Avoid pulling upward through the shoulders; all of the motion should originate through the hips."

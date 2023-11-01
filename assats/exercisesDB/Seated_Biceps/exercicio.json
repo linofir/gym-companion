@@ -1,5 +1,5 @@
 {
-  "id": "a2f91cf0-f346-4fcc-aebe-7b694d5a9bb9",
+  "id": "e7f20568-af1f-4236-a888-e4bbed4e3e5d",
   "nome": "Seated Biceps",
   "grupoMuscular": [
     "biceps"
@@ -11,7 +11,8 @@
   "nivel": "expert",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
     "Attempt to flex your elbows, while your partner prevents any actual movement.",

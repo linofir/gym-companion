@@ -1,5 +1,5 @@
 {
-  "id": "09172654-8bf4-49b0-aca9-ee23f1f7370d",
+  "id": "c3414e99-2d46-4062-b76f-67e8f7200301",
   "nome": "Box Squat with Chains",
   "grupoMuscular": [
     "quadriceps"
@@ -15,7 +15,8 @@
   "nivel": "expert",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.",
     "To set up the chains, begin by looping the leader chain over the sleeves of the bar. The heavy chain should be attached using a snap hook. Adjust the length of the lead chain so that a few links are still on the floor at the top of the movement.",

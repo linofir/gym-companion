@@ -1,5 +1,5 @@
 {
-  "id": "6c2c748e-484d-43b9-93f1-ba4ec29af01d",
+  "id": "cac8dc7e-3b99-4c61-a4b9-ee602c3f751b",
   "nome": "Lying Glute",
   "grupoMuscular": [
     "glutes"
@@ -10,7 +10,8 @@
   "nivel": "expert",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie on your back with your partner kneeling beside you.",
     "Flex the hip of one leg, raising it off of the floor. Rotate the leg so the foot is over the opposite hip, the lower leg perpendicular to your body. Your partner should hold the knee and ankle in place. This will be your starting position.",

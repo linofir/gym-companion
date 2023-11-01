@@ -1,5 +1,5 @@
 {
-  "id": "ec42c920-3fc5-4bed-8447-15b6db093861",
+  "id": "2dd0b90f-ebd0-4f6f-b146-db034d6bba2a",
   "nome": "Kettlebell Seated Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Sit on the floor and spread your legs out comfortably.",
     "Clean one kettlebell to your shoulder.",

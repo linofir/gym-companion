@@ -1,5 +1,5 @@
 {
-  "id": "c7aebd7d-da86-47a3-999f-dbab6eefa1c5",
+  "id": "65156560-7db2-4026-b54c-564ad96c2fca",
   "nome": "Pallof Press",
   "grupoMuscular": [
     "abdominals"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Connect a standard handle to a tower, and\u00E2\u20AC\u201Dif possible\u00E2\u20AC\u201Dposition the cable to shoulder height. If not, a low pulley will suffice.",
     "With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately arm\u00E2\u20AC\u2122s length away from the pulley, with the tension of the weight on the cable.",

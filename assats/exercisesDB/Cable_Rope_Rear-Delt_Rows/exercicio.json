@@ -1,5 +1,5 @@
 {
-  "id": "26d553e8-da81-45e4-9612-f77a1b98313f",
+  "id": "bc9a78a4-f09b-4ce1-929c-0d668d31cb34",
   "nome": "Cable Rope Rear-Delt Rows",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Sit in the same position on a low pulley row station as you would if you were doing seated cable rows for the back.",
     "Attach a rope to the pulley and grasp it with an overhand grip. Your arms should be extended and parallel to the floor with the elbows flared out.",

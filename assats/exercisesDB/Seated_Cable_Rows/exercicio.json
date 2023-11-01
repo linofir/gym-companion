@@ -1,5 +1,5 @@
 {
-  "id": "fa5e1494-b1d1-430c-b099-537eeb5f454b",
+  "id": "aaab0bce-56eb-408d-8bf4-9ffa54886ac8",
   "nome": "Seated Cable Rows",
   "grupoMuscular": [
     "middle back"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.",
     "Lean over as you keep the natural alignment of your back and grab the V-bar handles.",

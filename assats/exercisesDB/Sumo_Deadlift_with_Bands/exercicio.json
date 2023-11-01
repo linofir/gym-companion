@@ -1,5 +1,5 @@
 {
-  "id": "5d328d5c-72e0-475e-9185-28586883456f",
+  "id": "7bf281bd-6869-48f1-b9b9-a0e0c5b3fa8a",
   "nome": "Sumo Deadlift with Bands",
   "grupoMuscular": [
     "hamstrings"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. Ensure that they under the back half of your foot, directly where you are driving into the floor.",
     "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip.",

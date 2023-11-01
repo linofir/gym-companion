@@ -1,5 +1,5 @@
 {
-  "id": "3f14a63e-bc0d-4362-8333-c18194599ce4",
+  "id": "3688272e-e0e3-47e0-a2a9-c73b2dcd11ba",
   "nome": "Flat Bench Cable Flyes",
   "grupoMuscular": [
     "chest"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Position a flat bench between two low pulleys so that when you are laying on it, your chest will be lined up with the cable pulleys.",
     "Lay flat on the bench and keep your feet on the ground.",

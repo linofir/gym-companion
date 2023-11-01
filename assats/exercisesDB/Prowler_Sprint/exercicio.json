@@ -1,5 +1,5 @@
 {
-  "id": "32753113-8bad-4d37-b3b1-f53e04a27396",
+  "id": "50f69758-da79-4020-b355-ba0a0d72b47c",
   "nome": "Prowler Sprint",
   "grupoMuscular": [
     "hamstrings"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "cardio",
+  "equipamento": "other",
   "instrucoes": [
     "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.",
     "You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement.",

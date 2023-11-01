@@ -1,5 +1,5 @@
 {
-  "id": "c6d4b983-2df9-48ce-8c7d-569dba17dc5f",
+  "id": "d14be18e-59f9-44cd-a84f-e7a92dc5a2e0",
   "nome": "Svend Press",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Begin in a standing position.",
     "Press two lightweight plates together with your hands. Hold the plates together close to your chest to create an isometric contraction in your chest muscles. Your fingers should be pointed forward. This is your starting position.",

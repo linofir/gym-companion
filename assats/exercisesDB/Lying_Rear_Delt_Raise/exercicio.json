@@ -1,5 +1,5 @@
 {
-  "id": "a19a753f-2435-4b1f-8bcd-be8291a8e321",
+  "id": "97eced02-59c2-49a1-a65a-4f87643db022",
   "nome": "Lying Rear Delt Raise",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "While holding a dumbbell in each hand, lay with your chest down on a flat bench.",
     "Position the palms of the hands in a neutral manner (palms facing your torso) as you keep the arms extended with the elbows slightly bent. This will be your starting position.",

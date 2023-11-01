@@ -1,5 +1,5 @@
 {
-  "id": "73d1b61b-1d5b-4a8c-9f9c-c38ffb8c10ef",
+  "id": "523adcff-4217-4a4d-89fc-30e312b9e0b4",
   "nome": "Standing Barbell Calf Raise",
   "grupoMuscular": [
     "calves"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the bar on the back of your shoulders (slightly below the neck).",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",

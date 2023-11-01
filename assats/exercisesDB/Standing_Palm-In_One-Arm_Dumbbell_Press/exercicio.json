@@ -1,5 +1,5 @@
 {
-  "id": "f4ca3be3-1467-4fc3-b1d9-a5fc482a1cdb",
+  "id": "8fa0cee3-8187-4a12-94a8-e096470f89e1",
   "nome": "Standing Palm-In One-Arm Dumbbell Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Start by having a dumbbell in one hand with your arm fully extended to the side using a neutral grip. Use your other arm to hold on to an incline bench to keep your balance.",
     "Your feet should be shoulder width apart from each other. Now slowly lift the dumbbell up until you create a 90 degree angle with your arm. Note: Your forearm should be perpendicular to the floor. Continue to maintain a neutral grip throughout the entire exercise.",

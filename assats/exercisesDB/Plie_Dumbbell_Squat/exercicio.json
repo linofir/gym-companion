@@ -1,5 +1,5 @@
 {
-  "id": "c0078df8-154f-4a3f-9bff-b0e556001d93",
+  "id": "677e08e4-3e5e-47fb-b2cb-0e5b99da6fdd",
   "nome": "Plie Dumbbell Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.",
     "Your toes should be facing out. Note: Your arms should be stationary while performing the exercise. This is the starting position.",

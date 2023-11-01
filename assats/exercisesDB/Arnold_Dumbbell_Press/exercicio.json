@@ -1,5 +1,5 @@
 {
-  "id": "e53a47ca-cc2f-46e8-8f6b-e48bbca6ba55",
+  "id": "7f56a28c-eec4-440f-bdd5-097d1ea38a40",
   "nome": "Arnold Dumbbell Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Sit on an exercise bench with back support and hold two dumbbells in front of you at about upper chest level with your palms facing your body and your elbows bent. Tip: Your arms should be next to your torso. The starting position should look like the contracted portion of a dumbbell curl.",
     "Now to perform the movement, raise the dumbbells as you rotate the palms of your hands until they are facing forward.",

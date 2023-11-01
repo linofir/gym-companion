@@ -1,5 +1,5 @@
 {
-  "id": "85281a2c-a24e-4a89-aaf8-56e555b16f96",
+  "id": "5614d888-c2db-4b0f-8210-a097a9174062",
   "nome": "Reverse Band Bench Press",
   "grupoMuscular": [
     "triceps"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Position a bench inside a power rack, with the bar set to the correct height. Begin by anchoring bands either to band pegs or to the top of the rack. Ensure that you will be position properly under the bands. Attach the other end to the barbell.",
     "Lie on the bench, tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement. However wide your grip, it should cover the ring on the bar.",

@@ -1,5 +1,5 @@
 {
-  "id": "8415439c-0010-4505-87e4-7b07a4e97283",
+  "id": "db988c91-be6f-4b8d-b7c7-3adc80a9b1bb",
   "nome": "Seated Dumbbell Inner Biceps Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Sit on the end of a flat bench with a dumbbell in each hand being held at arms length. The elbows should be close to the torso.",
     "Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.",

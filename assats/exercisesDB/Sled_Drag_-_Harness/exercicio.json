@@ -1,5 +1,5 @@
 {
-  "id": "10b50085-0faf-400d-8bcb-917ceb0ba664",
+  "id": "de347d48-15fc-40c2-a8f9-90a6776799f1",
   "nome": "Sled Drag - Harness",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "To begin, load the sled with the desired weight and attach the pulling strap. You can pull with handles, use a harness, or attach the pulling strap to a weight belt.",
     "Whether pulling forwards or backwards, lean in the direction of travel and progress by extending through the hips and knees."

@@ -1,5 +1,5 @@
 {
-  "id": "40682f98-6058-4bdc-897a-7c034852bc64",
+  "id": "ab7c67c4-2dff-4046-bc2c-15946af9fb20",
   "nome": "Dip Machine",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Sit securely in a dip machine, select the weight and firmly grasp the handles.",
     "Now keep your elbows in at your sides in order to place emphasis on the triceps. The elbows should be bent at a 90 degree angle.",

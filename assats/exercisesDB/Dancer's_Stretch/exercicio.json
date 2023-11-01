@@ -1,5 +1,5 @@
 {
-  "id": "776a4c81-84b9-401d-b6e3-1b9dd500b421",
+  "id": "b6058ba1-23a4-437f-aadd-ab0eb3a1dc8d",
   "nome": "Dancer\u0027s Stretch",
   "grupoMuscular": [
     "lower back"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Sit up on the floor.",
     "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",

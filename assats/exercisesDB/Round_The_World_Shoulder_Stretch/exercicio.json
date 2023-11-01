@@ -1,5 +1,5 @@
 {
-  "id": "512d770f-3316-40bb-b2e8-fcb5312ecef6",
+  "id": "51d1027d-3e10-4400-aad7-a1a10fbf4ae7",
   "nome": "Round The World Shoulder Stretch",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": "other",
   "instrucoes": [
     "Stand up straight with your legs together, holding a bodybar or broomstick.",
     "Hold the pole behind your hips with a wider than shoulder width grip. Your palms should be down and your thumbs facing out.",

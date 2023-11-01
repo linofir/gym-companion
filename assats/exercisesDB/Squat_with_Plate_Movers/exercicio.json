@@ -1,5 +1,5 @@
 {
-  "id": "b45c9f32-7c66-424e-b2a7-d9a9e21592af",
+  "id": "6f971b83-37d1-4fd5-99e2-43458ade29d5",
   "nome": "Squat with Plate Movers",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "To begin, first set the bar on a rack to just below shoulder level. Position a weight plate on the ground a couple feet back from the rack. Once the bar is loaded, step under it and place the back of your shoulders across it.",
     "Hold on to the bar with both hands and lift it off the rack by first pushing with your legs and at the same time straighten your torso.",

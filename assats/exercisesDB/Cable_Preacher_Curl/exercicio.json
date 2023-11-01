@@ -1,5 +1,5 @@
 {
-  "id": "c023cbb4-44d0-4965-9ac3-d3c452bd1c51",
+  "id": "83ea0ee7-05bf-47b8-8712-47bd720a6f34",
   "nome": "Cable Preacher Curl",
   "grupoMuscular": [
     "biceps"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Place a preacher bench about 2 feet in front of a pulley machine.",
     "Attach a straight bar to the low pulley.",

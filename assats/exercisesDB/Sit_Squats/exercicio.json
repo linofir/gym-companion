@@ -1,5 +1,5 @@
 {
-  "id": "4f62f836-159f-43f9-89d3-bba4d6bbdb3d",
+  "id": "a7523d58-5e59-4416-a66e-fe2cb8c25fb1",
   "nome": "Sit Squats",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Stand with your feet shoulder width apart. This will be your starting position.",
     "Begin the movement by flexing your knees and hips, sitting back with your hips.",

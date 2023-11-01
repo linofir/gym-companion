@@ -1,5 +1,5 @@
 {
-  "id": "0b3229c4-bdec-4ce6-8441-25b70ac3bc48",
+  "id": "67499a48-b3c6-4e4c-8a28-6793413076f1",
   "nome": "Cable Russian Twists",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Connect a standard handle attachment, and position the cable to a middle pulley position.",
     "Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately arm\u00E2\u20AC\u2122s length away from the pulley, with the tension of the weight on the cable.",

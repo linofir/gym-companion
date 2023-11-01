@@ -1,5 +1,5 @@
 {
-  "id": "797980f0-8424-4c92-9fca-e4af4af33d8f",
+  "id": "ce1e6aed-4fc5-4a75-9bec-6d9721933ba3",
   "nome": "Standing Olympic Plate Hand Squeeze",
   "grupoMuscular": [
     "forearms"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "To begin, stand straight while holding a weight plate by the ridge at arm\u0027s length in each hand using a neutral grip (palms facing in). You feet should be shoulder width apart from each other. This will be your starting position.",
     "Lower the plates until the fingers are nearly extended but can still hold weights. Inhale as you lower the plates.",

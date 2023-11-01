@@ -1,5 +1,5 @@
 {
-  "id": "98076f03-9df4-47ed-a31c-6571908ebcde",
+  "id": "41b43c2e-7880-4df7-a697-6aab1c9b9c58",
   "nome": "Sumo Deadlift with Chains",
   "grupoMuscular": [
     "hamstrings"
@@ -17,7 +17,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift. Attempt to keep the ends of the chains away from the plates so you don\u0027t hit them when you lower the weight.",
     "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.",

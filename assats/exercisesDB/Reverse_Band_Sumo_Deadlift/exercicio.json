@@ -1,5 +1,5 @@
 {
-  "id": "a2032dd8-f71f-45a6-88f6-c6ce37673166",
+  "id": "2ee2177d-5288-46bd-8cbe-788ef05e56e6",
   "nome": "Reverse Band Sumo Deadlift",
   "grupoMuscular": [
     "hamstrings"
@@ -17,7 +17,8 @@
   "nivel": "expert",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with a bar loaded on the floor inside of a power rack. Attach bands to the top of the rack, using either pegs or the frame itself. Attach the other end to the barbell.",
     "Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.",

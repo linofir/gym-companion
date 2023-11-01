@@ -1,5 +1,5 @@
 {
-  "id": "5516b4f9-1526-4896-a96c-d181e4a4fee7",
+  "id": "f793baa2-9d0e-4161-aed8-37cd775cb41b",
   "nome": "Machine Shoulder (Military) Press",
   "grupoMuscular": [
     "shoulders"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "Sit down on the Shoulder Press Machine and select the weight.",
     "Grab the handles to your sides as you keep the elbows bent and in line with your torso. This will be your starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "93e395ab-d28d-4cb5-94bb-88863f050c88",
+  "id": "0492750d-cff2-4619-a49d-94de3a75afcb",
   "nome": "Hug Knees To Chest",
   "grupoMuscular": [
     "lower back"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Lie down on your back and pull both knees up to your chest.",
     "Hold your arms under the knees, not over (that would put to much pressure on your knee joints).",

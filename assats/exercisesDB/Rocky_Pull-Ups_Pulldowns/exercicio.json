@@ -1,5 +1,5 @@
 {
-  "id": "41b09a02-6ca0-48ea-8b10-e65597aa832c",
+  "id": "986c7a78-5126-4054-aec9-2af7e663ef84",
   "nome": "Rocky Pull-Ups/Pulldowns",
   "grupoMuscular": [
     "lats"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
     "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",

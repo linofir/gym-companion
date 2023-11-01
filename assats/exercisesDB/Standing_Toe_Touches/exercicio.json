@@ -1,5 +1,5 @@
 {
-  "id": "8ced9736-b61c-459b-9cdf-85c14422ddeb",
+  "id": "e6e8f367-e797-45f2-a32a-4245cb84a956",
   "nome": "Standing Toe Touches",
   "grupoMuscular": [
     "hamstrings"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Stand with some space in front and behind you.",
     "Bend at the waist, keeping your legs straight, until you can relax and let your upper body hang down in front of you. Let your arms and hands hang down naturally. Hold for 10 to 20 seconds."

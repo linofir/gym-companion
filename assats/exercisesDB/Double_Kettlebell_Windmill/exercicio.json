@@ -1,5 +1,5 @@
 {
-  "id": "91e89246-c5b0-49a7-a512-1ecf37922ba7",
+  "id": "765e9ac9-4172-4a74-97fc-715f30da8e87",
   "nome": "Double Kettlebell Windmill",
   "grupoMuscular": [
     "abdominals"
@@ -13,7 +13,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": null,
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place a kettlebell in front of your front foot and clean and press a kettlebell overhead with your opposite arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so, so that the palm faces forward.",
     "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Turn your feet out at a forty-five degree angle from the arm with the locked out kettlebell.",

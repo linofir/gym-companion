@@ -1,5 +1,5 @@
 {
-  "id": "f439e4fc-6670-4cd3-9c62-1109f0d405bd",
+  "id": "3551cc89-1417-4160-b89e-edf1fbac78d0",
   "nome": "Standing One-Arm Dumbbell Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "To begin, stand up with a dumbbell held in one hand. Your feet should be about shoulder width apart from each other. Now fully extend the arm with the dumbbell over your head. Tip: The small finger of your hand should be facing the ceiling and the palm of your hand should be facing forward. The dumbbell should be above your head.",
     "This will be your starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "04a03df9-e6c5-4412-9605-41d31dfd3474",
+  "id": "4c25fa61-84a2-4f05-a07d-a70aaba61f0b",
   "nome": "Barbell Incline Bench Press - Medium Grip",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Lie back on an incline bench. Using a medium-width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
     "As you breathe in, come down slowly until you feel the bar on you upper chest.",

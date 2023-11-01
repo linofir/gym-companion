@@ -1,5 +1,5 @@
 {
-  "id": "6e12c9a9-053a-44e7-af10-60aa377f9424",
+  "id": "ade9c725-380c-4327-b6ab-d47ec87fffd7",
   "nome": "Standing Rope Crunch",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Attach a rope to a high pulley and select an appropriate weight.",
     "Stand with your back to the cable tower. Take the rope with both hands over your shoulders, holding it to your upper chest. This will be your starting position.",

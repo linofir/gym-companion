@@ -1,5 +1,5 @@
 {
-  "id": "3d20982d-b1b4-4467-af77-c1df0f001e88",
+  "id": "6c98b3c9-1478-44b5-9225-f0d7e382791d",
   "nome": "Incline Barbell Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Hold a barbell with an overhand grip (palms down) that is a little closer together than shoulder width.",
     "Lie back on an incline bench set at any angle between 45-75-degrees.",

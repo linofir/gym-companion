@@ -1,5 +1,5 @@
 {
-  "id": "94dd4770-7d7c-41a0-a104-fbf306387487",
+  "id": "068a2039-afe3-4c43-bb2d-ad82cbc66a73",
   "nome": "Split Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.",
     "Ensure that the front knee is over the midline of the foot.",

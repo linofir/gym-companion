@@ -1,5 +1,5 @@
 {
-  "id": "129c290c-0304-4aad-b426-6718f974a4ec",
+  "id": "42d8712e-c1f1-4072-9633-9d5677a88629",
   "nome": "Bodyweight Flyes",
   "grupoMuscular": [
     "chest"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "e-z curl bar",
   "instrucoes": [
     "Position two equally loaded EZ bars on the ground next to each other. Ensure they are able to roll.",
     "Assume a push-up position over the bars, supporting your weight on your toes and hands with your arms extended and body straight.",

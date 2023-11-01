@@ -1,5 +1,5 @@
 {
-  "id": "ef27338f-3afc-4f87-8d9f-25d939d34722",
+  "id": "1fa4d91e-2851-4ae6-99ce-a6a245c64735",
   "nome": "Cross Over - With Bands",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Secure an exercise band around a stationary post.",
     "While facing away from the post, grab the handles on both ends of the band and step forward enough to create tension on the band.",

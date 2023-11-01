@@ -1,5 +1,5 @@
 {
-  "id": "89226618-5c27-4b3d-ac76-468ba9611fc3",
+  "id": "0ebe24db-fcde-4afd-9971-5aeed275a5a9",
   "nome": "Smith Machine Pistol Squat",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "machine",
   "instrucoes": [
     "To begin, first set the bar to a position that best matches your height. Step under it and position the bar across the back of your shoulders.",
     "Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs. 3",

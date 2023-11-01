@@ -1,5 +1,5 @@
 {
-  "id": "5912e907-b211-4693-84e8-9f399cd70895",
+  "id": "652ac296-935a-4290-b69d-99da542ef0f4",
   "nome": "Lying Close-Grip Bar Curl On High Pulley",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Place a flat bench in front of a high pulley or lat pulldown machine.",
     "Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.",

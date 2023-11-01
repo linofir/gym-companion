@@ -1,5 +1,5 @@
 {
-  "id": "087a4934-1bdd-4d5f-b6f2-7ad724b505fe",
+  "id": "88d1c815-4f63-489e-9b5f-cc3e36dba57d",
   "nome": "External Rotation with Band",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Choke the band around a post. The band should be at the same height as your elbow. Stand with your left side to the band a couple of feet away.",
     "Grasp the end of the band with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",

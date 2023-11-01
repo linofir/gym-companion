@@ -1,5 +1,5 @@
 {
-  "id": "55dd500c-a875-4631-b1d0-aab5f869dbb6",
+  "id": "844a8c22-2ea5-4b98-9ad2-b9edfc6120f5",
   "nome": "Exercise Ball Pull-In",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "exercise ball",
   "instrucoes": [
     "Place an exercise ball nearby and lay on the floor in front of it with your hands on the floor shoulder width apart in a push-up position.",
     "Now place your lower shins on top of an exercise ball. Tip: At this point your legs should be fully extended with the shins on top of the ball and the upper body should be in a push-up type of position being supported by your two extended arms in front of you. This will be your starting position.",

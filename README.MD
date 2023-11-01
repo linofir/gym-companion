@@ -11,4 +11,6 @@
 * Extract images, ok
 * Create json DB file, ok
 * Create images files, ok
-* create filters
+* Create a consult Method 
+* create prop filters
+

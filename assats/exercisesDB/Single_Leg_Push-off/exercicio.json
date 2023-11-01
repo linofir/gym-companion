@@ -1,5 +1,5 @@
 {
-  "id": "d3bb6cb7-4db7-43bd-b1b8-b6cb1eda318e",
+  "id": "e2bda510-d7da-4fb7-9bb4-7c7006ecedae",
   "nome": "Single Leg Push-off",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Stand on the ground with one foot resting on the box, heel close to the edge.",
     "Push off with your foot on top of the box, trying to gain as much height as possible by extending through the hip and knee.",

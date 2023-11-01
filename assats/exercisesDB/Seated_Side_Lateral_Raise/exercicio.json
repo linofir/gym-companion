@@ -1,5 +1,5 @@
 {
-  "id": "e2a8b239-5bb3-4a9b-9f70-4fd389b01dfa",
+  "id": "8bd48cf1-a9a0-43c9-b583-d9eb54b2f90f",
   "nome": "Seated Side Lateral Raise",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Pick a couple of dumbbells and sit at the end of a flat bench with your feet firmly on the floor. Hold the dumbbells with your palms facing in and your arms straight down at your sides at arms\u0027 length. This will be your starting position.",
     "While maintaining the torso stationary (no swinging), lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. Continue to go up until you arms are parallel to the floor. Exhale as you execute this movement and pause for a second at the top.",

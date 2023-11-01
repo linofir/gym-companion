@@ -1,5 +1,5 @@
 {
-  "id": "2819e293-7c8d-4b1a-9ef7-8fb72f18baff",
+  "id": "94d969ee-f172-4ff2-8835-5e7ae3888165",
   "nome": "Star Jump",
   "grupoMuscular": [
     "quadriceps"
@@ -13,7 +13,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "body only",
   "instrucoes": [
     "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
     "To initiate the move, squat down halfway and explode back up as high as possible. Fully extend your entire body, spreading your legs and arms away from the body.",

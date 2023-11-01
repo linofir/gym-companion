@@ -1,5 +1,5 @@
 {
-  "id": "d04b0613-1ea4-4dd6-bcf9-bb09b9970abd",
+  "id": "7c5a81c5-a589-4cc0-bbef-4d0029b01038",
   "nome": "Hamstring Stretch",
   "grupoMuscular": [
     "hamstrings"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Lie on your back with one leg extended above you, with the hip at ninety degrees. Keep the other leg flat on the floor.",
     "Loop a belt, band, or rope over the ball of your foot. This will be your starting position.",

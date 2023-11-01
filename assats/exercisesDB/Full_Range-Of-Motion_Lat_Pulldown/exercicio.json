@@ -1,5 +1,5 @@
 {
-  "id": "cf71c440-9e23-44ca-a88a-5e31c75b8610",
+  "id": "71b324c2-f2e4-4b42-9efc-87d188afccbe",
   "nome": "Full Range-Of-Motion Lat Pulldown",
   "grupoMuscular": [
     "lats"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Either standing or seated on a high bench, grasp two stirrup cables that are attached to the high pulleys. Grab with the opposing hand so your arms are crisscrossed about you and your palms are facing forward.",
     "Keeping your chest up and maintaining a slight arch in your lower back, pull the handles down as if you were doing a regular pulldown. The range of motion will be more of an arc. During the movement, rotate your hands so that in the bottom position your palms face each other rather than forward. Return slowly to the starting position and repeat."

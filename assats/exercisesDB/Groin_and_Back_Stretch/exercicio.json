@@ -1,5 +1,5 @@
 {
-  "id": "38e8cdca-75e3-4af3-bae1-720bf3bcc68b",
+  "id": "defadd85-249d-4f71-b374-c9a97995d7ff",
   "nome": "Groin and Back Stretch",
   "grupoMuscular": [
     "adductors"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "stretching",
+  "equipamento": null,
   "instrucoes": [
     "Sit on the floor with your knees bent and feet together.",
     "Interlock your fingers behind your head. This will be your starting position.",

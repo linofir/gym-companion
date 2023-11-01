@@ -1,5 +1,5 @@
 {
-  "id": "6193f442-3b08-4441-9d61-3331291183d5",
+  "id": "4f7ce90d-1e00-47fe-8b5a-3901d9ef7c06",
   "nome": "Barbell Deadlift",
   "grupoMuscular": [
     "lower back"
@@ -17,7 +17,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "barbell",
   "instrucoes": [
     "Stand in front of a loaded barbell.",
     "While keeping the back as straight as possible, bend your knees, bend forward and grasp the bar using a medium (shoulder width) overhand grip. This will be the starting position of the exercise. Tip: If it is difficult to hold on to the bar with this grip, alternate your grip or use wrist straps.",

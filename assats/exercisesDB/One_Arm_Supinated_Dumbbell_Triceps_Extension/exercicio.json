@@ -1,5 +1,5 @@
 {
-  "id": "a0630a78-0772-442f-862a-905acd43755b",
+  "id": "3a4b6e6e-3ace-40a8-848a-913c161202f7",
   "nome": "One Arm Supinated Dumbbell Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your face as a supinated grip is required to perform this exercise.",
     "Place your non lifting hand on your bicep for support.",

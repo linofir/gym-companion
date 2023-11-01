@@ -1,5 +1,5 @@
 {
-  "id": "e1274f49-277d-4992-a7b6-f3cf46473961",
+  "id": "58236133-4592-4c7d-b700-6af9b4f8de1e",
   "nome": "Dumbbell Bench Press",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Lie down on a flat bench with a dumbbell in each hand resting on top of your thighs. The palms of your hands will be facing each other.",
     "Then, using your thighs to help raise the dumbbells up, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width.",

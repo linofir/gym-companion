@@ -1,5 +1,5 @@
 {
-  "id": "7fdaec9b-1995-4689-ac60-32241c17e5aa",
+  "id": "daf11d54-4a8e-4942-8a84-777261392317",
   "nome": "Gironda Sternum Chins",
   "grupoMuscular": [
     "lats"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Grasp the pull-up bar with a shoulder width underhand grip.",
     "Now hang with your arms fully extended and stick your chest out and lean back. Tip: You will be leaning back throughout the entire movement. This will be your starting position.",

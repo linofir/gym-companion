@@ -1,5 +1,5 @@
 {
-  "id": "1bbc0019-4e6e-4362-8e34-d27906febf00",
+  "id": "67487e95-3db4-4ab0-9126-51f9337d6786",
   "nome": "Sit-Up",
   "grupoMuscular": [
     "abdominals"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
     "Place your hands behind your head and lock them together by clasping your fingers. This is the starting position.",

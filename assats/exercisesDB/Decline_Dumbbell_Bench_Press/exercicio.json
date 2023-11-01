@@ -1,5 +1,5 @@
 {
-  "id": "0a35b117-fb00-4646-bbbd-80f2d70354b4",
+  "id": "1152b509-4c08-4b50-9650-1ac9fcc1c675",
   "nome": "Decline Dumbbell Bench Press",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "Once you are laying down, move the dumbbells in front of you at shoulder width.",

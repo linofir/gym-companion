@@ -1,5 +1,5 @@
 {
-  "id": "e5c6313a-3976-41b3-b4cb-596a6b661443",
+  "id": "ec4ce2fa-b92f-45e2-8c0b-0f3cd571d953",
   "nome": "One Arm Dumbbell Preacher Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Grab a dumbbell with the right arm and place the upper arm on top of the preacher bench or the incline bench. The dumbbell should be held at shoulder length. This will be your starting position.",
     "As you breathe in, slowly lower the dumbbell until your upper arm is extended and the biceps is fully stretched.",

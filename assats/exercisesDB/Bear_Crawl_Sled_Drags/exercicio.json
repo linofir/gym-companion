@@ -1,5 +1,5 @@
 {
-  "id": "b760702c-c48b-4830-bcc4-d9f6b0e0c1b7",
+  "id": "b2914458-ab92-48b3-a12a-f4f84429a67d",
   "nome": "Bear Crawl Sled Drags",
   "grupoMuscular": [
     "quadriceps"
@@ -12,7 +12,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "Wearing either a harness or a loose weight belt, attach the chain to the back so that you will be facing away from the sled. Bend down so that your hands are on the ground. Your back should be flat and knees bent. This is your starting position.",
     "Begin by driving with legs, alternating left and right. Use your hands to maintain balance and to help pull. Try to keep your back flat as you move over a given distance."

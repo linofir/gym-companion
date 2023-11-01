@@ -1,5 +1,5 @@
 {
-  "id": "e6e7b882-502e-43ad-bc0d-0c813e0056a9",
+  "id": "fc1ef125-3a34-45c5-97a4-582c3a6b3bf4",
   "nome": "Pushups",
   "grupoMuscular": [
     "chest"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.",
     "Next, lower yourself downward until your chest almost touches the floor as you inhale.",

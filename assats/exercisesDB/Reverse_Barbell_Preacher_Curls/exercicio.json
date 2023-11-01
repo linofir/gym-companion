@@ -1,5 +1,5 @@
 {
-  "id": "c91543c6-52ef-459a-86d4-fef00ed3fe37",
+  "id": "46aaedef-fe0a-4216-aab7-ee080a29235a",
   "nome": "Reverse Barbell Preacher Curls",
   "grupoMuscular": [
     "biceps"
@@ -10,7 +10,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "e-z curl bar",
   "instrucoes": [
     "Grab an EZ-bar using a shoulder width and palms down (pronated) grip.",
     "Now place the upper part of both arms on top of the preacher bench and have your arms extended. This will be your starting position.",

@@ -1,5 +1,5 @@
 {
-  "id": "f8a03136-6204-4377-8c83-1d671d756212",
+  "id": "83dd1066-09f6-45d6-b667-148371eca0fa",
   "nome": "Box Jump (Multiple Response)",
   "grupoMuscular": [
     "hamstrings"
@@ -14,7 +14,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "plyometrics",
+  "equipamento": "other",
   "instrucoes": [
     "Assume a relaxed stance facing the box or platform approximately an arm\u0027s length away. Arms should be down at the sides and legs slightly bent.",
     "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",

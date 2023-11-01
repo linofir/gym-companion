@@ -1,5 +1,5 @@
 {
-  "id": "bbc7f2f2-d7c3-47ae-919f-58104df2cd20",
+  "id": "3b5a36aa-d376-4240-80ce-e83af10ca82f",
   "nome": "Plate Pinch",
   "grupoMuscular": [
     "forearms"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "static",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
     "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",

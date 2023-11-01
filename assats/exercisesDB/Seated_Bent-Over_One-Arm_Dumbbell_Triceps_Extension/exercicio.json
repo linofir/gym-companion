@@ -1,5 +1,5 @@
 {
-  "id": "5ff15131-a457-4c00-9629-27bf2c8f8306",
+  "id": "31f83ae7-41dd-490a-afd6-21a677ffb495",
   "nome": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Sit down at the end of a flat bench with a dumbbell in one arm using a neutral grip (palms of the hand facing you).",
     "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",

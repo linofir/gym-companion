@@ -1,5 +1,5 @@
 {
-  "id": "f649ae0b-728a-4e53-8365-bf9a1bf76377",
+  "id": "36c963a1-56ac-4d41-9b53-2c0002ede941",
   "nome": "Elevated Cable Rows",
   "grupoMuscular": [
     "lats"
@@ -11,7 +11,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Get a platform of some sort (it can be an aerobics or calf raise platform) that is around 4-6 inches in height.",
     "Place it on the seat of the cable row machine.",

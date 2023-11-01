@@ -1,5 +1,5 @@
 {
-  "id": "d668954e-1f34-4df7-9424-371d176ad90b",
+  "id": "52d27346-ee73-4513-8575-9edb54ca6ffc",
   "nome": "Kipping Muscle Up",
   "grupoMuscular": [
     "lats"
@@ -16,7 +16,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Grip the rings using a false grip, with the base of your palms on top of the rings.",
     "Begin with a movement swinging your legs backward slightly.",

@@ -1,5 +1,5 @@
 {
-  "id": "14702959-1688-4e2e-bf7e-b72a1fe8a0a9",
+  "id": "d4cb88f3-8c96-4b49-8a44-a3315bbfb0e9",
   "nome": "Band Pull Apart",
   "grupoMuscular": [
     "shoulders"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "bands",
   "instrucoes": [
     "Begin with your arms extended straight out in front of you, holding the band with both hands.",
     "Initiate the movement by performing a reverse fly motion, moving your hands out laterally to your sides.",

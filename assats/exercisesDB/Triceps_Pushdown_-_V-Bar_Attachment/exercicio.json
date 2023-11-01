@@ -1,5 +1,5 @@
 {
-  "id": "adf4ecdd-7fd1-4435-a116-5627caadb92d",
+  "id": "ecba4423-5673-4224-9564-57903aafc202",
   "nome": "Triceps Pushdown - V-Bar Attachment",
   "grupoMuscular": [
     "triceps"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Attach a V-Bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
     "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. The thumbs should be higher than the small finger. This is your starting position.",

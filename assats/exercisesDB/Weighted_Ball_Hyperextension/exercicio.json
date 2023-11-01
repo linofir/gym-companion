@@ -1,5 +1,5 @@
 {
-  "id": "6ae143f7-3717-45bc-9e2e-355ee7c86afe",
+  "id": "18ff7da0-8a32-4cd6-8f36-d063b5be15f7",
   "nome": "Weighted Ball Hyperextension",
   "grupoMuscular": [
     "lower back"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "exercise ball",
   "instrucoes": [
     "To begin, lie down on an exercise ball with your torso pressing against the ball and parallel to the floor. The ball of your feet should be pressed against the floor to help keep you balanced. Place a weighted plate under your chin or behind your neck. This is the starting position.",
     "Slowly raise your torso up by bending at the waist and lower back. Remember to exhale during this movement.",

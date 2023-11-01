@@ -1,5 +1,5 @@
 {
-  "id": "aa75ab43-21eb-4c95-846d-26c14e67591e",
+  "id": "4b65ff38-b958-4eb2-9d67-89bdc8337981",
   "nome": "Sandbag Load",
   "grupoMuscular": [
     "quadriceps"
@@ -19,7 +19,8 @@
   "nivel": "beginner",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strongman",
+  "equipamento": "other",
   "instrucoes": [
     "To load sandbags or other objects, begin with the implements placed a distance from the loading platform, typically 50 feet.",
     "Begin by lifting the sandbag. Sandbags are extremely awkward, and the manner of lifting them can vary depending on the particular sandbag used. Reach as far around it as possible, extending through the hips and knees to pull it up high. Shouldering is usually not allowed.",

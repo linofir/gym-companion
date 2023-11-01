@@ -1,5 +1,5 @@
 {
-  "id": "6bb47cdb-a428-4310-9c4c-ad03e97dd366",
+  "id": "74d63499-40be-4513-8a45-71b8ef59a334",
   "nome": "Kettlebell Pass Between The Legs",
   "grupoMuscular": [
     "abdominals"
@@ -12,7 +12,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
   "instrucoes": [
     "Place one kettlebell between your legs and take a comfortable stance. Bend over by pushing your butt out and keeping your back flat.",
     "Pick up a kettlebell and pass it to your other hand between your legs, in the fashion of a \u0022W\u0022. Go back and forth for several repetitions."

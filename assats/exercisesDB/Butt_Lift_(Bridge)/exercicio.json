@@ -1,5 +1,5 @@
 {
-  "id": "a0eb90df-d791-46ac-a54f-f6fc6be0bb3c",
+  "id": "950ee028-6382-4eee-ae89-cfc814cb9ac4",
   "nome": "Butt Lift (Bridge)",
   "grupoMuscular": [
     "glutes"
@@ -10,7 +10,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Lie flat on the floor on your back with the hands by your side and your knees bent. Your feet should be placed around shoulder width. This will be your starting position.",
     "Pushing mainly with your heels, lift your hips off the floor while keeping your back straight. Breathe out as you perform this part of the motion and hold at the top for a second.",

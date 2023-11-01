@@ -1,5 +1,5 @@
 {
-  "id": "4b5334a3-cfae-4ae0-a49b-49f4e3b21aec",
+  "id": "62d5151a-e179-4dcf-b83a-1b4f66b2470a",
   "nome": "Overhead Cable Curl",
   "grupoMuscular": [
     "biceps"
@@ -8,7 +8,8 @@
   "nivel": "intermediate",
   "tipo": "pull",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "To begin, set a weight that is comfortable on each side of the pulley machine. Note: Make sure that the amount of weight selected is the same on each side.",
     "Now adjust the height of the pulleys on each side and make sure that they are positioned at a height higher than that of your shoulders.",

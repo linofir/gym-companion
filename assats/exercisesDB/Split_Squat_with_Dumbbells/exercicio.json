@@ -1,5 +1,5 @@
 {
-  "id": "19c90f3e-0152-4040-8fc1-fe5d90a9551f",
+  "id": "05f74029-c7de-42cf-801b-a013f4c79f1f",
   "nome": "Split Squat with Dumbbells",
   "grupoMuscular": [
     "quadriceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "dumbbell",
   "instrucoes": [
     "Position yourself into a staggered stance with the rear foot elevated and front foot forward.",
     "Hold a dumbbell in each hand, letting them hang at the sides. This will be your starting position.",

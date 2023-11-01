@@ -1,5 +1,5 @@
 {
-  "id": "0f93cfc1-17fa-43c7-9362-28667da121b1",
+  "id": "dd6a4cd0-9223-4155-943a-16c594f69461",
   "nome": "Snatch Balance",
   "grupoMuscular": [
     "quadriceps"
@@ -14,7 +14,8 @@
   "nivel": "intermediate",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
   "instrucoes": [
     "Begin with the feet in the pulling position, the bar racked across the back of the shoulders, and the hands placed in a wide snatch grip.",
     "Pop the bar with an abrupt dip and drive of the knees, and aggressively drive under the bar, transitioning the feet into the receiving position.",

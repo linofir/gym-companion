@@ -1,5 +1,5 @@
 {
-  "id": "1049f807-232a-498e-891f-d3906cc38ac8",
+  "id": "858a87e6-9b06-4150-90c3-b8370939398d",
   "nome": "Parallel Bar Dip",
   "grupoMuscular": [
     "triceps"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.",
     "Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.",

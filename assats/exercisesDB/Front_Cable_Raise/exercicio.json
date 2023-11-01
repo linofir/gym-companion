@@ -1,5 +1,5 @@
 {
-  "id": "41ea0d35-6985-43e2-88fb-9059eb3bc005",
+  "id": "6ffb8f14-38c1-45b0-bd13-23814936a350",
   "nome": "Front Cable Raise",
   "grupoMuscular": [
     "shoulders"
@@ -8,7 +8,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "isolation",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "cable",
   "instrucoes": [
     "Select the weight on a low pulley machine and grasp the single hand cable attachment that is attached to the low pulley with your left hand.",
     "Face away from the pulley and put your arm straight down with the hand cable attachment in front of your thighs at arms\u0027 length with the palms of the hand facing your thighs. This will be your starting position.",

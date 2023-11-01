@@ -1,5 +1,5 @@
 {
-  "id": "88906507-95a7-474d-8808-340c17463813",
+  "id": "3319edb7-cbad-4646-b3ca-0915a56534ed",
   "nome": "Step-up with Knee Raise",
   "grupoMuscular": [
     "glutes"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": "push",
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "body only",
   "instrucoes": [
     "Stand facing a box or bench of an appropriate height with your feet together. This will be your starting position.",
     "Begin the movement by stepping up, putting your left foot on the top of the bench. Extend through the hip and knee of your front leg to stand up on the box. As you stand on the box with your left leg, flex your right knee and hip, bringing your knee as high as you can.",

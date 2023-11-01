@@ -1,5 +1,5 @@
 {
-  "id": "f603362e-609b-4f16-ae23-02fd1cb5f1c0",
+  "id": "c307536e-315e-4a70-9a42-2785fcf0272d",
   "nome": "Balance Board",
   "grupoMuscular": [
     "calves"
@@ -11,7 +11,8 @@
   "nivel": "beginner",
   "tipo": null,
   "mecanica": "compound",
-  "categoria": null,
+  "categoria": "strength",
+  "equipamento": "other",
   "instrucoes": [
     "Place a balance board in front of you.",
     "Stand up on it and try to balance yourself.",
