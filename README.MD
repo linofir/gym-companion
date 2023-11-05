@@ -11,6 +11,12 @@
 * Extract images, ok
 * Create json DB file, ok
 * Create images files, ok
-* Create a consult Method 
-* create prop filters
+* Create a consult Method ok
+* create prop filters ok, basic filters ok
+* Create filter chains
+* Enum for the filters
+
+## Issues
+
+* null values for exercise props
 
