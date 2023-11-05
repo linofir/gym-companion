@@ -1,0 +1,26 @@
+{
+  "id": "503395be-af1b-45b1-a95c-cfd86b2360e2",
+  "nome": "Bent Over Two-Dumbbell Row With Palms In",
+  "grupoMuscular": [
+    "middle back"
+  ],
+  "grupoMuscularSecundario": [
+    "biceps",
+    "lats"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [
+    "With a dumbbell in each hand (palms facing each other), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
+    "While keeping the torso stationary, lift the dumbbells to your side as you breathe out, squeezing your shoulder blades together. On the top contracted position, squeeze the back muscles and hold for a second.",
+    "Slowly lower the weight again to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bent_Over_Two-Dumbbell_Row_With_Palms_In\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bent_Over_Two-Dumbbell_Row_With_Palms_In\\images\\1.jpg"
+  ]
+}

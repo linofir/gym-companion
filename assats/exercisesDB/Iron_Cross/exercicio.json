@@ -1,0 +1,25 @@
+{
+  "id": "3cf4b24c-a475-4ec1-bf4f-0909cd896231",
+  "nome": "Iron Cross",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Iron_Cross\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Iron_Cross\\images\\1.jpg"
+  ]
+}

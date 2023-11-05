@@ -1,0 +1,24 @@
+{
+  "id": "62bb4e92-787c-4a2a-baaf-b46f33c91f7c",
+  "nome": "Reverse Grip Triceps Pushdown",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "cable",
+  "instrucoes": [
+    "Start by setting a bar attachment (straight or e-z) on a high pulley machine.",
+    "Facing the bar attachment, grab it with the palms facing up (supinated grip) at shoulder width. Lower the bar by using your lats until your arms are fully extended by your sides. Tip: Elbows should be in by your sides and your feet should be shoulder width apart from each other. This is the starting position.",
+    "Slowly elevate the bar attachment up as you inhale so it is aligned with your chest. Only the forearms should move and the elbows/upper arms should be stationary by your side at all times.",
+    "Then begin to lower the cable bar back down to the original staring position while exhaling and contracting the triceps hard.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Reverse_Grip_Triceps_Pushdown\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Reverse_Grip_Triceps_Pushdown\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4388a936-131d-4f10-bb1c-a9127fe856bd",
+  "nome": "Push Press - Behind the Neck",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "quadriceps",
+    "triceps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
+  "instrucoes": [
+    "Standing with the weight racked on the back of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, moving the bar in a vertical path.",
+    "Using the momentum generated, finish pressing the weight overhead be extending through the arms.",
+    "Return to the starting position, using your legs to absorb the impact."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Push_Press_-_Behind_the_Neck\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Push_Press_-_Behind_the_Neck\\images\\1.jpg"
+  ]
+}

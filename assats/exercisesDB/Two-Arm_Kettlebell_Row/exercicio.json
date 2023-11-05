@@ -1,0 +1,24 @@
+{
+  "id": "21e819b4-d201-4f95-8172-69cb25fd7eae",
+  "nome": "Two-Arm Kettlebell Row",
+  "grupoMuscular": [
+    "middle back"
+  ],
+  "grupoMuscularSecundario": [
+    "biceps",
+    "lats"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "kettlebells",
+  "instrucoes": [
+    "Place two kettlebells in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position.",
+    "Grab both kettlebells and pull them to your stomach, retracting your shoulder blades and flexing the elbows. Keep your back straight. Lower and repeat."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Two-Arm_Kettlebell_Row\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Two-Arm_Kettlebell_Row\\images\\1.jpg"
+  ]
+}

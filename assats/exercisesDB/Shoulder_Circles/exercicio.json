@@ -1,0 +1,23 @@
+{
+  "id": "19131378-e629-4075-89cf-ef544b94fa90",
+  "nome": "Shoulder Circles",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "traps"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": null,
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you\u0027re seated), gently roll your shoulders forward, up, back, and down.",
+    "Reverse direction. You can do this exercise alternating shoulders or both at the same time."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Shoulder_Circles\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Shoulder_Circles\\images\\1.jpg"
+  ]
+}

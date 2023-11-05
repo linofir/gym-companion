@@ -1,0 +1,24 @@
+{
+  "id": "0c1afa57-6492-44b5-9d14-8ea8449fc413",
+  "nome": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [
+    "Stand up straight while holding a dumbbell in each hand and with an incline bench in front of you.",
+    "While keeping your back straight and maintaining the natural arch of your back, lean forward until your forehead touches the bench in front of you. Let the arms hang in front of you perpendicular to the ground. The palms of your hands should be facing each other and your torso should be parallel to the floor. This will be your starting position.",
+    "Keeping your torso forward and stationary, and the arms straight with a slight bend at the elbows, lift the dumbbells straight to the side until both arms are parallel to the floor. Exhale as you lift the weights. Caution: avoid swinging the torso or bringing the arms back as opposed to the side.",
+    "After a one second contraction at the top, slowly lower the dumbbells back to the starting position.",
+    "Repeat the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench\\images\\1.jpg"
+  ]
+}

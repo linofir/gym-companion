@@ -1,0 +1,25 @@
+{
+  "id": "e7f20568-af1f-4236-a888-e4bbed4e3e5d",
+  "nome": "Seated Biceps",
+  "grupoMuscular": [
+    "biceps"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "shoulders"
+  ],
+  "nivel": "expert",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": "stretching",
+  "equipamento": "body only",
+  "instrucoes": [
+    "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
+    "Attempt to flex your elbows, while your partner prevents any actual movement.",
+    "After 10-20 seconds, relax your arms while your partner gently pulls your wrists up to stretch your biceps. Be sure to let your partner know when the stretch is appropriate to prevent injury or overstretching."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Seated_Biceps\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Seated_Biceps\\images\\1.jpg"
+  ]
+}

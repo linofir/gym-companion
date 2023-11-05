@@ -1,0 +1,26 @@
+{
+  "id": "8b048f64-8f36-436b-a4e5-b66941a53018",
+  "nome": "Trap Bar Deadlift",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "other",
+  "instrucoes": [
+    "For this exercise load a trap bar, also known as a hex bar, to an appropriate weight resting on the ground. Stand in the center of the apparatus and grasp both handles.",
+    "Lower your hips, look forward with your head and keep your chest up.",
+    "Begin the movement by driving through the heels and extend your hips and knees. Avoid rounding your back at all times.",
+    "At the completion of the movement, lower the weight back to the ground under control."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Trap_Bar_Deadlift\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Trap_Bar_Deadlift\\images\\1.jpg"
+  ]
+}

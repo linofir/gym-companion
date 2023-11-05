@@ -1,0 +1,30 @@
+{
+  "id": "b8775247-e76b-4ede-b215-831930197466",
+  "nome": "Double Kettlebell Alternating Hang Clean",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "biceps",
+    "calves",
+    "forearms",
+    "glutes",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "kettlebells",
+  "instrucoes": [
+    "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
+    "Clean one kettlebell to your shoulder and hold on to the other kettlebell.",
+    "With a fluid motion, lower the top kettlebell while driving the bottom kettlebell up."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Double_Kettlebell_Alternating_Hang_Clean\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Double_Kettlebell_Alternating_Hang_Clean\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "84efc949-694e-43a1-887b-7a1f9ae2a76d",
+  "nome": "Drag Curl",
+  "grupoMuscular": [
+    "biceps"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "barbell",
+  "instrucoes": [
+    "Grab a barbell with a supinated grip (palms facing forward) and get your elbows close to your torso and back. This will be your starting position.",
+    "As you exhale, curl the bar up while keeping the elbows to the back as you \u0022Drag\u0022 the bar up by keeping it in contact with your torso. Tip: As you can see, you will not be keeping the elbows pinned to your sides, but instead you will be bringing them back. Also, do not lift your shoulders.",
+    "Slowly go back to the starting position as you keep the bar in contact with the torso at all times.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Drag_Curl\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Drag_Curl\\images\\1.jpg"
+  ]
+}

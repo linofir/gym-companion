@@ -1,0 +1,25 @@
+{
+  "id": "58a0375a-a0b1-459b-91a0-4301840bdb5f",
+  "nome": "Standing Alternating Dumbbell Press",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [
+    "Stand with a dumbbell in each hand. Raise the dumbbells to your shoulders with your palms facing forward and your elbows pointed out. This will be your starting position.",
+    "Extend one arm to press the dumbbell straight up, keeping your off hand in place. Do not lean or jerk the weight during the movement.",
+    "After a brief pause, return the weight to the starting position.",
+    "Repeat for the opposite side, continuing to alternate between arms."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Alternating_Dumbbell_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Alternating_Dumbbell_Press\\images\\1.jpg"
+  ]
+}

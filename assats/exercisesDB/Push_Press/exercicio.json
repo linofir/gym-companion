@@ -1,0 +1,21 @@
+{
+  "id": "0e262943-8cde-47a3-acbc-b1af3a1d8e11",
+  "nome": "Push Press",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "quadriceps",
+    "triceps"
+  ],
+  "nivel": "expert",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "olympic weightlifting",
+  "equipamento": "barbell",
+  "instrucoes": [],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Push_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Push_Press\\images\\1.jpg"
+  ]
+}

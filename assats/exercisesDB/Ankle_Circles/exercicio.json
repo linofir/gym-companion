@@ -1,0 +1,22 @@
+{
+  "id": "e5fd9856-df99-4ba5-9a70-84574eab77a3",
+  "nome": "Ankle Circles",
+  "grupoMuscular": [
+    "calves"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Use a sturdy object like a squat rack to hold yourself.",
+    "Lift the right leg in the air (just around 2 inches from the floor) and perform a circular motion with the big toe. Pretend that you are drawing a big circle with it. Tip: One circle equals 1 repetition. Breathe normally as you perform the movement.",
+    "When you are done with the right foot, then repeat with the left leg."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Ankle_Circles\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Ankle_Circles\\images\\1.jpg"
+  ]
+}

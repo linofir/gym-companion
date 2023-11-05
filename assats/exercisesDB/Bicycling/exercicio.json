@@ -1,0 +1,24 @@
+{
+  "id": "5d0ff648-e10f-456a-b489-218c03964a4c",
+  "nome": "Bicycling",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": null,
+  "mecanica": null,
+  "categoria": "cardio",
+  "equipamento": "other",
+  "instrucoes": [
+    "To begin, seat yourself on the bike and adjust the seat to your height."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bicycling\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bicycling\\images\\1.jpg"
+  ]
+}

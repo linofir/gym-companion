@@ -1,0 +1,29 @@
+{
+  "id": "6b9a4f42-04b5-45e8-8c07-631ea3796a6c",
+  "nome": "Farmer\u0027s Walk",
+  "grupoMuscular": [
+    "forearms"
+  ],
+  "grupoMuscularSecundario": [
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+  ],
+  "nivel": "intermediate",
+  "tipo": null,
+  "mecanica": "compound",
+  "categoria": "strongman",
+  "equipamento": "other",
+  "instrucoes": [
+    "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren\u0027t available. Begin by standing between the implements.",
+    "After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.",
+    "Walk taking short, quick steps, and don\u0027t forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Farmer\u0027s_Walk\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Farmer\u0027s_Walk\\images\\1.jpg"
+  ]
+}

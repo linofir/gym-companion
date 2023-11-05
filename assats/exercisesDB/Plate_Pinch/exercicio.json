@@ -1,0 +1,24 @@
+{
+  "id": "3b5a36aa-d376-4240-80ce-e83af10ca82f",
+  "nome": "Plate Pinch",
+  "grupoMuscular": [
+    "forearms"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "other",
+  "instrucoes": [
+    "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
+    "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",
+    "Squeeze the plate with your fingers and thumb. Hold this position for as long as you can.",
+    "Repeat for the recommended amount of sets prescribed in your program.",
+    "Switch arms and repeat the movements."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Plate_Pinch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Plate_Pinch\\images\\1.jpg"
+  ]
+}

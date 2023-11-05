@@ -1,0 +1,22 @@
+{
+  "id": "c7bbe12b-8a30-4198-a1c2-64443aedbb82",
+  "nome": "Triceps Stretch",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [
+    "lats"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Reach your hand behind your head, grasp your elbow and gently pull. Hold for 10 to 20 seconds, then switch sides."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Triceps_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Triceps_Stretch\\images\\1.jpg"
+  ]
+}

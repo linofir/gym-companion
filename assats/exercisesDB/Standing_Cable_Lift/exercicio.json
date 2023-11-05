@@ -1,0 +1,29 @@
+{
+  "id": "d373162a-4d7a-4944-957e-f4e3906a8759",
+  "nome": "Standing Cable Lift",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [
+    "shoulders"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "cable",
+  "instrucoes": [
+    "Connect a standard handle on a tower, and move the cable to the lowest pulley position.",
+    "With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm\u00E2\u20AC\u2122s length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.",
+    "With your feet positioned shoulder width apart, squat down and grab the handle with both hands. Your arms should still be fully extended.",
+    "In one motion, pull the handle up and across your body until your arms are in a fully-extended position above your head.",
+    "Keep your back straight and your arms close to your body as you pivot your back foot and straighten your legs to get a full range of motion.",
+    "Retract your arms and then your body. Return to the neutral position in a slow and controlled manner.",
+    "Repeat to failure.",
+    "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Cable_Lift\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Cable_Lift\\images\\1.jpg"
+  ]
+}

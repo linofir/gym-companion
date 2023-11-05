@@ -1,0 +1,29 @@
+{
+  "id": "0623e8e5-615c-4555-abaa-52341ac73b6f",
+  "nome": "Conan\u0027s Wheel",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abdominals",
+    "biceps",
+    "calves",
+    "forearms",
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "nivel": "intermediate",
+  "tipo": null,
+  "mecanica": "compound",
+  "categoria": "strongman",
+  "equipamento": "other",
+  "instrucoes": [
+    "With the weight loaded, take a zurcher hold on the end of the implement. Place the bar in the crook of the elbow and hold onto your wrist. Try to keep the weight off of the forearms.",
+    "Begin by lifting the weight from the ground. Keep a tight, upright posture as you being to walk, taking short, fast steps. Look up and away as you turn in a circle. Do not hold your breath during the event. Continue walking until you complete one or more complete turns."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Conan\u0027s_Wheel\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Conan\u0027s_Wheel\\images\\1.jpg"
+  ]
+}

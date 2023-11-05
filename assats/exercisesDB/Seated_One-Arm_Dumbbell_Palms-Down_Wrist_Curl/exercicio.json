@@ -1,0 +1,25 @@
+{
+  "id": "8bc4a227-8e8f-4e83-9e8e-ae4eb51d0c67",
+  "nome": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+  "grupoMuscular": [
+    "forearms"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [
+    "Sit on a flat bench with a dumbbell in your right hand.",
+    "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
+    "Lean forward and place your right forearm on top of your upper right thigh with your palm down. Tip: Make sure that the back of the wrist lies on top of your knees. This will be your starting position.",
+    "Lower the dumbbell as far as possible as you keep a tight grip on the dumbbell. Inhale as you perform this movement.",
+    "Now curl the dumbbell as high as possible as you contract the forearms and as you exhale. Keep the contraction for a second before you lower again. Tip: The only movement should happen at the wrist.",
+    "Perform for the recommended amount of repetitions, switch arms and repeat the movement."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl\\images\\1.jpg"
+  ]
+}

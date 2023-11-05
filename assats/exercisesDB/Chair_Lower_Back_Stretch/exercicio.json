@@ -1,0 +1,24 @@
+{
+  "id": "3f5f2707-8b7e-4ec5-9d77-013a4693bace",
+  "nome": "Chair Lower Back Stretch",
+  "grupoMuscular": [
+    "lats"
+  ],
+  "grupoMuscularSecundario": [
+    "lower back"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Sit upright on a chair.",
+    "Bend to one side with your arm over your head. You can hold onto the chair with your free hand.",
+    "Hold for 10 seconds, and repeat for your other side."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Chair_Lower_Back_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Chair_Lower_Back_Stretch\\images\\1.jpg"
+  ]
+}

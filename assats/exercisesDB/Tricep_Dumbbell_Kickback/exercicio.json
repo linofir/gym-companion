@@ -1,0 +1,23 @@
+{
+  "id": "10192795-83bd-4362-876d-95368d6b6130",
+  "nome": "Tricep Dumbbell Kickback",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [
+    "Start with a dumbbell in each hand and your palms facing your torso. Keep your back straight with a slight bend in the knees and bend forward at the waist. Your torso should be almost parallel to the floor. Make sure to keep your head up. Your upper arms should be close to your torso and parallel to the floor. Your forearms should be pointed towards the floor as you hold the weights. There should be a 90-degree angle formed between your forearm and upper arm. This is your starting position.",
+    "Now, while keeping your upper arms stationary, exhale and use your triceps to lift the weights until the arm is fully extended. Focus on moving the forearm.",
+    "After a brief pause at the top contraction, inhale and slowly lower the dumbbells back down to the starting position.",
+    "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Tricep_Dumbbell_Kickback\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Tricep_Dumbbell_Kickback\\images\\1.jpg"
+  ]
+}

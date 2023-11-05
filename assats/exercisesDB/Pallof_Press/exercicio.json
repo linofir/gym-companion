@@ -1,0 +1,29 @@
+{
+  "id": "65156560-7db2-4026-b54c-564ad96c2fca",
+  "nome": "Pallof Press",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "cable",
+  "instrucoes": [
+    "Connect a standard handle to a tower, and\u00E2\u20AC\u201Dif possible\u00E2\u20AC\u201Dposition the cable to shoulder height. If not, a low pulley will suffice.",
+    "With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately arm\u00E2\u20AC\u2122s length away from the pulley, with the tension of the weight on the cable.",
+    "With your feet positioned hip-width apart and knees slightly bent, hold the cable to the middle of your chest. This will be your starting position.",
+    "Press the cable away from your chest, fully extending both arms. You core should be tight and engaged.",
+    "Hold the repetition for several seconds before returning to the starting position.",
+    "At the conclusion of the set, repeat facing the other direction."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Pallof_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Pallof_Press\\images\\1.jpg"
+  ]
+}

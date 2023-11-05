@@ -1,0 +1,23 @@
+{
+  "id": "dec4d7df-8f2d-49bd-b61b-389b099c4a0d",
+  "nome": "Hip Flexion with Band",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "bands",
+  "instrucoes": [
+    "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
+    "Face away from the attachment point of the band.",
+    "Keeping your head and your chest up, raise your knee up to 90 degrees and pause.",
+    "Return the leg to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Hip_Flexion_with_Band\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Hip_Flexion_with_Band\\images\\1.jpg"
+  ]
+}

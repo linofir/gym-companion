@@ -1,0 +1,23 @@
+{
+  "id": "69c4b517-6fe2-4f94-ad68-938ff9c88e17",
+  "nome": "One-Arm Kettlebell Swings",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "kettlebells",
+  "instrucoes": [],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One-Arm_Kettlebell_Swings\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/One-Arm_Kettlebell_Swings\\images\\1.jpg"
+  ]
+}

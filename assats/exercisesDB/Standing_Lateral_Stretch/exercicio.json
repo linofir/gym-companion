@@ -1,0 +1,23 @@
+{
+  "id": "16d871f2-b347-4aa3-ba08-5d0ab2a766af",
+  "nome": "Standing Lateral Stretch",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Take a slightly wider than hip distance stance with your knees slightly bent.",
+    "Place your right hand on your right hip to support the spine.",
+    "Raise your left arm in a vertical line and place your left hand behind your head. Keep it there as you incline your torso to the right.",
+    "Keep your weight evenly distributed between both legs (don\u0027t lean into your left hip). Switch sides."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Lateral_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Standing_Lateral_Stretch\\images\\1.jpg"
+  ]
+}

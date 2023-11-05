@@ -1,0 +1,28 @@
+{
+  "id": "ded030dc-7579-412b-a04c-b89fa3bf02cc",
+  "nome": "Cable Deadlifts",
+  "grupoMuscular": [
+    "quadriceps"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "cable",
+  "instrucoes": [
+    "Move the cables to the bottom of the towers and select an appropriate weight. Stand directly in between the uprights.",
+    "To begin, squat down be flexing your hips and knees until you can reach the handles.",
+    "After grasping them, begin your ascent. Driving through your heels extend your hips and knees keeping your hands hanging at your side. Keep your head and chest up throughout the movement.",
+    "After reaching a full standing position, Return to the starting position and repeat."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cable_Deadlifts\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cable_Deadlifts\\images\\1.jpg"
+  ]
+}

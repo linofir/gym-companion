@@ -1,0 +1,27 @@
+{
+  "id": "429f8124-c95a-4d6b-95f9-5f589e6a8f2b",
+  "nome": "Close-Grip Push-Up off of a Dumbbell",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [
+    "abdominals",
+    "chest",
+    "shoulders"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "body only",
+  "instrucoes": [
+    "Lie on the floor and place your hands on an upright dumbbell. Supporting your weight on your toes and hands, keep your torso rigid and your elbows in with your arms straight. This will be your starting position.",
+    "Lower your body, allowing the elbows to flex while you inhale. Keep your body straight, not allowing your hips to rise or sag.",
+    "Press yourself back up to the starting position by extending the elbows. Breathe out as you perform this step.",
+    "After a pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Close-Grip_Push-Up_off_of_a_Dumbbell\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Close-Grip_Push-Up_off_of_a_Dumbbell\\images\\1.jpg"
+  ]
+}

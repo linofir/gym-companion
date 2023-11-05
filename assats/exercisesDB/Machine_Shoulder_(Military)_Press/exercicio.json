@@ -1,0 +1,26 @@
+{
+  "id": "f793baa2-9d0e-4161-aed8-37cd775cb41b",
+  "nome": "Machine Shoulder (Military) Press",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "machine",
+  "instrucoes": [
+    "Sit down on the Shoulder Press Machine and select the weight.",
+    "Grab the handles to your sides as you keep the elbows bent and in line with your torso. This will be your starting position.",
+    "Now lift the handles as you exhale and you extend the arms fully. At the top of the position make sure that you hold the contraction for a second.",
+    "Lower the handles slowly back to the starting position as you inhale.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Machine_Shoulder_(Military)_Press\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Machine_Shoulder_(Military)_Press\\images\\1.jpg"
+  ]
+}

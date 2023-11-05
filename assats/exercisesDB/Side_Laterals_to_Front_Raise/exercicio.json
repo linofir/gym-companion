@@ -1,0 +1,27 @@
+{
+  "id": "bdfe254d-9b70-4cb7-b7d4-f3b72b075b60",
+  "nome": "Side Laterals to Front Raise",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "traps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [
+    "In a standing position, hold a pair of dumbbells at your side. This will be your starting position.",
+    "Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.",
+    "At the top of the exercise move the weights out in front of you, keeping your arms extended.",
+    "Lower the weights with a controlled motion.",
+    "On the next repetition, raise the weights in front of you to shoulder height before moving the weights laterally to your sides.",
+    "Lower the weights to the starting position."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Laterals_to_Front_Raise\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Laterals_to_Front_Raise\\images\\1.jpg"
+  ]
+}

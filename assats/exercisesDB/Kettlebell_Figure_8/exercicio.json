@@ -1,0 +1,24 @@
+{
+  "id": "60806548-813d-4333-b3c9-5013630f0187",
+  "nome": "Kettlebell Figure 8",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [
+    "hamstrings",
+    "shoulders"
+  ],
+  "nivel": "intermediate",
+  "tipo": "pull",
+  "mecanica": null,
+  "categoria": "strength",
+  "equipamento": "kettlebells",
+  "instrucoes": [
+    "Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.",
+    "Pick up a kettlebell and pass it to your other hand between your legs. The receiving hand should reach from behind the legs. Go back and forth for several repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Figure_8\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Kettlebell_Figure_8\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "83dd1066-09f6-45d6-b667-148371eca0fa",
+  "nome": "Box Jump (Multiple Response)",
+  "grupoMuscular": [
+    "hamstrings"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "quadriceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "plyometrics",
+  "equipamento": "other",
+  "instrucoes": [
+    "Assume a relaxed stance facing the box or platform approximately an arm\u0027s length away. Arms should be down at the sides and legs slightly bent.",
+    "Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.",
+    "Immediately drop or jump back down to the original starting place; then repeat the sequence."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Box_Jump_(Multiple_Response)\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Box_Jump_(Multiple_Response)\\images\\1.jpg"
+  ]
+}

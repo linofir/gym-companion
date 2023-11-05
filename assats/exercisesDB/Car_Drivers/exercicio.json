@@ -1,0 +1,25 @@
+{
+  "id": "53ec629d-07c5-4d29-9b2d-604387b01504",
+  "nome": "Car Drivers",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "forearms"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "barbell",
+  "instrucoes": [
+    "While standing upright, hold a barbell plate in both hands at the 3 and 9 o\u0027clock positions. Your palms should be facing each other and your arms should be extended straight out in front of you. This will be your starting position.",
+    "Initiate the movement by rotating the plate as far to one side as possible. Use the same type of movement you would use to turn a steering wheel to one side.",
+    "Reverse the motion, turning it all the way to the opposite side.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Car_Drivers\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Car_Drivers\\images\\1.jpg"
+  ]
+}

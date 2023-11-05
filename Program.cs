@@ -1,28 +1,23 @@
-﻿using GymCompanion.Modules;
+﻿using GymCompanion.DataBase;
+using GymCompanion.Modules;
+
 
 Console.WriteLine("Bem Vindo ao Gym Companion");
 
-Exercicio novoExercicio = new("crucifixo", "peito");
-Exercicio novoExercicio2 = new("legpress", "pernas");
-Exercicio novoExercicio3 = new("remada", "costas");
+Exercicios listaData = new("listaDB");
+CreateDB.ConsultDB(listaData);
 
-Serie tipoSerie = new(4,20,"ativo");
-Serie tipoSerie2 = new(4,20);
-Serie tipoSerie3 = new(3,20,"ativo");
 
-TreinoExercicio novotreino = new(novoExercicio, tipoSerie);
-TreinoExercicio novotreino2 = new(novoExercicio2, tipoSerie2);
-TreinoExercicio novotreino3 = new(novoExercicio3, tipoSerie2);
+//listaData.ExibirExercicios();
+// Filter.FilterByName(listaData, "Zercher Squats");
+// Filter.FilterByID(listaData, "9db21b40-e86f-43ea-ab34-e8430bb0a637");
+//Filter.FilterByNivel(listaData, "intermediate");
+// Filter.FilterByCategoria(listaData, "strength");
+// Filter.FilterByGrupoMuscular(listaData, "biceps");
 
-Exercicios todosExercicios = new("geral");
 
-todosExercicios.AddExercicio(novotreino);
-todosExercicios.AddExercicio(novotreino2);
-todosExercicios.AddExercicio(novotreino3);
+Filter.ExibirGruposMusculares(listaData);
 
-todosExercicios.ExibirExercicios();
 
-todosExercicios.RemoveExercicio(novotreino3);
 
-todosExercicios.ExibirExercicios();
 

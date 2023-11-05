@@ -1,0 +1,27 @@
+{
+  "id": "2bf89182-72b4-4e9b-8ca3-495bc70bcc1b",
+  "nome": "Bench Press with Chains",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "lats",
+    "shoulders"
+  ],
+  "nivel": "expert",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "powerlifting",
+  "equipamento": "barbell",
+  "instrucoes": [
+    "Adjust the leader chain, shortening it to the desired length.Place the chains on the sleeves of the bar.",
+    "Lying on the bench, get your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement. However wide your grip, it should cover the ring on the bar.",
+    "Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart. Lower the bar to your lower chest or upper stomach. The bar, wrist, and elbow should stay in line at all times.",
+    "Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bench_Press_with_Chains\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Bench_Press_with_Chains\\images\\1.jpg"
+  ]
+}

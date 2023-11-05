@@ -1,0 +1,26 @@
+{
+  "id": "d4cb88f3-8c96-4b49-8a44-a3315bbfb0e9",
+  "nome": "Band Pull Apart",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [
+    "middle back",
+    "traps"
+  ],
+  "nivel": "beginner",
+  "tipo": "pull",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "bands",
+  "instrucoes": [
+    "Begin with your arms extended straight out in front of you, holding the band with both hands.",
+    "Initiate the movement by performing a reverse fly motion, moving your hands out laterally to your sides.",
+    "Keep your elbows extended as you perform the movement, bringing the band to your chest. Ensure that you keep your shoulders back during the exercise.",
+    "Pause as you complete the movement, returning to the starting position under control."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Band_Pull_Apart\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Band_Pull_Apart\\images\\1.jpg"
+  ]
+}

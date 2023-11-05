@@ -1,0 +1,24 @@
+{
+  "id": "3ee5094a-9c9f-486e-821e-0de4de0d496e",
+  "nome": "Side Lying Groin Stretch",
+  "grupoMuscular": [
+    "adductors"
+  ],
+  "grupoMuscularSecundario": [
+    "hamstrings"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Start off by lying on your right side and bend your right knee in front of you to stabilize the torso.",
+    "Rest your head on your right hand or shoulder. Lift your left leg upward and hold it by the back of the knee (easier) or the foot (harder).",
+    "Pull your left knee in toward your left shoulder and simultaneously press your foot or knee down to the floor. To intensify this stretch, straighten your left leg. Switch sides."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Lying_Groin_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Side_Lying_Groin_Stretch\\images\\1.jpg"
+  ]
+}

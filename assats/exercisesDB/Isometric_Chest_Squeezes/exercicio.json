@@ -1,0 +1,27 @@
+{
+  "id": "34e0e056-9cc7-47a4-9241-fc03c8bf2d85",
+  "nome": "Isometric Chest Squeezes",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "shoulders",
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "compound",
+  "categoria": "plyometrics",
+  "equipamento": "body only",
+  "instrucoes": [
+    "While either seating or standing, bend your arms at a 90-degree angle and place the palms of your hands together in front of your chest. Tip: Your hands should be open with the palms together and fingers facing forward (perpendicular to your torso).",
+    "Push both hands against each other as you contract your chest. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.",
+    "Hold for the recommended number of seconds.",
+    "Now release the tension slowly.",
+    "Rest for the recommended amount of time and repeat."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Isometric_Chest_Squeezes\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Isometric_Chest_Squeezes\\images\\1.jpg"
+  ]
+}

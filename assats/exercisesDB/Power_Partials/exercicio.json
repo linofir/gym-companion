@@ -1,0 +1,24 @@
+{
+  "id": "6e86e4ba-20a4-4135-bdcd-833fc5127af3",
+  "nome": "Power Partials",
+  "grupoMuscular": [
+    "shoulders"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "isolation",
+  "categoria": "strength",
+  "equipamento": "dumbbell",
+  "instrucoes": [
+    "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
+    "The palms of the hands should be facing your torso. Your feet should be about shoulder width apart. This will be your starting position.",
+    "Keeping your arms straight and the torso stationary, lift the weights out to your sides until they are about shoulder level height while exhaling.",
+    "Feel the contraction for a second and begin to lower the weights back down to the starting position while inhaling. Tip: Keep the palms facing down with the little finger slightly higher while lifting and lowering the weights as it will concentrate the stress on your shoulders mainly.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Power_Partials\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Power_Partials\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "573301e6-2438-47b5-982f-ee07cccc46a8",
+  "nome": "Chest Stretch on Stability Ball",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "isolation",
+  "categoria": "stretching",
+  "equipamento": "exercise ball",
+  "instrucoes": [
+    "Get on your hands and knees next to an exercise ball.",
+    "Place your elbows on top of the ball, keeping your arm out to your side. This will be your starting position.",
+    "Lower your torso towards the floor, keeping your elbow on top of the ball. Hold the stretch for 20-30 seconds, and repeat with the other arm."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Chest_Stretch_on_Stability_Ball\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Chest_Stretch_on_Stability_Ball\\images\\1.jpg"
+  ]
+}

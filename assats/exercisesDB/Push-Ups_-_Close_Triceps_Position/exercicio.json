@@ -1,0 +1,26 @@
+{
+  "id": "5bd6b12a-dfeb-44b6-aed8-8caf5e1fd1da",
+  "nome": "Push-Ups - Close Triceps Position",
+  "grupoMuscular": [
+    "triceps"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "shoulders"
+  ],
+  "nivel": "intermediate",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "body only",
+  "instrucoes": [
+    "Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms\u0027 length.",
+    "Lower yourself until your chest almost touches the floor as you inhale.",
+    "Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.",
+    "After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Push-Ups_-_Close_Triceps_Position\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Push-Ups_-_Close_Triceps_Position\\images\\1.jpg"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "15e3035b-ba4f-4946-b766-b94f0b558f2f",
+  "nome": "Lateral Bound",
+  "grupoMuscular": [
+    "adductors"
+  ],
+  "grupoMuscularSecundario": [
+    "abductors",
+    "calves",
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "plyometrics",
+  "equipamento": "body only",
+  "instrucoes": [
+    "Assume a half squat position facing 90 degrees from your direction of travel. This will be your starting position.",
+    "Allow your lead leg to do a countermovement inward as you shift your weight to the outside leg.",
+    "Immediately push off and extend, attempting to bound to the side as far as possible.",
+    "Upon landing, immediately push off in the opposite direction, returning to your original start position.",
+    "Continue back and forth for several repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Lateral_Bound\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Lateral_Bound\\images\\1.jpg"
+  ]
+}

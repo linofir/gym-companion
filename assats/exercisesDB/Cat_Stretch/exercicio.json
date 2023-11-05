@@ -1,0 +1,25 @@
+{
+  "id": "ba4c92a0-7198-4919-b089-476d5328bfa5",
+  "nome": "Cat Stretch",
+  "grupoMuscular": [
+    "lower back"
+  ],
+  "grupoMuscularSecundario": [
+    "middle back",
+    "traps"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": null,
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Position yourself on the floor on your hands and knees.",
+    "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
+    "Hold for 15 seconds."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cat_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cat_Stretch\\images\\1.jpg"
+  ]
+}

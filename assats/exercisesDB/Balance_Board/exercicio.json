@@ -1,0 +1,25 @@
+{
+  "id": "c307536e-315e-4a70-9a42-2785fcf0272d",
+  "nome": "Balance Board",
+  "grupoMuscular": [
+    "calves"
+  ],
+  "grupoMuscularSecundario": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "nivel": "beginner",
+  "tipo": null,
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "other",
+  "instrucoes": [
+    "Place a balance board in front of you.",
+    "Stand up on it and try to balance yourself.",
+    "Hold the balance for as long as desired."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Balance_Board\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Balance_Board\\images\\1.jpg"
+  ]
+}

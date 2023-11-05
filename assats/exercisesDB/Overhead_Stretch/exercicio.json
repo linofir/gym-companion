@@ -1,0 +1,26 @@
+{
+  "id": "fd97d42b-426a-4f9e-a84d-b46369b3d154",
+  "nome": "Overhead Stretch",
+  "grupoMuscular": [
+    "abdominals"
+  ],
+  "grupoMuscularSecundario": [
+    "chest",
+    "forearms",
+    "lats",
+    "triceps"
+  ],
+  "nivel": "beginner",
+  "tipo": "static",
+  "mecanica": "compound",
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.",
+    "To create a full torso stretch, pull your tailbone down and stabilize your torso as you do this. Stretch the muscles on both the front and the back of the torso."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Overhead_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Overhead_Stretch\\images\\1.jpg"
+  ]
+}

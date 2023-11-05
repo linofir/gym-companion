@@ -1,0 +1,22 @@
+{
+  "id": "defadd85-249d-4f71-b374-c9a97995d7ff",
+  "nome": "Groin and Back Stretch",
+  "grupoMuscular": [
+    "adductors"
+  ],
+  "grupoMuscularSecundario": [],
+  "nivel": "intermediate",
+  "tipo": "static",
+  "mecanica": "compound",
+  "categoria": "stretching",
+  "equipamento": null,
+  "instrucoes": [
+    "Sit on the floor with your knees bent and feet together.",
+    "Interlock your fingers behind your head. This will be your starting position.",
+    "Curl downwards, bringing your elbows to the inside of your thighs. After a brief pause, return to the starting position with your head up and your back straight. Repeat for 10-20 repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Groin_and_Back_Stretch\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Groin_and_Back_Stretch\\images\\1.jpg"
+  ]
+}

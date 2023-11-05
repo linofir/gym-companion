@@ -1,0 +1,28 @@
+{
+  "id": "1fa4d91e-2851-4ae6-99ce-a6a245c64735",
+  "nome": "Cross Over - With Bands",
+  "grupoMuscular": [
+    "chest"
+  ],
+  "grupoMuscularSecundario": [
+    "biceps",
+    "shoulders"
+  ],
+  "nivel": "beginner",
+  "tipo": "push",
+  "mecanica": "compound",
+  "categoria": "strength",
+  "equipamento": "bands",
+  "instrucoes": [
+    "Secure an exercise band around a stationary post.",
+    "While facing away from the post, grab the handles on both ends of the band and step forward enough to create tension on the band.",
+    "Raise your arms to the sides, parallel to the floor, perpendicular to your torso (your torso and the arms should resemble the letter \u0022T\u0022) and with the palms facing forward. Have them extended with a slight bend at the elbows. This will be your starting position.",
+    "While keeping your arms straight, bring them across your chest in a semicircular motion to the front as you exhale and flex your pecs. Hold the contraction for a second.",
+    "Slowly return to the starting position as you inhale.",
+    "Perform for the recommended amount of repetitions."
+  ],
+  "imagens": [
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cross_Over_-_With_Bands\\images\\0.jpg",
+    "C:/Users/lino/Projetos_Programa\u00E7\u00E3o/gym-companion/assats/exercisesDB/Cross_Over_-_With_Bands\\images\\1.jpg"
+  ]
+}
