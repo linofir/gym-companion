@@ -22,7 +22,7 @@ class Exercicios
         }else
         {
             listaExercicios.Add(exercicioSelecionado);
-            Console.WriteLine($"{exercicioSelecionado!.Nome} foi adicionado\n");
+            //Console.WriteLine($"{exercicioSelecionado!.Nome} foi adicionado\n");
             //exercicioSelecionado.Id = Guid.NewGuid().ToString();
         }
 
