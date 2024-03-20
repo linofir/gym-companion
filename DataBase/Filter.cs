@@ -3,24 +3,23 @@ namespace GymCompanion.DataBase;
 
 public enum Musculos
 {
-    Null = 0,
-    Abdominals,
-    Hamstrings,
-    Adductors,
-    Quadriceps,
-    Biceps,
-    Shoulders,
-    Chest,
-    MiddleBack,
-    Calves,
-    Glutes,
-    LowerBack,
-    Lats,
-    Triceps,
-    Traps,
-    Forearms,
-    Neck,
-    Abductors
+    abdominals,
+    hamstrings,
+    adductors,
+    quadriceps,
+    biceps,
+    shoulders,
+    chest,
+    middleback,
+    calves,
+    glutes,
+    lowerback,
+    lats,
+    triceps,
+    traps,
+    forearms,
+    neck,
+    abductors,
 }
 
 public enum Filtros
@@ -36,40 +35,68 @@ public enum Filtros
 }
 internal class Filter
 {
-    public List<string> MuscString = new()
+    private List<string> FiltrosString = new()
     {
-        "",
-        "Abdominals",
-        "Hamstrings",
-        "Adductors",
-        "Quadriceps",
-        "Biceps",
-        "Shoulders",
-        "Chest",
-        "MiddleBack",
-        "Calves",
-        "Glutes",
-        "LowerBack",
-        "Lats",
-        "Triceps",
-        "Traps",
-        "Forearms",
-        "Neck",
-        "Abductors",
+        "Id",
+        "Nome",
+        "GrupoMuscular",
+        "Nivel",
+        "Mecanica",
+        "Categoria",
+        "Tipo",
+        "Equipamento"
+       
     };
-    public static void FilterBy(Exercicios listaConsulta, string nome)
+    public static void FilterBy(Exercicios listaConsulta, Filtros filtroSelecionado, string value)
     {
-        var exerciciosEncontrados = listaConsulta.listaExercicios.Where(ex => ex.Nome!.Contains(nome)).ToList();
-        if(exerciciosEncontrados != null)
+        // int filtroIndex = (int)filtroSelecionado;
+        // string filtro = FiltrosString[filtroIndex];
+        switch(filtroSelecionado)
         {
-            Console.WriteLine($"Foi encontrado {exerciciosEncontrados.Count} exercício(s): \n");
-            int counter = 0;
-            foreach (var exercicio in exerciciosEncontrados)
-            {
-                counter += 1;
-                Console.WriteLine($"Exercício {counter}: \n{exercicio.Descricao}");
-            }
-        }else Console.WriteLine("Nenhum Exercício encontrado");
+            case Filtros.Id:
+            Console.WriteLine(value);
+            FilterByID(listaConsulta, value);
+            break;
+            case Filtros.Nome:
+            Console.WriteLine(value);
+            FilterByName(listaConsulta, value);
+            break;
+            case Filtros.GrupoMuscular:
+            Console.WriteLine(value);
+            //FilterByGrupoMuscular(listaConsulta, value)
+            break;
+            case Filtros.Nivel:
+            Console.WriteLine(value);
+            FilterByNivel(listaConsulta, value);
+            break;
+            case Filtros.Mecanica:
+            Console.WriteLine(value);
+            break;
+            case Filtros.Categoria:
+            Console.WriteLine(value);
+            FilterByCategoria(listaConsulta, value);
+            break;
+            case Filtros.Tipo:
+            Console.WriteLine(value);
+            break;
+            case Filtros.Equipamento:
+            Console.WriteLine(value);
+            FilterByGrupoEquip(listaConsulta, value);
+            break;
+
+        }   
+
+        // var exerciciosEncontrados = listaConsulta.listaExercicios.Where(ex => ex.Nome!.Contains(value)).ToList();
+        // if(exerciciosEncontrados != null)
+        // {
+        //     Console.WriteLine($"Foi encontrado {exerciciosEncontrados.Count} exercício(s): \n");
+        //     int counter = 0;
+        //     foreach (var exercicio in exerciciosEncontrados)
+        //     {
+        //         counter += 1;
+        //         Console.WriteLine($"Exercício {counter}: \n{exercicio.Descricao}");
+        //     }
+        // }else Console.WriteLine("Nenhum Exercício encontrado");
         
     }
 
@@ -148,7 +175,7 @@ internal class Filter
     public static Exercicios FilterByGrupoMuscular(Exercicios listaConsulta, Musculos musculo)
     {
         string grupoMuscular = musculo.ToString();
-        var exerciciosEncontrados = listaConsulta.listaExercicios.Where(ex => ex.GrupoMuscular!.Contains(grupoMuscular)).ToList();
+        var exerciciosEncontrados = listaConsulta.listaExercicios.Where(ex => ex.GrupoMuscular!.Contains(musculo.ToString())).ToList();
         Exercicios listaFiltrada = new("listaFiltrada");
         if(exerciciosEncontrados != null)
         {
@@ -196,7 +223,7 @@ internal class Filter
             {
                 counter += 1;
                 string musculoUpper = char.ToUpper(musculo[0]) + musculo.Substring(1);
-                Console.WriteLine($"{musculoUpper},");
+                Console.WriteLine($"{musculo},");
             }
         }else Console.WriteLine("Nenhum Exercício encontrado");
     }

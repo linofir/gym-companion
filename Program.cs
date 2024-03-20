@@ -12,9 +12,10 @@ CreateDB.ConsultDB(listaData);
 // Filter.FilterByName(listaData, "Zercher Squats");
 // Filter.FilterByID(listaData, "9db21b40-e86f-43ea-ab34-e8430bb0a637");
 // Filter.FilterByCategoria(listaData, "strength");
-// Filter.ExibirGruposMusculares(listaData);
+//Filter.ExibirGruposMusculares(listaData);
 
-var listaFiltradaMusc = Filter.FilterByGrupoMuscular(listaData, Musculos.Biceps);
+//var listaFiltradaMusc = Filter.FilterByGrupoMuscular(listaData, Musculos.quadriceps);
+Filter.FilterBy(listaData, Filtros.Nivel, "beginner");
 
 //var listaFiltradaCategoria = Filter.FilterByCategoria(listaFiltradaMusc, "strength");
 
